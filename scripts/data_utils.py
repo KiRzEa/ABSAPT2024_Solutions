@@ -98,9 +98,6 @@ class ATEProcessor(DataProcessor):
     def get_labels(self, domain_type, cls_token):
         """See base class."""
 
-        sentiment = ['negative', 'neutral', 'positive']
-        # seqlabs = ['O',  'I']
-        # 'P' means PAD, 'M' means IMP.
         seqlabs = [cls_token, 'B', 'I', 'O']
         label_list = []
         
@@ -140,8 +137,6 @@ def convert_examples_to_features(examples, label_list, max_seq_length,
         orig_tokens = example.text_a.strip().split()
         labels = example.label
 
-        exist_imp_aspect = 0
-        exist_imp_opinion = 0
 
         bert_tokens_a = orig_tokens
 
