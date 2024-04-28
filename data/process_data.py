@@ -39,7 +39,7 @@ def process_label(example, tokenizer):
 
     aspect_span = (aspect_start_index, aspect_end_index)
 
-    return f'{aspect_span}'
+    return aspect_span
 
 def preprocess_data(data_dir, output_dir, tokenizer):
 
