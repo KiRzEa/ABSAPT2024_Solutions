@@ -36,10 +36,10 @@ def process_label(example, tokenizer):
             aspect_start_index = i
             aspect_end_index = i + len(aspect_3.split())
             break
- 
+
     aspect_span = (aspect_start_index, aspect_end_index)
 
-    return f"{aspect_span}"
+    return f'{aspect_span}'
 
 def preprocess_data(data_dir, output_dir, tokenizer):
 
@@ -82,7 +82,7 @@ def main():
     
     args = parser.parse_args()
 
-    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name, do_lower_case=True)
 
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
