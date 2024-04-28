@@ -62,11 +62,11 @@ def preprocess_data(data_dir, output_dir, tokenizer):
 
     train_data['tokens'] = train_data.apply(lambda x: tokenize(x.texto, tokenizer).split(), axis=1)
     test1['tokens'] = test1.apply(lambda x: tokenize(x.texto, tokenizer), axis=1)
-    test2['tokens'] = test2.apply(lambda x: tokenize(x.texto, tokenizer, axis=1))
+    test2['tokens'] = test2.apply(lambda x: tokenize(x.texto, tokenizer), axis=1)
 
     train_data[['tokens', 'aspect', 'span', 'polarity']].to_csv(os.path.join(output_dir, 'tokenized_data.csv'), index=False)
-    test1[['tokens']].to_csv(os.path.join(output_dir, 'tokenized_test1.csv'), index=False)
-    test2[['tokens']].to_csv(os.path.join(output_dir, 'tokenized_test2.csv'), index=False)
+    test1[['tokens',]].to_csv(os.path.join(output_dir, 'tokenized_test1.csv'), index=False)
+    test2[['tokens', 'aspect', 'span']].to_csv(os.path.join(output_dir, 'tokenized_test2.csv'), index=False)
 
 def main():
     parser = argparse.ArgumentParser()
