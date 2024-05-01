@@ -95,7 +95,7 @@ if __name__ == '__main__':
         #warmup_ratio=warmup_ratio,
         save_total_limit=args.save_total_limit,
         logging_steps=logging_steps,
-        eval_steps=args.logging_steps,
+        eval_steps=logging_steps,
         load_best_model_at_end = load_best_model_at_end,
         metric_for_best_model = metric_for_best_model,
         greater_is_better = greater_is_better,
@@ -106,7 +106,7 @@ if __name__ == '__main__':
         logging_dir=logging_dir,
         logging_strategy=args.logging_strategy,
         save_strategy=args.save_strategy,
-        save_steps=args.save_steps,
+        save_steps=save_steps,
         fp16=False,
         push_to_hub=False,
     )
