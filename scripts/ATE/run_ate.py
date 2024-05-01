@@ -42,7 +42,7 @@ if __name__ == '__main__':
                         default=0.1)
     parser.add_argument('--warmup_steps',
                         type=int,
-                        defualt=1000)
+                        default=1000)
     parser.add_argument('--save_total_limit',
                         type=int,
                         default=3)
