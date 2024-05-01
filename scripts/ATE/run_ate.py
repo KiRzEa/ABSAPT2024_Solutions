@@ -142,6 +142,9 @@ if __name__ == '__main__':
     trainer.train()
 
     dev_preds, dev_labels, results = predict(trainer, dataset_dict['validation'])
+
+    print(dev_preds)
+    print(dev_labels)
     dev_preds_df = pd.DataFrame({'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
     dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
     dev_preds_df['true_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_labels']), axis=1)
