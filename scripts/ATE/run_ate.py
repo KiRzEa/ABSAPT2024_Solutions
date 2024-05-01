@@ -68,6 +68,7 @@ if __name__ == '__main__':
     model = AutoModelForTokenClassification.from_pretrained(args.model_name, num_labels=len(label_list))
     dataset_dict = process(args.data_dir, tokenizer)
 
+    total_steps_epoch = len(dataset_dict['train']) // (args.batch_size * args.gradient_accumulation_steps)
     logging_steps = total_steps_epoch
     eval_steps = logging_steps
     save_steps = logging_steps
