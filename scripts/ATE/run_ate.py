@@ -22,7 +22,7 @@ if __name__ == '__main__':
                         type=str,
                         required=True)
     
-    parser.add_argument('--train_batch_size',
+    parser.add_argument('--batch_size',
                         type=int,
                         default=8)
     parser.add_argument('--gradient_accumulation_steps',
