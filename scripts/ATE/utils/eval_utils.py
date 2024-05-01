@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
-from evaluate import load_metric
+import evaluate
 
-metric = load_metric('seqeval', trust_remote_code=True)
+metric = evaluate.load('seqeval', trust_remote_code=True)
 label_list = ['B-ASPECT', 'I-ASPECT', 'O']
 
 def compute_metrics(p):
