@@ -1,8 +1,8 @@
-pytorch==2.2.1+cu121
+torch==2.2.1+cu121
 transformers==4.40.0
 sentencepiece==0.1.99
 datasets==2.19.0
-acelerate==0.29.3
+accelerate==0.29.3
 evaluate==0.4.1
 nltk==3.8.1
 seqeval
