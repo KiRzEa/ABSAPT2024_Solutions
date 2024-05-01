@@ -64,4 +64,4 @@ def predict(trainer, ds, inference=False):
 
         results = metric.compute(predictions=true_predictions, references=true_labels)
         
-        return predictions, labels, pd.DataFrame(results)
+        return true_predictions, true_labels, pd.DataFrame(results)
