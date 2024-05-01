@@ -1,0 +1,158 @@
+import os
+import pandas as pd
+
+import nltk
+nltk.download('punkt')
+from nltk.tokenize.treebank import TreebankWordTokenizer
+
+import datasets
+from datasets import Dataset, DatasetDict
+
+import nltk
+nltk.download('punkt')
+from nltk.tokenize.treebank import TreebankWordTokenizer
+
+
+def convert_to_bio(df):
+    data = []
+    for i, row in df.iterrows():
+        aspects_span = [[i, j, 0] for i, j in zip(row['start_position'], row['end_position'])]
+        tokens = []
+        ner_tags = []
+        span_generator = TreebankWordTokenizer().span_tokenize(row['texto'])
+        for span in span_generator:
+            tokens.append(row['texto'][span[0]:span[1]])
+            is_aspect = False
+            aspect_data = None
+            for aspect_span in aspects_span:
+                if is_span_a_subset(span, aspect_span):
+                    is_aspect = True
+                    aspect_data = aspect_span
+            if is_aspect:
+                label = 'ASPECT'
+
+                if aspect_data[-1] == 0:
+                    ner_tags.append('B-'+label)
+                    aspect_data[-1] = aspect_data[-1] + 1
+                else:
+                    ner_tags.append('I-'+label)
+            else:
+                ner_tags.append('O')
+        data.append({'id': i, 'tokens': tokens, 'ner_tags': ner_tags})
+    return data
+
+def tokenize(example):
+    tokens = []
+    span_generator = TreebankWordTokenizer().span_tokenize(example['texto'].replace('`', '\''))
+    for span in span_generator:
+        tokens.append(example['texto'][span[0]:span[1]])
+    return tokens
+
+def is_span_a_subset(span, aspect_span):
+    if span[0] >= aspect_span[1]:
+        return False
+    elif span[1] < aspect_span[0]:
+        return False
+    else:
+        return True
+
+def tokenize_and_align_labels(dataset_unaligned, tokenizer, label_all_tokens=True):
+    tokenized_inputs = tokenizer(dataset_unaligned["tokens"], truncation=True, is_split_into_words=True, max_length=512)
+    labels = []
+    for i, label in enumerate(dataset_unaligned[f"ner_tags"]):
+        word_ids = tokenized_inputs.word_ids(batch_index=i)
+        previous_word_idx = None
+        label_ids = []
+        for word_idx in word_ids:
+            if word_idx is None: #special tokens
+                label_ids.append(-100)
+
+            elif word_idx != previous_word_idx:
+                label_ids.append(label[word_idx])
+
+            else: # subwords
+                label_ids.append(1 if label_all_tokens else -100)
+            previous_word_idx = word_idx
+
+        labels.append(label_ids)
+
+    tokenized_inputs["labels"] = labels
+    return tokenized_inputs
+
+def tokenize_fn(examples, tokenizer):
+    tokenized_inputs = tokenizer(examples['tokens'], truncation=True, is_split_into_words=True, max_length=512)
+    pseudo_labels = []
+    for i, _ in enumerate(examples['tokens']):
+        word_ids = tokenized_inputs.word_ids(batch_index=i)
+        previous_word_idx = None
+        label_ids = []
+        for word_idx in word_ids:
+            if word_idx is None:
+                label_ids.append(-100)
+
+            elif word_idx != previous_word_idx:
+                label_ids.append(-1)
+
+            else:
+                label_ids.append(-100)
+            previous_word_idx = word_idx
+        pseudo_labels.append(label_ids)
+    tokenized_inputs["pseudo_labels"] = pseudo_labels
+    return tokenized_inputs
+
+def process(data_dir, tokenizer):
+
+    ate_train_df = pd.read_csv(os.path.join(data_dir, 'train2024.csv'), delimiter=';')
+    ate_dev_df = pd.read_csv(os.path.join(data_dir, 'task2_test.csv'), delimiter=';')
+    ate_test_df = pd.read_csv(os.path.join(data_dir, 'task1_test.csv'), delimiter=';')
+
+    ate_test_data = ate_test_df.copy()
+    ate_test_data['tokens'] = ate_test_data.apply(tokenize, axis=1)
+
+    ate_train_data = ate_train_df.groupby('texto').agg(list).reset_index()
+    ate_dev_data = ate_dev_df.groupby('texto').agg(list).reset_index()
+    
+    train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_data)))
+    dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_data)))
+    test_ds = Dataset.from_pandas(ate_test_data[['id', 'tokens']])
+
+    label_list = sorted(list(set(tag for doc in train_ds['ner_tags'] for tag in doc)))
+
+    train_features = datasets.Features(
+        {
+        'id': datasets.Value('int32'),
+        'tokens': datasets.Sequence(datasets.Value('string')),
+        'ner_tags': datasets.Sequence(
+            datasets.features.ClassLabel(names=label_list)
+            )
+        }
+    )
+
+    test_features = datasets.Features(
+        {
+        'id': datasets.Value('int32'),
+        'tokens': datasets.Sequence(datasets.Value('string'))
+        }
+    )
+    
+    train_ds = train_ds.map(train_features.encode_example, features=train_features)
+    dev_ds = dev_ds.map(train_features.encode_example, features=train_features)
+    test_ds = test_ds.map(test_features.encode_example, features=test_features)
+
+    tokenized_train = train_ds.map(tokenize_and_align_labels, fn_kwargs={'tokenizer': tokenizer}, batched=True)
+    tokenized_dev = dev_ds.map(tokenize_and_align_labels, fn_kwargs={'tokenizer': tokenizer}, batched=True)
+    tokenized_test = test_ds.map(tokenize_fn, fn_kwargs={'tokenizer': tokenizer}, batched=True)
+
+    tokenized_datasets = DatasetDict({
+        'train': tokenized_train,
+        'validation': tokenized_dev,
+        'test': tokenized_test
+    })
+
+    return tokenized_datasets
+
+
+if __name__ == '__main__':
+    from transformers import AutoTokenizer
+    tokenizer = AutoTokenizer.from_pretrained('neuralmind/bert-base-portuguese-cased', do_lower_case=True)
+    print(process('/workspaces/ABSAPT2024_Solutions/data', tokenizer))
