@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from datasets import load_metric
 
-metric = load_metric('seqeval')
+metric = load_metric('seqeval', trust_remote_code=True)
 label_list = ['B-ASPECT', 'I-ASPECT', 'O']
 
 def compute_metrics(p):
