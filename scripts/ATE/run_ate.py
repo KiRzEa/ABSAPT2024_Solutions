@@ -59,7 +59,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     experiment_name = args.model_name.split('/')[-1]
-    model_dir = f'./ATE/experiments/{experiment_name}'
+    model_dir = f'./experiments/{experiment_name}'
 
     if os.path.exists(model_dir):
         os.makedirs(model_dir)
