@@ -55,9 +55,6 @@ if __name__ == '__main__':
     parser.add_argument('--save_strategy',
                         type=str,
                         default='steps')
-    parser.add_argument('--load_best_model_at_the_end',
-                        type=bool,
-                        default=True)
     
     args = parser.parse_args()
     
@@ -71,6 +68,10 @@ if __name__ == '__main__':
     model = AutoModelForTokenClassification.from_pretrained(args.model_name, num_labels=len(label_list))
     dataset_dict = process(args.data_dir, tokenizer)
 
+    logging_steps = total_steps_epoch
+    eval_steps = logging_steps
+    save_steps = logging_steps
+    load_best_model_at_end = True
     folder_model = 'e' + str(args.epochs) + '_lr' + str(args.learning_rate)
     output_dir = model_dir + 'results'
     logging_dir = model_dir + 'results'
@@ -92,9 +93,9 @@ if __name__ == '__main__':
         warmup_steps=args.warmup_steps,
         #warmup_ratio=warmup_ratio,
         save_total_limit=args.save_total_limit,
-        logging_steps=args.logging_steps,
+        logging_steps=logging_steps,
         eval_steps=args.logging_steps,
-        load_best_model_at_end = args.load_best_model_at_end,
+        load_best_model_at_end = load_best_model_at_end,
         metric_for_best_model = metric_for_best_model,
         greater_is_better = greater_is_better,
         gradient_checkpointing=False,
