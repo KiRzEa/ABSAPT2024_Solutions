@@ -1,5 +1,6 @@
 import os
 import argparse
+import logging
 
 from utils.data_utils import *
 from utils.eval_utils import *
@@ -58,6 +59,8 @@ if __name__ == '__main__':
     
     args = parser.parse_args()
     
+    logger = logging.getLogger(__name__)
+
     experiment_name = args.model_name.split('/')[-1]
     model_dir = f'./experiments/{experiment_name}'
 
@@ -152,3 +155,8 @@ if __name__ == '__main__':
     test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
     test_preds_df['predicted_aspects'] = test_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
     test_preds_df.to_csv(os.path.join(model_dir, 'ATE_test_preds.csv'), index=False)
+    
+    results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
+    logger.info("***** Dev results *****")
+    for key in sorted(results.keys()):
+        logger.info("  %s = %s", key, str(results[key]))

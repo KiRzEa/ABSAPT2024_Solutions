@@ -20,6 +20,7 @@ def compute_metrics(p):
     ]
 
     results = metric.compute(predictions=true_predictions, references=true_labels)
+    
     return {
         "precision": results["overall_precision"],
         "recall": results["overall_recall"],
@@ -65,3 +66,23 @@ def predict(trainer, ds, inference=False):
         results = metric.compute(predictions=true_predictions, references=true_labels)
         
         return true_predictions, true_labels, pd.DataFrame(results)
+
+def eval_ate(preds, golds):
+    tp = .0
+    fp = .0
+    fn = .0
+    for pred, gold in zip(preds, golds):
+        for aspect in gold:
+            if aspect in pred:
+                tp += 1
+            else:
+                fn += 1
+        for aspect in pred:
+            if aspect not in gold:
+                fp += 1
+
+    precision = 0 if tp + fp == 0 else 1.*tp / (tp + fp)
+    recall = 0 if tp + fn == 0 else 1.*tp / (tp + fn)
+    f1 = 0 if precision + recall == 0 else 2 * (precision * recall) / (precision + recall)
+    print(f"tp: {tp}, fp: {fp}, fn: {fn}")
+    return {'precision': precision, 'recall': recall, 'f1': f1}
