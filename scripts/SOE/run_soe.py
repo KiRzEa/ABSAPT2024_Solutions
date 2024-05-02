@@ -6,11 +6,11 @@ from utils.data_utils import *
 from utils.eval_utils import *
 
 from transformers import (
-    AutoModelForTokenClassification, 
+    AutoModelForSequenceClassification, 
     AutoTokenizer, 
     Trainer, 
     TrainingArguments, 
-    DataCollatorForTokenClassification
+    DataCollatorWithPadding
     )
 from transformers.trainer_callback import EarlyStoppingCallback
 
@@ -68,7 +68,9 @@ if __name__ == '__main__':
         os.makedirs(model_dir)
     
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
-    model = AutoModelForTokenClassification.from_pretrained(args.model_name, num_labels=len(label_list))
+    label2id = {'positive': 2, 'neutral': 1, 'negative': 0}
+    id2label = {2: 'positive', 1: 'neutral', 0: 'negative'}
+    model = AutoModelForSequenceClassification.from_pretrained('neuralmind/bert-base-portuguese-cased', num_labels=len(label2id), id2label=id2label, label2id=label2id)
     dataset_dict = process(args.data_dir, tokenizer)
 
     total_steps_epoch = len(dataset_dict['train']) // (args.batch_size * args.gradient_accumulation_steps)
@@ -114,7 +116,7 @@ if __name__ == '__main__':
         push_to_hub=False,
     )
 
-    data_collator = DataCollatorForTokenClassification(tokenizer)
+    data_collator = DataCollatorWithPadding(tokenizer)
 
     early_stopping_patience = args.save_total_limit
 
@@ -131,19 +133,19 @@ if __name__ == '__main__':
 
     trainer.train()
 
-    dev_preds, dev_labels, results = predict(trainer, dataset_dict['validation'])
+    # dev_preds, dev_labels, results = predict(trainer, dataset_dict['validation'])
 
-    dev_preds_df = pd.DataFrame({'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
-    dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
-    dev_preds_df['true_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_labels']), axis=1)
-    dev_preds_df.to_csv(os.path.join(model_dir+'ATE_dev_preds.csv'), index=False)
+    # dev_preds_df = pd.DataFrame({'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
+    # dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
+    # dev_preds_df['true_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_labels']), axis=1)
+    # dev_preds_df.to_csv(os.path.join(model_dir+'ATE_dev_preds.csv'), index=False)
 
-    test_preds = predict(trainer, dataset_dict['test'], inference=True)
-    test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
-    test_preds_df['predicted_aspects'] = test_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
-    test_preds_df.to_csv(os.path.join(model_dir, 'ATE_test_preds.csv'), index=False)
+    # test_preds = predict(trainer, dataset_dict['test'], inference=True)
+    # test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
+    # test_preds_df['predicted_aspects'] = test_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
+    # test_preds_df.to_csv(os.path.join(model_dir, 'ATE_test_preds.csv'), index=False)
     
-    results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
-    logger.info("***** Dev results *****")
-    for key in sorted(results.keys()):
-        logger.info("  %s = %s", key, str(results[key]))
+    # results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
+    # logger.info("***** Dev results *****")
+    # for key in sorted(results.keys()):
+    #     logger.info("  %s = %s", key, str(results[key]))
