@@ -66,7 +66,7 @@ if __name__ == '__main__':
     experiment_name = args.model_name.split('/')[-1]
     model_dir = f'./experiments/{experiment_name}'
 
-    if os.path.exists(model_dir):
+    if not os.path.exists(model_dir):
         os.makedirs(model_dir)
     
     tokenizer = AutoTokenizer.from_pretrained(args.model_name, do_lower_case=args.do_lower_case)
