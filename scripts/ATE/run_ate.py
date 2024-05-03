@@ -133,7 +133,8 @@ if __name__ == '__main__':
 
     trainer.train()
 
-    dev_preds, dev_labels, results = predict(trainer, dataset_dict['validation'])
+    dev_preds, dev_labels, ner_results = predict(trainer, dataset_dict['validation'])
+    ner_results.to_csv(os.path.join(model_dir, 'ner_results.csv'), index=False)
 
     dev_preds_df = pd.DataFrame({'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
     dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
