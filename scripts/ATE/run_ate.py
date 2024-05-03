@@ -23,6 +23,8 @@ if __name__ == '__main__':
                         type=str,
                         required=True)
     
+    parser.add_argument('--do_lower_case',
+                        action='store_true')
     parser.add_argument('--batch_size',
                         type=int,
                         default=8)
