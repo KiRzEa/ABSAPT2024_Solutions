@@ -71,7 +71,9 @@ def eval_ate(preds, golds):
     tp = .0
     fp = .0
     fn = .0
-    for pred, gold in zip(preds, golds):
+    n_total = 0
+    for pred, gold in zip(preds, golds):   
+        n_total += len(gold)
         for aspect in gold:
             if aspect in pred:
                 tp += 1
@@ -84,6 +86,7 @@ def eval_ate(preds, golds):
     precision = 0 if tp + fp == 0 else 1.*tp / (tp + fp)
     recall = 0 if tp + fn == 0 else 1.*tp / (tp + fn)
     f1 = 0 if precision + recall == 0 else 2 * (precision * recall) / (precision + recall)
+    acc = tp / n_total
     print(f"tp: {tp}, fp: {fp}, fn: {fn}")
-    print(f"p: {precision}, r: {recall}, f1: {f1}")
-    return {'precision': precision, 'recall': recall, 'f1': f1}
+    print(f"p: {precision}, r: {recall}, f1: {f1}, acc: {acc}")
+    return {'precision': precision, 'recall': recall, 'f1': f1, "acc": acc}
