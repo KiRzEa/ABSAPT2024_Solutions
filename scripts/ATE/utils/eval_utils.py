@@ -85,4 +85,5 @@ def eval_ate(preds, golds):
     recall = 0 if tp + fn == 0 else 1.*tp / (tp + fn)
     f1 = 0 if precision + recall == 0 else 2 * (precision * recall) / (precision + recall)
     print(f"tp: {tp}, fp: {fp}, fn: {fn}")
+    print(f"p: {precision}, r: {recall}, f1: {f1}")
     return {'precision': precision, 'recall': recall, 'f1': f1}
