@@ -8,11 +8,6 @@ from nltk.tokenize.treebank import TreebankWordTokenizer
 import datasets
 from datasets import Dataset, DatasetDict
 
-import nltk
-nltk.download('punkt')
-from nltk.tokenize.treebank import TreebankWordTokenizer
-
-
 def convert_to_bio(df):
     data = []
     for i, row in df.iterrows():
@@ -56,7 +51,7 @@ def is_span_a_subset(span, aspect_span):
     else:
         return True
 
-def tokenize_and_align_labels(dataset_unaligned, tokenizer, label_all_tokens=True):
+def tokenize_and_align_labels(dataset_unaligned, tokenizer, label_all_tokens=False):
     tokenized_inputs = tokenizer(dataset_unaligned["tokens"], truncation=True, is_split_into_words=True, max_length=512)
     labels = []
     for i, label in enumerate(dataset_unaligned[f"ner_tags"]):
