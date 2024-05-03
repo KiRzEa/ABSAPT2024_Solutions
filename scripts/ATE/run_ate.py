@@ -69,7 +69,7 @@ if __name__ == '__main__':
     if os.path.exists(model_dir):
         os.makedirs(model_dir)
     
-    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name, do_lower_case=args.do_lower_case)
     model = AutoModelForTokenClassification.from_pretrained(args.model_name, num_labels=len(label_list))
     dataset_dict = process(args.data_dir, tokenizer)
 
@@ -79,8 +79,8 @@ if __name__ == '__main__':
     save_steps = logging_steps
     load_best_model_at_end = True
     folder_model = 'e' + str(args.epochs) + '_lr' + str(args.learning_rate)
-    output_dir = model_dir + 'results'
-    logging_dir = model_dir + 'results'
+    output_dir = model_dir + '/results'
+    logging_dir = model_dir + '/results'
     # get best model through a metric
     metric_for_best_model = 'eval_f1'
     if metric_for_best_model == 'eval_f1':
@@ -138,7 +138,7 @@ if __name__ == '__main__':
     dev_preds_df = pd.DataFrame({'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
     dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
     dev_preds_df['true_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_labels']), axis=1)
-    dev_preds_df.to_csv(os.path.join(model_dir+'ATE_dev_preds.csv'), index=False)
+    dev_preds_df.to_csv(os.path.join(model_dir, 'ATE_dev_preds.csv'), index=False)
 
     test_preds = predict(trainer, dataset_dict['test'], inference=True)
     test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
