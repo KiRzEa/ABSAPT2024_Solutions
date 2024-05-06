@@ -1,0 +1,1652 @@
+inputs,aspects,sentiment
+"O hotel é novo e tem bons quartos com aquecimento, bom café da manhã, internet liberada.",café da manhã,1.0
+O atendimento pelos recepcionista é pessimo e de mau humoro.,atendimento,-1.0
+"Ao lado do Hotel tem muitas cracudo, aviso a vcs e melhor durmido no carro",No aspect,
+O hotel é excelente eu eu meu marido ficamos 17 noites .,hotel,1.0
+"Você ainda pode desfrutar das piscinas com dj , estilo louge, Liquid Pool ,que o hotel ofere,super animado com muitos jovens.",piscina,1.0
+"Um dos melhores hotéis que já fiquei, fui comemorar meu aniversário de casamento lá e avisei na reserva, eles prepararam todo o quarto com uma decoração muito legal, além disso ainda nos puseram no trigésimo sexto andar, com uma vista maravilhosa, sem contar a localização que fica a duas quadras da Times Square e perto de todos os Teatros, muito bom.",quarto,1.0
+O atendimento foi bom.,atendimento,1.0
+"Localização ótima, serviço impecável.",serviço,1.0
+Ar condicionado antigo e barulhento.,No aspect,
+A experiência foi extremamente positiva.,No aspect,
+O piso de madeira é otimo para quem tem alergicos na familia como eu.,No aspect,
+"Formula 1, só no Brasil!!!",No aspect,
+Os quartos são bem velhos mas são limpos.,No aspect,
+"Óbvio que eu não esperava um 5 estrelas (pelo site e pelo preço da tarifa dá pra saber), mas mesmo assim achei que a estrutura seria melhor e que seria mais limpo.",preço,0.0
+Pessoal muito gentil com serviço de ótima qualidade !,serviço,1.0
+Não voltaria em nenhum Tim hotel.,hotel,-1.0
+O Aviatic é um hotel charmoso e muito funcional para quem Deseja conforto e agilidade.,conforto,1.0
+"Cama razoável, assim como o atendimento da recepção, a localização é interessante, mas a estação de metrô próxima ao hotel, é uma das piores de Paris (Place Monge), com uma infinidade de degraus a subir.",recepção,0.0
+"O hotel é lindo, com ótimos restaurantes no Forum Shop (o shopping do hotel)",shopping,1.0
+"Perfeito, chegamos cansados após 9 horas de viagem, e subimos ao apto, quando chegamos detectamos apenas uma cama.",cama,0.0
+Terraço na cobertura com um bar muito legal e vc mesmo faz o check in e check out nos computadores do hall de entrada .,No aspect,
+"Tradicional mas um pouco ultrapassado hotel em boa localização no centro financeiro da cidade de Porto Algre Ótimo atendimento, mas quartos necessitando modernização.",quarto,-1.0
+Tem que deixar o carro próximo.,No aspect,
+"Funcionarios simpaticos....mas lembre é um Ibis, considerado 2 estrlas, no entanto voce terá uma excelente estadia.",No aspect,
+Eles cobram cerca de 7 euros pelo café da manha.,No aspect,
+Os quartos são grandes e muito bem equipados.,No aspect,
+O hotel em si é muito bom e os funcionários também (exceto por um desastre em que derramaram uma garrafa nossa de leite e ficamos achando que alguém o havia bebido).,funcionários,1.0
+"Se quer ficar pertinho do Arco do Triunfo e passear pela Champs Elysees, o lugar é perfeito.",No aspect,
+"O preço foi em torno de R$40,00 e o quarto era na a Ipanema e o quarto era enorme.",quarto,1.0
+A localização ótima na região da Bastille com Metro em uma linha super estratégica a 2 quadras...,No aspect,
+ atendimento cordial e o serviço de quarto com arrumaçao e limpeza adequados.,atendimento,1.0
+"Os preços embora elevados, estão nos padrões aceitáveis para a cidade e em sua localização - fantástica - embora próximo a tudo, sossegado.",localização,1.0
+"O pessoal da recepção indica e chama taxi quando quiser, mesmo de madrugada, o que é muito melhor do que pegar qualquer um na rua.",recepção,1.0
+boa limpeza.,limpeza,1.0
+Não recomendo.,No aspect,
+Os quartos são limpos e bem dispostos.,quarto,1.0
+"Localização razoável - o hotel fica distante dos principais pontos turísticos da capital francesa, mas em compensação tem estações de metrô que levam o viajante a qualquer parte da cidade.",hotel,0.0
+"O Hotel conta com algumas recepcionistas portuguesas, a Mafalda é muito prestativa e eficiente, conseguimos através dela uma van que nos levasse para o aeroporto por um preço muito bom.",preço,1.0
+Aparência de novo e bem cuidado.,No aspect,
+"Achei o hotel muito bonito por dentro, o concierge é receptivo e simpático, o café da manhã é muito bom e o quarto no qual fiquei era ótimo.",quarto,1.0
+"É necessário verificarem as sanitas, pois um dos quartos tinha uma sanita cujo rebordo magoava sendo passível de causar ferimentos.",No aspect,
+Os quartos poderiam ser maiores pelo valor pago.,No aspect,
+"Quartos pequenos, limpos, mas com conforto minimo para um hotel de 4 estrelas.",conforto,0.0
+"É, como os bons hotéis provavelmente,o melhor hotel que fiquei em ny,na madison avenue em frente a igreja st patricks,atras da quinta avenida elegante, excelentes serviços, agradável café da manhã em uma ambiente lindo.",serviço,1.0
+"O Hotel foi uma ótima escolha, boa localização próximo do Times Square, quarto e wc comfortáveis e café da manhã incluso.",hotel,1.0
+"Suíte confortável, limpa, charmosa, staff educadíssimo, a janela do meu quarto dava para as piscinas do Caesar, localização privilegiada.",piscina,0.0
+Quem não quizer andar tem o metro na esquina.,No aspect,
+"no site ,o hotel aparece em melhores condições,não fui atendida num dos pedidos que fiz do quarto, o banheiro está em condições razoáveis, mas o que é mais sério é que o termo cordialidadedescrito no site não é o ponto mais forte do pessoal que atende na portaria, falta simpatia, boa vontade no trato com o cliente.",quarto,0.0
+Mesmo com 0 graus o quarto era quente.,quarto,1.0
+O único inconveniente é caminhar pelo cassino enfumaçado para chegar na torre do hotel.,cassino,-1.0
+"Os quartos sao lindos,muito confortaveis e espaçosos.",quarto,1.0
+"Nesse hotel não há serviço de quarto,nem para retirar lixo!",serviço de quarto,-1.0
+"Bons restaurantes, Cassino Spa e excelentes apartamentos,que são novos e muito bem equipados.",No aspect,
+Já me hospedei várias vezes no Victoria Chatelet e sempre pelo mesmo motivo.,No aspect,
+"Um dos melhores hotéis que já fiquei, fui comemorar meu aniversário de casamento lá e avisei na reserva, eles prepararam todo o quarto com uma decoração muito legal, além disso ainda nos puseram no trigésimo sexto andar, com uma vista maravilhosa, sem contar a localização que fica a duas quadras da Times Square e perto de todos os Teatros, muito bom.",localização,1.0
+"Sempre fico no Bonaparte, desde minha ida a Paris em 1993, recomendo pela localização, serviço e atendimento.",serviço,1.0
+O bairro é meio barra pesada e os reçepcioistas nao sao cordias.,No aspect,
+"A única parte ruim é que o hotel não dispõe de frigobar nos quartos e também ão há café da manhã, mas isso é comum para NY.",quarto,-1.0
+O WI FI no quarto era muito fraco e desligava com frequência.,No aspect,
+Não foi uma boa experiência.,No aspect,
+Antonio Brito - Campinas SP,No aspect,
+Eu conseguia ouvir TUDO no quarto ao lado.,No aspect,
+"Room Tip: apartamentos de frente te linda vista, não é barulhento, hotel sem luxo e bom preço.",preço,1.0
+"O atendimento é ótimo, a cama do quarto é super confortável, o banheiro é bem higienizado e o café da manhã não é um banquete mas tem rosquinhas, café, sucos, frutas, torradas...",cama,1.0
+"Aliás, eles cobram estacionamento e nem se prontificaram a avisar.",No aspect,
+"Só depois que falamos lá na recepção, eles disseram que os taxistas não cobram taxa de deslocamento e que fomos enganados.",No aspect,
+Pagar 89/109 reais numa porcaria daquela?,No aspect,
+"Entrentanto, com alguns bons minutos de caminhada e apreciando a linda Paris, fomos até a Catedral de Notre Dame e o Louvre a pé.",No aspect,
+"Adorei, voltarei e recomendo fortemente.",No aspect,
+"O hotel fica muito bem localizado, podemos fazer tudo a pé.",hotel,1.0
+"Nossa estadia foi de 5 dias e adoramos o hotel , o bar eh o máximo , o atendimento perfeito , restaurante bacana e a localização perfeita para assistir os musicais.",localização,1.0
+"Suites, cassinos, bares, restaurantes, shows, lojas, funcionários, etc, etc..., é um luxo só.",funcionários,1.0
+"O hotel tem uma excelente localização, próximo a várias lojas, como a Macy´s, ao metrô...",lojas,1.0
+Recomendo.,No aspect,
+"Excelente como todos hoteis da rede Double Tree, conforto atendimento e localização no coração da Times Square.",localização,1.0
+A piscina do hotel e simplesmente demais.,piscina,1.0
+"No mais, ele é bem limpo e arrumado.",No aspect,
+"Não volto, pois o preço nao é tão mais barato que os demais.",preço,-1.0
+Só vale mesmo pelo transfer gratis.,No aspect,
+"Durante o período em que ficamos hospedados (de domingo a quinta) não tivemos problemas com ruído da rua, apesar da existência de alguns bares noturnos na quadra do hotel.",No aspect,
+"Contudo, encontrei um hotel agradável, com bom atendimento, ótimo serviço de quarto, refeições impecáveis.",atendimento,1.0
+"Simples, ótima localização e confiável.",localização,1.0
+São os de melhor visão dos fogos.,No aspect,
+"Hotel com ótima localização, conta com transfer aeroporto-hotel-aeroporto, porém o quarto é muito pequeno e mal cuidado.",aeroporto,0.0
+"Estive do dia 31 ao dia 2 hospedado no Continental Business na Bela Capital Gaúcha, um prédio bem conservado num dos lugares mais centrais da cidade.",cidade,0.0
+O Acacia Etoile é muito bem localizado.,No aspect,
+"Próximo de restaurantes ótimos (Ruth Cris, serafina, fig & olive...)",No aspect,
+"O bairro possui ótima infraestrutura com restaurantes, supermercados e farmácias, alem do metro que esta a 200 metros do hotel.",No aspect,
+Fica perto da Av Sen Salgado filho onde trabalho.,No aspect,
+"Os dois primeiros andares estão sendo reformados até julho de 2013, quando refromarão os outros 3 andares.",No aspect,
+"Pessoal, está Localizado numa das mais tradicionais ruas de Porto Alegre, o Hotel Açores encontra-se estrategicamente dentro do centro financeiro, turístico, comercial e cultural de Porto Alegre.",hotel,0.0
+"Ótimo acesso, elevador, garagem, café da manhã regular, mas o salão de refeições é bem grande...",garagem,1.0
+Fora que o hotel está sendo reformado e tem entulhos por todos os lados.,hotel,-1.0
+"A localização eh perfeita: próxima a bares, restaurantes e metro.",localização,1.0
+"O banheiro, aliás, pareceu recém reformado e foi uma boa surpresa.",No aspect,
+E fui muito bem atendida na recepção.,recepção,1.0
+O hotel está muito bem localizado.,hotel,1.0
+"Elevadores muito eficientes,limpeza muito boa.",elevador,1.0
+Pretendo voltar!,No aspect,
+"Hotel com cara de New York .imperra o modernismo e o futurismo de alta tecnologia, dispõe de quartos modernos, do tipo cabine, e de um terraço amplo na cobertura.",quarto,1.0
+A Staff e equipe do hotel também são ótimas!,No aspect,
+"Próximo a vários restaurantes, dá pra ir à pé até a Times Square e várias peças da Broadway.",No aspect,
+"Hotel bem localizado, porém muito sujo, levaram 3 dias para fazer a limpeza do WC e da ducha,, no local do banho, muito cabelo pelo ralo, muito cheiro de urina..no WC o cheiro de urina e fezes é demais, tendo ate moscas no local...",No aspect,
+"O tamanho dos quartos é pequeno, mas isso é normal em Paris.",No aspect,
+"Se você não estiver procurando o luxo de Vegas, mas não abre mão de preço, conforto e localização esse é um ótimo lugar para ficar.",preço,1.0
+"E, para finalizar um excelente café da manhã.",café da manhã,1.0
+"Desvantagens: se pegar quarto com frente para a avenida e Trensurb, se prepare para o barulho, que realmente é alto, opte pelos quartos de fundo.",No aspect,
+"Recomendo fortemente!!!Hotel muito bem localizado no centro da Strip, com quartos perfeitos e sempre muito limpos.",hotel,1.0
+"A localização privilegiada, a duas quadras da Times Square, a hospitalidade dos funcionários e o tamanho do quarto são sensacionais.",quarto,1.0
+"Ao chegarmos ao hotel, não havia o quarto previamente reservado, então fomos acomodados em uma suite equivalente c/ 2 camas queen, mas totalmente aceitável.",cama,1.0
+O serviço na recepção do hotel é muito boa.,recepção,1.0
+Perto da estacao de metro.,No aspect,
+"O hotel tem uma localização excelente: próximo dos principais pontos turísticos Paris, como Les invalides (da qual se tem uma vista maravilhosa) e da torre Eiffel.",localização,1.0
+Apenas a desorganização do cafe da manha que incomodou um pouco em um domingo.,No aspect,
+Com certeza voltarei a me hospedar neste hotel.,No aspect,
+Nao usaria novamente,No aspect,
+De longe o melhor hotel que já fiquei.,No aspect,
+"O cafe da manha é fraco, mas seria satisfatorio nao fosse a falta de cuidado com os alimentos.",No aspect,
+"Na recepção (noturna), o Abdel (espero estar correto) foi um caso à parte: totalmente atencioso, sempre disposto a nos ajudar; ao contrário dos atendentes do café da manhã (bem servido, com poucas opções, mas com produtos de ótima qualidade).",recepção,1.0
+"Ficamos hospedados 1 noite ótimo quarto tudo novo, camas excelentes frigobar completo, atendimento bom, muito silencioso e ar condicionado split",quarto,1.0
+De zero a dez no geral a nota é 5.,No aspect,
+Fácil acesso para caminhar até mesmo para Times Square.,No aspect,
+Bem localizado e com instalações justas para o valor cobrado.,instalações,1.0
+"Ótimo hotel, localização privilegiada, o bairro de Upper East Side, é ideal para quem quer curtir a agitação da cidade e mesmo assim ficar em um local tranquilo.",localização,1.0
+Quando voltar a NY vou me hospedar novamente.,No aspect,
+Para o preço o serviço é EXELENTE.,serviço,1.0
+"No final da estadia, tive que pagar outros USD 100,80, correspondente aos 2 quartos reservados.",No aspect,
+O melhor é não ir lá.,No aspect,
+"Quem vem do Brasil, tem problema com o fuso horário, acorda tarde, almoça tarde, e o jantar é mais tarde também.",No aspect,
+"Chagamos cedo, antes do horário do check-in e fomos imediatamente para o quarto reservado.",No aspect,
+"Localização do hotel é perfeita, cassino sempre cheiroso, quarto excelente, limpo, e grande.",hotel,1.0
+"O atendimento é muito bom, foram muito atenciosos.",atendimento,1.0
+"Hotel Express Expressinho é um um bom lugar para fazer um pit stop e seguir viagem quando em Porto Alegre, preço justo para os serviços que oferece, além disso o hóspede pode contar com o serviço de transfer aeroporto/hotel/aeroporto, principalmente levando-se em consideração o preço do taxi.",hotel,1.0
+"Hotel novo confortavel, tudo funcionando, quarto equipado, internet grátis, o quarto dispõe de cabo rj, não funciona wifi no quarto so na entrada, próximo ao metro a linha 14 muito nova estação boa e fácil.",internet,1.0
+"Ficamos hospedamos 4 dias, o hotel é muito bem conservado, possui uma excelente localização, preço muito bom, amplo estacionamento, quarto super amplo e cama confortável.",estacionamento,1.0
+Os recepcionistas ajudaram muito.,No aspect,
+Dan Barreto.,No aspect,
+"Quase todas as expectativas sobre o Hotel foram atendidas, exceto a falta de armários e local para malas dentro do apartamento, que nos fizeram muita falta, e a ausência de vedação na porta do box de banho, ocasionando vazamento de água por todo o piso do banheiro ao ser utilizado o chuveiro.",apartamento,-1.0
+Bom custo beneficio.,No aspect,
+Hotel novo e muito confortavel.,hotel,1.0
+"O hotel possui excelente localização perto do metro Chatelet que liga a varias linhas, além disso, fica bem no centro, pertinho de Notre Dame e do Louvre.",hotel,0.0
+"o banheiro é muuuito velho, a torneira quando aberta fazia um barulho que mais parecia um trem chegando, papel de parede do quarto rasgado, o café da manhã bem mais ou menos, enquanto comíamos a mulher começou a resmungar, desligar o ar condicionado, televisão, e retirar a comida, uma falta de respeito, não recomendo.",quarto,0.0
+"Para mim, que conheço muito esta cidade linda, jantar e sair a pé, admirando os monumentos iluminados, a Tour Eiffel, deslumbrante, o Arco do Triunfo, é uma das melhores experiencias da minha vida.",No aspect,
+"Alem de tudo isso, os pontos fortes são simpatia, presteza e disponibilidade dos funcionários desde a recepção, passando pelos porteiros e arrumadeiras, com especial menção ao Antony, concierge brasileiro muito prestativo.",porteiro,1.0
+Não deixe de experim...,No aspect,
+"A portaria é arrumadinha e os funcionários corteses, mas no elevador já dá pra sentir o drama.",funcionários,1.0
+Linda vista do quarto para a cidade.,cidade,0.0
+"Banheiro espaçoso, porém um pouco velho.",No aspect,
+"Na 32, é Little Corea, por isso, mais tipos estranhos.",No aspect,
+"Da recepção, ao serviço de café, camareiras e serviços gerais, tratamento cordial e atencioso.",serviço,1.0
+A rua é horrorosa apesar de ficar próximo das atraçoes.,rua,-1.0
+"Atendimento e serviço nota 10: tudo limpíssimo, sempre arrumado, desde a recepção até o quarto.",atendimento,1.0
+O Hotel All Seasons Bercy foi uma agradável supresa.,hotel,1.0
+"fico no Hotel sempre que vou a cidade e os funcionarios do hotel são prestativos, ajudam sempre que prescisam, principalmente a cristina que fala o portugues e da otimas dicas sobre Paris.",cidade,0.0
+Room Tip: Ficar no último piso é muito bom e calmo para descnsar,No aspect,
+"Excelente localização: rua tranquila, próxima de restaurantes e dando para ir à pé à Torre Eiffel (1,5km) e Arco do Triunfo (cerca de 900m).",localização,1.0
+"Se não tiver outra opção de hospedagem em Paris, cancele sua viagem, ou gaste um pouco mais.",No aspect,
+Recomendo o quarto com vista para o parque.,parque,1.0
+E a localização é excelente!,localização,1.0
+"Os quartos são bem pequenos e não tem frigobar, o elevador mau cabe 2 pessoas.",elevador,-1.0
+"Ótima localização, 2 minutos a pé do metro St-Agustin, próximo das ruas mais baladas de Paris.",localização,1.0
+"Hotel boutique, com excelente localização, serviço super prestativo e ultra atencioso (pasmem! lieberaram generosos early check-in e late chek-out), quartos e banheiro muito confortáveis e espaçosos (raro em NY), interessante sistema de buffet de café da manha e happy hour inclluidos.",hotel,1.0
+Horrível.,No aspect,
+"O que poderia melhorar são as camas são confortavéis mas fazem barulho, talvez sejam as molas dos colchões.",cama,-1.0
+"Além de tudo isso, a qualidade da recepção, serviços de concierge, e amenidades, como café disponível 24 horas na recepção, fizeram da minha estadia em NYC perfeita.",serviço,1.0
+"Hotel completo, com facilidade de movimentação dentro de Vegas, tem muitas atraçoes, restaurantes e nightclubs.",hotel,1.0
+"O pequeno-almoço é razoável, há leite, sumos, iogurtes naturais, alguma fruta, pão, croissants, pão com chocolate, queijo, fiambre e algumas doçuras.",almoço,0.0
+Pelo Tripadvisor encontrei este hotel que estava muito bem ranqueado.,No aspect,
+"Para um estabelecimento pífio desse laia, os preços cobrados se tornam uma fortuna, um barato que sai caro.. deveria ser cobrado no máximo R$ 10,00 pois até Motéis Baratos são mais confortáveis, menos sujos e menos feios.",preço,-1.0
+"O quarto era enorme, super confortável.",No aspect,
+"Quarto limpo e silencioso, bastante agradável.",quarto,1.0
+A falta de espaço do banheiro é um problema que segue incomodando a todos.,No aspect,
+"O quarto é amplo, com mega janelas, mega televisão, cama enorme!",cama,1.0
+Sinal de uma estadia feliz!!!!!,No aspect,
+"Os quartos são pequenos, mas limpos e confortáveis.",No aspect,
+"Lá conheci um desembargador do trabalho do Rio de Janeiro que já foi 35 vezes a paris (sim, acreditem!) e sempre fica nesse hotel.",No aspect,
+"Quarto um pouco pequeno, mas com armários que dá para colocar bem duvididos nossas roupas e compras.",No aspect,
+"Vale a pena pela localização, metrô na porta, café da manhã bom e proximidade da Torre Eifel.",café da manhã,1.0
+O café da manhã é muito bom se considerarmos o padrão norte americano.,padrão,1.0
+"Sinceramente, as únicas coisas boas no hotel são a proximidade do aeroporto, pra quem precisa ficar perto dele, e o transfer gratuito para o aeroporto.",aeroporto,0.0
+O ponto negativo é o banheiro que não possui divisão entre a privada e o chuveiro e também não existe suporte para a mangueira do chuveiro.,chuveiro,-1.0
+Room Tip: Os quartos que dão para a estação são mais barulhentos.,No aspect,
+"Os quartos são extremamente limpos, com ótimo serviço e funcionários prestativos.",funcionários,1.0
+"Os quartos sao de tamanho pequeno, padrao Paris mas com decoracao de primeira linha e banheiros de luxo, cafe da manha muito bom..... recomendo para qualquer um que queira passar uns bons dias em Paris.",quarto,1.0
+"O hotel oferece transporte gratuito para o aeroporto, mas é disputado e para usá-lo é preciso sair com tempo.",hotel,1.0
+"Adorei o hotel bellagio, sua localização e perfeita as acomodações perfeitas, o ambiente e muito gostoso, alem de lindo e perfumado rsrs.",localização,1.0
+O café da manhã é ótimo (11 euros) e tem wifi.,café da manhã,1.0
+"Outro ponto positivo é o carro q fica muito perto do quarto, diferente dos grandes hoteis q vc precisa caminhar uns 10 min.",No aspect,
+"Sempre me hospedo na rede Ibis, mas esse hotel é péssimo.",No aspect,
+Pessoal atencioso e amigável.,No aspect,
+"Ficamos neste hotel e gostamos muito, perto de 2 estações do metrô o que facilitou muito a circulação pela cidade, também tinha vários restaurantes, padarias, mercados perto e era numa rua bem sossegada.",cidade,0.0
+"Não se deixe enganar pelas fotos , ao chegar no hotel a recepção é legal mais quando chega nos corredores escuros onde as lâmpadas não acendem e fica difícil encontrar seu quarto, ao entrar encontrará um quarto onde nem tudo funciona lâmpadas queimada balheiro com aspecto ruim e tudo antigo parq os alérgicos o carpete antigo em geral uma péssima opção.",corredor,-1.0
+"Aliás, a TAM Viagens só tem este hotel conveniado em Porto Alegre - acreditem!",No aspect,
+"Ele tem café da manhã incluso, mas é bem fraquinho, a gente geralmente preferia tomar café em uma loja da Starbucks próxima.",No aspect,
+"– A reposição de lanches e refrigerantes fora de horários na loja de conveniência é fraca, a alternativa é trazer alimentos de fora.",No aspect,
+"A localização é ótima e bem central, perto de tudo...",localização,1.0
+O staff é simpático e atencioso.,No aspect,
+Gostamos muito do hotel.,hotel,1.0
+O hotel recebe muitas excursões e o barulho incomoda por vezes.,hotel,-1.0
+O quero nunca fica tota...,No aspect,
+"Limpeza, atendimento e localização são os principais atrativos.",atendimento,1.0
+"Ficamos sem televisão, pois nosso controle remoto estava quebrado e, embora tenhamos reclamado, nada foi feito.",No aspect,
+Os quartos do quinto andar tem varanda com uma vista maravilhosa para a Torre!,quarto,1.0
+"O hotel é lindo, com ótimos restaurantes no Forum Shop (o shopping do hotel)",hotel,1.0
+"Bom café da manhã; limpo; estafe atencioso, principalmente o M. Vincent.",café da manhã,1.0
+"Muito bom hotel, banho gostoso ao final de um dia de passeios, cama com ótimo colchão, roupa de cama legal, o café da manhã delicioso, funcionários sempre muito gentis e pacientes com nossa dificuldade com o idioma, além de ter mercado, metrô, restaurantes próximos.",café da manhã,1.0
+"Quando voltar a Paris, não retornarei a este hotel.",No aspect,
+"O café da manhã é bom, bem variado.",café da manhã,1.0
+O qaurto era confortavel e possui uma mini-cozinha com geladeira e forno de micro-ondas pro cafe da manhã.,No aspect,
+"É um hotel pequeno mas com o conforto necessário, limpo, os funcionarios são muito atenciosos e sempre dispostos a ajudar.",conforto,1.0
+"O café da manhã é muito bom, bagel,bolinhos,torradas e waffles.",café da manhã,1.0
+Gostei muito.,No aspect,
+"Café da manhã....maravilhoso...quartos confortáveis, amplo...e muito bem limpo.",café da manhã,1.0
+"O cafe da manha custa 7 euros e nao vale a pena pao duro, leite e manteiga.",No aspect,
+"Quarto minúsculo, embora com cama boa e chuveiro quente.",quarto,-1.0
+Ótimo atendimento de todos os funcionários e do Gerente Geral.,gerente,1.0
+"Estacionamento para quem vai de carro é caro (R$ 18 por noite) e se tirar o carro, começa a contagem das primeiras horas de novo (são mais caras).",estacionamento,-1.0
+Vi até um testando a fechadura de um quarto para ver se não estava aberto...,No aspect,
+"O hotel é lindo, os quartos são grandes e luxuosos, a piscina tem muito espaço e bom atendimento!",atendimento,1.0
+Esse é dos raros hotéis em Las Vegas que não tem um Cassino.,cassino,0.0
+"Tem estaçao de metro, otimos restaurantes, mercado, farmacia bem pertinho.",No aspect,
+"Para os padrões de Paris, o quarto e o banheiro era fantástico, bem espaçoso.",No aspect,
+"Room Tip: Ficamos no 22, de frente para a rua, que é tranquila e segura, pois é próximo da residência oficial...",rua,1.0
+"Servem um bom jantar, simples mas com qualidade e variedade compatível ao preço.",preço,1.0
+"Metrô pertinho do hotel, assim como farmácias, restaurantes, supermercado, etc.",No aspect,
+"Ao fazer o check in o recepcionista nos ofereceu um upgrade mas teríamos que aguardar a limpeza do quarto, como estávamos cansados, resolvemos ficar com o quarto reservado, que era muito bom.",quarto,0.0
+Como os americanos dizem não seria um hotel Amigável!!!!,No aspect,
+"Hotel com localização excelente, entre as praças Vendome e Concorde, ao lado do Hotel Ritz.",localização,1.0
+"Na Recepção, há a disposição café e chá para os hóspedes.",recepção,1.0
+"Fica ao lado do tremsurb, o que dá fácil acesso à rodoviária e ao aeroporto.",aeroporto,0.0
+"Os quartos são temáticos, muito legais e amplos!",quarto,1.0
+"O hotel tem valor acessível levando-se em conta sua localização, a poucos passos do Arco do Triunfo.",localização,1.0
+"Um quarto horrivel, um banheiro mau feito, uma cama desconfortavel, barulhos á noite toda.",No aspect,
+"O hotel é super pequeno, mas oferece quartos com um tamanho bom, decoração contemporânea e um bom café da manhã.",café da manhã,1.0
+"Os quartos são pequenos, mas suficiente a um casal.",quarto,1.0
+As cortinas estavam empoeiradas embora o quarto e o banheiro estivessem limpos.,cortina,-1.0
+"Room Tip: Limpeza, Ta manho do quarto, armários suficientes para guardar suas coisas,localização preço justo c...",preço,1.0
+"O serviço péssimo, vários dias estava muito sujo (passei 6 noites lá).",serviço,-1.0
+"Num dia que volte a Nova York, certamente será um hotel a voltar.",No aspect,
+"Também consegui antecipar o check in, o que ajudou bastante.",No aspect,
+"Não e nenhuma pechincha, mas acho que valeu a relação custo-benefício.",custo-benefício,1.0
+Por 2 vezes tive que solicitar a retirada de embrulhos vazios.,No aspect,
+Recepcionistas educados e atenciosos.,No aspect,
+"Não utilizei nem Spa e nem piscina, mas não consegui desmarcar na avaliação abaixo.",No aspect,
+Com certeza me hospedaria novamente.,No aspect,
+"Tentei achar um hotel para passar a noite para embarcar pela manhã só consegui esse hotel, como todos sabem em cima da hora o valor é fora da realidade, paguei valor como se fosse um hotel no minimo 3 estrelas, mais esse hotel parece hotel de beira de estrada ou em frente de rodoviária.",hotel,-1.0
+Só permaneci no hotel pois pela CVC não conseguia trocar.,No aspect,
+"É um hotel antigo e razoável nos quartos, banheiro e no café da manhã.",café da manhã,1.0
+"Minhas únicas queixas se referem as diárias não incluírem café da manhã, a internet custa caro e o Staff não é dos mais atenciosos.",internet,-1.0
+A localização achei muito boa... bem localizado no centro comercial da cidade... pode fazer umas comprinhas e encontrar produtos bem em conta além de ir andando para o evento.. possui restaurante próximo e a estrutura física do hotel está em reforma... os funcionários bem receptivos.... o elevador funcionando normalmente.,cidade,0.0
+"Hotel com muitas piscinas, mas não utilizamos nenhuma devido ao frio.",hotel,1.0
+Só tenho coisas boas para falar do hotel.,hotel,1.0
+"Excelente relação custo benefício,´sem luxo, mas limpo e muito bem localizado, no meio da Strip, quartos espaçosos, ligação interna com o Paris, amplo estacionamento gratuito ( como todos os hotéis em Vegas), boa piscina, estação do Monorail,Wifi paga (e cara).",luxo,0.0
+Também fica perto do outlet Sul e pode-se ir a pé para a avenida principal de LV.,No aspect,
+Ficaria novamente com certeza...a diária está com preço ótimo pelo que o hotel oferece e comparando com os outros.,preço,1.0
+"Apartamentos pequenos, mas camas super confortáveis e chuveiro muito bom!",apartamento,-1.0
+"O único porém na época da minha avaliação era que o hotel era recém inaugurado e os funcionários não pareciam muito bem preparados para lidar com algumas situações, como por exemplo tiveram dificuldade em entender minha reserva, pois a data estava no formato dia/mês/ano e eles entenderam como mês/dia/ano.",funcionários,-1.0
+Com bares que fervem para darem a guinada pra noitada.,No aspect,
+Pessoal simpático.,No aspect,
+Recomendo!,No aspect,
+O hotel fica perto do ponto de metro e próximo ao aeroporto.,aeroporto,0.0
+Pode-se ir a pé para várias atrações turísticas ou apenas para flanar na cidade.,No aspect,
+"Para quem precisar de pegar avião bem cedo como eu tive que fazer, este é o melhor hotel de Porto Alegre, bem baratinho e muito perto do aeroporto, os quartos são equipados com ar-condicionado e tv, de manhã é oferecido um café da manhã reforçado, fica a dica.",café da manhã,1.0
+"O Hotel Novanox é uma boa proposta de custo-benefício, por se tratar de um hotel 3 estrelas e nível de limpeza muito bom para os padrões franceses.",hotel,1.0
+O duche era um pouco fraco mas tudo o resto é muito bom,No aspect,
+"Todos os dias era limpo, nao houve problemas de sumir coisas... os atendentes atenciosos e como era 1.andar eu tinha wi-fi no quarto, água quentinha para banco.... eu gostei.,",No aspect,
+"A equipe, enxuta, nos abrigou bem, quarto bem arrumado e limpo.",quarto,1.0
+Serviço eficiente.,serviço,1.0
+"Fica num local mais que seguro, tranquilo e perto da champs e a 1 quadra do metrô.",No aspect,
+Era a camareira dizendo q precisava limpar.,No aspect,
+"Funcionários muito simpáticos, falam inglês e dão óptimas dicas sobre a melhor forma de ter umas boas férias em Paris.",funcionários,1.0
+Mais de duas pessoas no mesmo quarto: duas camas de casal pequenas tamanho full size.,No aspect,
+A rua principal do Moulin Rouge tem varios sex shops e e facil de encontrar pessoas a noite bebendo na rua.,No aspect,
+"Café da manhã simples, mas com boa variedade.",café da manhã,1.0
+Equipe altamente treinada .,No aspect,
+O serviço deixou a desejar.,serviço,-1.0
+"A limpeza dos quartos é impecável, funcionários gentis, ficaríamos novamente.",funcionários,1.0
+Fui com uma amiga para Las Vegas e optamos por ficar bem localizadas.,No aspect,
+Pode - se ir a pé para os principais pontos turisticos e o metro fica na porta do hotel.,No aspect,
+"Hotel bem localizado, no centro de Porto Alegre, próximo ao Mercado Municipal e a Casa Mario Quintana.",hotel,0.0
+Perdeu muitos pontos por isso!,No aspect,
+Sempre que meu pai vai a curso em POA ele fica hospedado nele.,No aspect,
+"Não tinha tomada para carregar celular, apenas a tomada da tv e uma tomada no banheiro.",tv,0.0
+O Staff foi realmente muito atencioso e solicito.,No aspect,
+Vale pelo custo benefício.,No aspect,
+"Gostamos bastante do apart-hotel, principalmente da vista, pois ficamos no 21º andar com vista para a Torre Eiffel,é bem espaçoso para Paris, achamos que os lençóis poderiam ser mais novos e o colchão da cama de casal de molas, além de uma reforma nos móveis para dar um ar mais moderno, mas em geral é muito bom!",móveis,-1.0
+Nenhum funcionário se prontificou a ajudar a carregar a mala.,No aspect,
+Só não espere que seja barato.,No aspect,
+"Os quartos são amplos, novos, confortáveis e limpos.",No aspect,
+"A região onde está localizado é boa, com restaurantes e supermercados.",No aspect,
+"Ótimo preço, funcionários super atencioso, acomodações esplendidas, ótima localização.",funcionários,1.0
+"Hotel com bom conforto, cama box, bom chuveiro, frigobar e ar, limpo, localizado no Centro.",frigobar,1.0
+"Staff muito solícito e simpático, quarto e banheiro com excelente apresentação e padrão de limpeza.",limpeza,1.0
+Não recomendamos o buffet do PH.,No aspect,
+Estive com minha filha em outubro neste hotel.,hotel,1.0
+"Hotel velho, funcionários mal educados, roupa de cama rasgada, tudo cheirando a mofo, cassino sem manutenção nas máquinas.",hotel,-1.0
+Definitivamente ficaria nesse hotel novamente se voltasse para Paris com um orçamento apertado.,hotel,1.0
+Além disso a portaria funciona apenas no horário comercial....atenção no horario de chegada!!!,horário,0.0
+"Boa relação custo-benefício, fica muito perto do Times Square, os quartos são bem limpos e aconchegantes, a cama é ótima, não tem café da manhã, mas são fornecidos café, chá e açúcar diariamente, e tem muitos mercadinhos e starbucks há uma quadra de distância.",custo-benefício,1.0
+"O pequeno almoço é fantástico, tem muita variedade e vale bem o preço cobrado.",No aspect,
+"a localização é otima, fica perto de metro, feirinhas, restaurantes.",localização,1.0
+A começar pelo recepcionista que cobrou o valor de uma diaria de um quarto como valor de diária de apto.,quarto,-1.0
+"O Hotel é bastante simples, serviu perfeitamente para o que nós queríamos porque andavamos sempre de um lado para o outro e não procuravamos usufruir do conforto do Hotel.",No aspect,
+Adorei minha estadia no Sheraton New York.,No aspect,
+"Este hotel foi muito bem recomendado devido à sua localização, por acomodar casal + crianças, por ter café da manhã, e pela excelente atenção dos funcionários... é um hotel aconchegante, excelente acomodação... um mimo!",funcionários,1.0
+"Fiquei com muito receio do Newton, já que era uma opção mais barata e no outro ponto de NY, porém, foi uma grande surpresa quando chegamos!!!",No aspect,
+Lavanderia deles nao funciona direito se a empresa que paga para eles esquece eles vao fazer de tudo para nao lavar a sua roupa.,lavanderia,-1.0
+Room Tip: Prefira as suítes deluxe pois a cama é queen.,suíte,1.0
+Este hotel fica na Rua 32 entre a Quinta Avenida e a Sexta Aveinda ( Av. Das Américas).,hotel,0.0
+Aceita pets!,No aspect,
+Jamais gaste seu rico dinheirinho neste Hotel !,hotel,-1.0
+"Atendimento sem reclamações, exceto de um dia que não foi reposto água no frigobar porque eles não tinham em estoque.",frigobar,0.0
+"O hotel tem uma excelente localização, fica a 200 metros da Gare de Lyon e próximo ao quartier da Bastille.",localização,1.0
+"O café da manha é ótimo, tem pães deliciosos.",No aspect,
+Realmente 10!,No aspect,
+Perfeito para uma viagem romantica!,No aspect,
+Room Tip: Possui quartos para não fumantes,No aspect,
+Room Tip: Prefira os apartamentos de fundos.,apartamento,0.0
+Recomendadíssimo.,No aspect,
+O hotel em si é muito bom e os funcionários também (exceto por um desastre em que derramaram uma garrafa nossa de leite e ficamos achando que alguém o havia bebido).,hotel,1.0
+"O menos positivo na estadia foi o facto de o quarto não ter sido limpo nem susbstituidas as toalhas entre as duas noites em que lá pernoitei, o quarto e a casa de banho serem muito pequenos e a televisão não ter disponivel a RTP Internacional como têm quase todos os hoteis de Paris.",televisão,-1.0
+Hotel com ótima localização.,localização,1.0
+Eu acho que os únicos pontos positivos foram a proximidade com a rodoviária e um bom atendimento na recepção.,atendimento,1.0
+"Mas a noite é um deserto, sair sozinho nem pensar.",No aspect,
+"Check out Express, mto bom.",No aspect,
+"O cheiro estava impregnado no colchão, travesseiros e carpete.",carpete,-1.0
+"Roupas de cama e banho surradas Corredores estreitos e cheiro grande de cigarro Elevador nao existe, uma escada descascada e estreita Pelo preço se consegue coisa muito melhor.",corredor,-1.0
+O café da manhã é bom.,café da manhã,1.0
+Ha vários pequenos Bristôs próximos.,No aspect,
+A falta de café da manhã na diária é compensada pela cozinha completa no quarto e um pequeno mercado a 20 metros do hotel.,cozinha,1.0
+"Gostei muito do quarto e banheiros espaçosos, a cozinha equipada e as camas e roupas de camas maravilhosas - limpas e macias.",cozinha,1.0
+"Em um geral, o custo benefício valeu muito a pena....Ahhhh, peçam vista para o cemitério e os andares mais altos.",No aspect,
+Os funcionários se esforçaram bastante em nos ajudar como andar por lá.,funcionários,1.0
+Sem contar a localização que é duas quadras da Times Square.,localização,1.0
+]  recomendo!,No aspect,
+"- A TV, só canais locais.",No aspect,
+"Não estou reclamando disso pela decepção que tive com a recepção, mas porque é uma verdade.",recepção,-1.0
+"Localização maravilhosa, duas quadras da Times, perto de tudo, quase em frente ao terminal urbano, deste terminal você pode ir para todas as atrações, tem uma estação principal do metrô na rua do hotel, esquina com o prédio da New York Times.",hotel,0.0
+Quarto muito pequeno!,quarto,-1.0
+Tradicional hotel em localização ótima para negócios no centro de Porto Alegre.,hotel,0.0
+Lojas e fast foods no mesmo andar da piscina.,lojas,0.0
+Room Tip: Difícil de dizer,No aspect,
+"Perto do metro e Restaurantes ,rua tranquila..",rua,1.0
+"De toda forma, mantenho como minha primeira opção para o retorno a NY.",No aspect,
+"Claro, o prédio é velho e os quartos e mobília são velhos, mas não tive problema quanto a isso.",No aspect,
+Para mim é o melhor de Las Vegas.,No aspect,
+"O hotel é novo e tem bons quartos com aquecimento, bom café da manhã, internet liberada.",hotel,1.0
+Ficamos em um quarto quadruplo que tinha bastante mofo na parede.,quarto,-1.0
+"Voltando a Las Vegas, seria uma ótima opção!",No aspect,
+O café da manhã é bom.,café da manhã,1.0
+"Este hotel apresenta uma relação qualidade Vs preço Vs localização, muito boa.",localização,1.0
+Tem também varias alternativas de fast-food nas proximidades e restaurantes.,No aspect,
+"Fica a uns 2 km da Torre, mas se quiser caminhar até lá o caiminho é agradável e tranquilo, ou com um passe diário você pode ir a todos os lugares de Paris.",No aspect,
+Boa localização.,No aspect,
+"Apenas os serviços e bebidas e café da manha sao fora do padrão, qualquer coquetel no mínimo 20 dólares, mas Vale muito a pena ficar nele e consumir em outros locais pois ny tem muita opção boa .",No aspect,
+"Duro é o cheiro de cigarro, mas acho que isso é padrão nos hotéis mais baratos.",No aspect,
+Adorei a estadia.,No aspect,
+"Agora o clima, limpeza, qualidade e localização foram muito boas.",limpeza,1.0
+Mas vale a pena considerando que muitos hotéis de mesmo preço não oferecem o café da manhã.,preço,1.0
+"O hotel seria um hotel de negócios 3 estrelas muito bom, porém está classificado como 4 estrelas, para esta categoria ficaram faltando: espaço no quarto, decoração mais personalizada, mais elevadores (só tem 1), sala de espera e sala de trabalho na recepção, serviços melhores, restaurante, academia, dentre outras.",quarto,-1.0
+"Próximo da estação de metrô Pernety, facilita a mobilidade, pois os melhores pontos turísticos não ficam próximos.",No aspect,
+"Nós éramos 4 num quarto, e todas nós adoramos!",No aspect,
+Fica perto de tudo!!!,No aspect,
+Vantagem:Localizacao para que precisa ficar no centro da cidade,centro da cidade,-1.0
+Nunca mais.,No aspect,
+"Este hotel se localiza na Strip bem próximo ao Bellagio, MGM, New York.",hotel,1.0
+"O hotel fica bem próximo ao aeroporto e tem serviço de transfer grátis pra chegada e saída do aeroporto, basta ligar pra recepção e o carro está disponível, o trajeto leva apenas 5 minutos.",hotel,0.0
+"O check in pode ser feito em uma máquina no saguão do hotel, sem necessidade de entrar em filas.",No aspect,
+Praticidade com um serviço especial.,serviço,1.0
+"O hotel é pessimo, tanto em atendimento quanto em acomodações.",atendimento,-1.0
+"O hotel é muito luxuoso, o staff super atencioso e a localização não poderia ser melhor.",localização,1.0
+"O café da manhã não é muito farto, mas é gostoso.",No aspect,
+O Staff e muito simpático e solicito!,No aspect,
+Há estacionamento amplo e coberto.,estacionamento,1.0
+"Além disso, quase nada é incluído na diária, nao internet wi-fi cortesia, nem café da manha, nem estacionamento.",estacionamento,0.0
+Não tem ar condicionado mas é arejado e limpo.,No aspect,
+"Achei o hotel lindo, confortável.",hotel,1.0
+Precisava de um hotel com quarto para acomodar um casal e duas crianças.,hotel,1.0
+"No check out, queriam nos cobras € 100 , dizendo que quebramos a tampa do vaso sanitário, e ainda diziam que teria sido das duas suites( estávamos em quarto conjugado)... Um completo absurdo, nem sequer utilizamos o 2.",quarto,-1.0
+"Este hotel foi muito bem recomendado devido à sua localização, por acomodar casal + crianças, por ter café da manhã, e pela excelente atenção dos funcionários... é um hotel aconchegante, excelente acomodação... um mimo!",hotel,1.0
+"Depois de andar o dia inteiro conhecendo a cidade, poder tomar um banho quentinho e descansar a noite numa cama confortável!",cama,1.0
+"Ambiente agradável, funcionários hiper-atenciosos, café da manha e brunch com proseco incluído na diária, e localização a 50 metros da times square.",funcionários,1.0
+"Pessoal, está Localizado numa das mais tradicionais ruas de Porto Alegre, o Hotel Açores encontra-se estrategicamente dentro do centro financeiro, turístico, comercial e cultural de Porto Alegre.",rua,0.0
+"Sofri muito, pois me hospedei no inverno e não sabia se deixava a janela fechada e morria de renite ou aberta e morria de frio.",No aspect,
+RECOMENDO!,No aspect,
+"Café da manhã fornecido no restaurante ao lado do hotel, não conta com boa reposição.",café da manhã,-1.0
+"Fica ao lado do tremsurb, o que dá fácil acesso à rodoviária e ao aeroporto.",rodoviária,0.0
+"excelentes restaurantes próximos, bem como lojas e o Central Park.",No aspect,
+Chuveiro ótimo!,chuveiro,1.0
+"Café da manhã normal, sem novidade.",café da manhã,1.0
+"Fica perto do aeroporto, metrô, e avenida com várias opções de ônibus.",aeroporto,0.0
+"Ambiente agradável, funcionários hiper-atenciosos, café da manha e brunch com proseco incluído na diária, e localização a 50 metros da times square.",localização,1.0
+"Pelo preço pago, valeu muito a pena.",No aspect,
+O shopping do hotel achei o melhor de todos!!!,shopping,1.0
+Não recomendo a ninguém!,No aspect,
+"Equipe atenciosa e quarto luxuoso por ótimo preço, em frente ao maior Shopping de LV, onde fica Macys e Nordstrom.",quarto,1.0
+Serviço excelente!! Funcionários preparados para resolver tudo que você precisar.,serviço,1.0
+O quarto tinha cheiro de velho e tive alergia com a roupa de cama.,quarto,-1.0
+"Bom hotel, quarto de bom tamanho, cama confortável, banheiro com banheira mas com ducha fixa, cafe da manha muito bom.",ducha,-1.0
+Guardam as malas até a sua saída.,No aspect,
+Café da manhã de ótima qualidade se levarmos em conta o preço.,café da manhã,1.0
+"A limpeza é boa e os funcionários muito atenciosos, se esforçando para falar alguma coisa em português.",limpeza,1.0
+"O atendimento é muito cordial, inclusive te esperando com água gelada cada vez que vc passa pela recepção.",atendimento,1.0
+"O serviço, é um dos melhores em hotel, que já tive a oportunidade de conhecer.",serviço,1.0
+"Voltaremos, com certeza!",No aspect,
+O pessoal da recepção é bastante gentil.,recepção,1.0
+"Uma menção especial para a Srta. Monica Reis competentíssima profissional, sempre presente para atender em todas as solicitações.",No aspect,
+"Destacaria o excelente atendimento no bar, onde estivemos por duas vezes.",atendimento,1.0
+"quanto ao fato de estar em frente a obra do wtc, tem que estar ciente disto antes de reservar",No aspect,
+O quarto bem climatizado e roupas de cama novas e limpas.,No aspect,
+"A melhor qualidade do hotel é a limpeza, excelente.",limpeza,1.0
+Tem maravilhosas docerias e padarias além dos cafés.,No aspect,
+"Os quartos necessitam de obras rugentes, bem como o restante hotel (incluindo hall dos quartos, escadas, elevador).",elevador,-1.0
+"Hotel de ótima localização, perto de tudo, quartos limpos e organizados, café da manhã de boa qualidade e funcionários muito atenciosos.",localização,1.0
+Hotel instalado em edifício antigo.,hotel,-1.0
+"Quanto à localização, o hotel fica próximo às catacumbas e ao metro.",localização,1.0
+Péssima experiência.,No aspect,
+Quarto grande e bem arejado.,No aspect,
+Wifi U$ 16 or dia,No aspect,
+O chão do quarto estava bastante sujo e engordurado.,quarto,-1.0
+Limpeza e organização otimos.,limpeza,1.0
+"Excelente para se hospedar com a família porque nos quartos há uma cozinha com geladeira, microondas e cafeteira.",cafeteira,0.0
+Para os padroes de NY realmente um excelente custo X beneficio.,No aspect,
+"Já o café da manhã é ótimo, o atendimento também, nada a reclamar disso.",café da manhã,1.0
+"Chegados cerca das 10 da noite de longa viagem aérea, nãodispomos porem de serviço de restauração adequado.",serviço,-1.0
+Com empregados eficientes e um ótimo restaurante onde é possível experimentar o famoso New York Steak.,No aspect,
+Melhor hotel que já fiquei em Vegas!,hotel,1.0
+"Os pontos fortes são , a localização e o serviço muito atencioso, por um preço justo.",localização,1.0
+O cassino é muito legal e foi o único lugar onde conseguimos ganhar algum $$$ nas maquininhas!!!,cassino,1.0
+O hotel é bem localizado e fica há 2 quadras da Praça Madeleine onde você encontra estações de metro e vasto comercio.,hotel,1.0
+"Atendimento espetacular, quartos confortáveis e limpos, um bom café da manhã, supermercado em frente, metrô à 200 m, elevadores funcionado bem.",atendimento,1.0
+Péssimo!!! Não me hospedo mais nesse hotel e nem recomendo!,No aspect,
+Por ser frio na nossa estada a infiltracao de vento na janela foi o unico ponto negativo.,No aspect,
+"O hotel tem uma excelente localização, próximo a várias lojas, como a Macy´s, ao metrô...",localização,1.0
+"Hotel mistura rústicio e moderno, quarto super confortável, limpo, ótima cama e de tamanho muitp bom!",cama,1.0
+"Ótima localização, custo beneficio excelente, funcionários atenciosos, hotel novo, quartos limpos, boas instalações, elevador mto rápido, bom café da manhã, Wifi grátis e muito boa.",quarto,1.0
+"No geral muito bom, mas caro pelo que oferece...",No aspect,
+"o Hotel tem vaga na frente da recepção, mas está sempre ocupada, o que dificulta a carga e descarga das bagagens.",recepção,0.0
+Tem cozinha completa que permite fazer lanches e café da manhã.,cozinha,1.0
+O melhor aspecto do hotel é a localização com uma estação de metro logo ao atravessar a rua...,localização,1.0
+"O hotel é simples, mas a localização é perfeita, em pleno Quartier Latin, pertinho da Sorbonne e do Panteão.",localização,1.0
+"Não tem comércio e restaurantes próximos, então o hotel oferece uma cozinha com pratos bem gostosos que podem ser solicitados.",cozinha,1.0
+Recomendamos.,No aspect,
+"O Hotel foi uma ótima escolha, boa localização próximo do Times Square, quarto e wc comfortáveis e café da manhã incluso.",café da manhã,1.0
+"Ficamos hospedamos 4 dias, o hotel é muito bem conservado, possui uma excelente localização, preço muito bom, amplo estacionamento, quarto super amplo e cama confortável.",preço,1.0
+Para quem fale português é possível que seja atendido por funcionários que falam a nossa língua.,funcionários,1.0
+Passei a semana de 27/09/11 a 04/10/11 em Paris hospedado no Le Colbert.,No aspect,
+"Quase todas as expectativas sobre o Hotel foram atendidas, exceto a falta de armários e local para malas dentro do apartamento, que nos fizeram muita falta, e a ausência de vedação na porta do box de banho, ocasionando vazamento de água por todo o piso do banheiro ao ser utilizado o chuveiro.",hotel,1.0
+"Excelente localização, a duas quadras da Champs Elysée, podendo ir a pé em vários lugares.",localização,1.0
+Localizado perto de Montmartre e com facilidades de acesso a qualquer zona da cidade.,No aspect,
+Quanto ao restante já posso dizer que seria apenas um dormitório.,No aspect,
+Experiência deliciosa =),No aspect,
+Visite outros principalmente o do Aria e Bellagio,No aspect,
+"Hotel limpo, com boa localização, funcionários atenciosos e prestativos!",localização,1.0
+"Pontos negativos - por ser todo coberto de carpetes e não restringir o uso do cigarro dentro do hotel, não sei o que foi mas o quarto tinha um odor muito desagradável de cigarro com perfume, não sei explicar, (não sei se o sistema de calefação abrangia todo o hotel e assim o odor era transmitido para todos os cômodos ou se a camareira fumava ao limpar o quarto) e forte, mesmo depois de limpo, tinha que chegar e abrir as janelas, mesmo com o frio que estava na cidade!",carpete,-1.0
+Dispõe de internet wi-fi em dois computadores para uso gratuito dos hóspedes no lobby.,No aspect,
+O atendimento bom dos funcionários.,funcionários,1.0
+Ela achou que o meu marido havia derrubado no chão e pegou o pote e esfregou no nariz dele.,No aspect,
+"Hotel com ótima localização, conta com transfer aeroporto-hotel-aeroporto, porém o quarto é muito pequeno e mal cuidado.",hotel,0.0
+"Hotel maravilhoso, atendimento impecável, localização incrível, quartos aconchegantes de primeira categoria.",atendimento,1.0
+"Os quartos são pequenos porém super limpos, diferentes e bonitos.",quarto,1.0
+Limpeza e gentileza o tempo todo.,limpeza,1.0
+Perfeito.,No aspect,
+Bom café da manha free.,No aspect,
+"Os funcionários, todos muito simpáticos, em especial Sr. Gabriel, um anjo mesmo!",funcionários,1.0
+"Ao mesmo tempo que fica a 1 km apenas da torre, fica pro lado sul, com poucas opções de lazer e restaurantes, sem contar que é mais feio que a parte mais ao norte da torre e perto da Champs Elysée.",No aspect,
+"Mesmo com o intervalo de 18 anos entre uma visita e outra, o Hotel manteve o mesmo nível de atendimento e conforto.",conforto,1.0
+"Apresentação do cirque de soleil no hotel, um cassino muito grande, e fica em um complexo que tem um shopping com as marcas mais famosas do mundo, que infelizmente não estão ao meu alcançe, mais que podem ser aproveitado pelos endinheirados.",cassino,1.0
+O atendimento foi impecável!,atendimento,1.0
+Tem um ótimo café da manhã e um bom atendimento.,café da manhã,1.0
+"Me hospedei de 27 de janeiro a 1 de fevereiro,gostei muito do hotel,sua localização é fantástica,o quarto muito bom,estrutura do hotel excelente, vale ressaltar que o restaurante do hotel é INCRÍVEL chamado The View, vale muito a pena, único em Nova York que oferece vista panorâmica a toda cidade.",quarto,1.0
+"E o melhor, não é muito caro!!!",No aspect,
+O fato de não ficar no meio da strip ajuda a afugentar a multidão que3 invade outros hotéis como o belagio.,No aspect,
+Pretencioso hotel.,hotel,-1.0
+"Proxima a Disney,quarto amplo com duas excelente camas,como fui com a minha filha de 01 ano,me arrumaram berço tb.....,café da manhã razoável e bom custo benefício....achei a mobília nova com tv plasma e excelentes canais de entretenimento...Hotel com piscina aquecida, enfim,por ser em cima da hora,acho que valeu a pena!!",café da manhã,0.0
+"Me senti em minha casa , fui super bem tratado .",No aspect,
+"A desvantagem e o tamanho do quarto, bem pequeno, mas pelo preco em NY-Manhattan e dificil achar um quarto grande num bom preco.",No aspect,
+O atendimento e cordialidade da recepçao é um capitulo a parte.,atendimento,1.0
+"Meu filho encontrou uma calcinha e um remédio no chão que nao eram nossos ,sem limpeza .",limpeza,-1.0
+Deve ter frigorbar em todos os quartos e devem repor água todo dia.,No aspect,
+Poderiam melhor isso.,No aspect,
+"Acabei de retornar de uma estadia de onze noites no hotel, junto com meu marido.",No aspect,
+Room Tip: Peça vista para a Strip e andar mais alto.,No aspect,
+"O Hotel Novanox é uma boa proposta de custo-benefício, por se tratar de um hotel 3 estrelas e nível de limpeza muito bom para os padrões franceses.",custo-benefício,1.0
+Expressinho está localizado perto da estação de metrô Farrapos.,No aspect,
+Recomendo profundamente.,No aspect,
+Quando entramos no hotel decidimos nos mudar para outro.,No aspect,
+obrigado mais uma vez a equipe do Affinia,No aspect,
+Mas o resto eh padrao.,No aspect,
+Deixaram fazer check in antes do horário e check out so na hora do nosso vôo.,horário,0.0
+"O café eu tomava em um lugar bem interessante chamado Cafe Today, tipo buffet por quilo com tudo o que você pode imaginar, com frutas, grãos, iogurtes, salsichas, bacons, ovos, pães e etc.",No aspect,
+"Bom atendimento, excelente localização, pois é ao lado do centro e, convenientemente, afastado da muvuca.",atendimento,1.0
+Recomendo a todos.,No aspect,
+Ponto mais negativo são os banheiros apertados.,No aspect,
+"O Hotel é bem localizado, mas falta um frigobar no apartamento, que é de extrema importância.",frigobar,-1.0
+"Me hospedei só para um pernoite, não permaneci muito tempo por isso tenho pouco a dizer dos serviços e do atendimento.",atendimento,0.0
+"As instalações do hotel são muito boas, os quartos limpos e bem cuidados, tudo de primeira.",instalações,1.0
+O atendimento é excelente.,atendimento,1.0
+O hotel é muito bonito mas o espaço é pequeno pois fica entre dois outros prédios.,No aspect,
+"2 - o hotel cobra U$ 15,00 pelo serviço de entrega de pacotes no quarto.",No aspect,
+O hotel segue corretamente os padrões do Mercure o que significa ser bom.,hotel,1.0
+"A localização é ótima (entre duas estações de metrô), com um shopping há duas quadras que tem lojas como Galeria Laffayete, diversas opções de alimentação.",localização,1.0
+"Ótimo hotel, simplesmente maravilhoso!",hotel,1.0
+Um hotel gigantesco como todos em Las Vegas.,hotel,1.0
+Não tomamos o café da manhã por ser muito caro.,No aspect,
+"Mesmo sendo um hotel barato, não vale nem 10 dólares...",No aspect,
+"O quarto Ã© pequeno, mas dentro dos padrÃµes da Europa.",No aspect,
+O acesso ao quarto é traumatizante!,quarto,-1.0
+Na hora de escolher tem para...,No aspect,
+"Hotel com ótima localização, perto de vários restaurantes e perto do centro.",localização,1.0
+O café da manhã é farto e muito bom!,café da manhã,1.0
+"Porém essa boa localização foi a pior coisa, pois é muito barulho, não deu mesmo pra dormir a noite, não vale a pena!!!!",No aspect,
+Muito caro considerando o tamanho do quarto (são muito pequenos) e os serviços prestados.,serviço,-1.0
+"Adivinhe, só fui 2 vezes.",No aspect,
+"Mas, atendentes muito solícitos e educados.",No aspect,
+"Toca rock o tempo todo no hall, cassino e elevadores, música de primeira!",elevador,1.0
+Mas o hotel é limpo só que o bom é ficar nos quartos para os fundos os da frente sao barulhentos devido ao movimentosdos carros e do trem na rua.,hotel,1.0
+"Proxima a Disney,quarto amplo com duas excelente camas,como fui com a minha filha de 01 ano,me arrumaram berço tb.....,café da manhã razoável e bom custo benefício....achei a mobília nova com tv plasma e excelentes canais de entretenimento...Hotel com piscina aquecida, enfim,por ser em cima da hora,acho que valeu a pena!!",tv,1.0
+O Hotel não se responsabilizou pelo roubo.,No aspect,
+Excelente este hotel.,hotel,1.0
+"Hotel muito bom, com ótima localização próximo a vários pontos de interesse, podendo ser feito a pé ...Torre Eiffel, louvre, notre-dame entre outros.",localização,1.0
+"Room Tip: Fiquei no Grand Salon, acho que vale mais a pena do que o salon.",No aspect,
+"Como NY é sinônimo de compras, o quarto sempre estava cheia delas que nunca foram tocadas pelo serviço de limpeza de quarto.",limpeza,1.0
+"A imensa falha é a falta de WiFi, pelo menos no hall de entrada.",No aspect,
+Custo benefício bem bom.,No aspect,
+Além disso as áreas comuns tem música boa a qualquer hora do dia ou da noite.,No aspect,
+"Quarto lindo, tudo digital, desde a persiana até a solicitação de serviço de quarto.",quarto,1.0
+"O quarto e pequeno mas e muito bom, limpo e silencioso.",quarto,1.0
+"O Hotel esta muito bem localizado os apartamentos da cobertura acomodam famílias grandes, a equipe é muito simpática e prestativa, achei apenas que a limpeza nos quartos não é muio boa, porém acredito ser geral nos EUA principalmente por eles usarem carpetes a limpeza deveria ser mais bem feita.",quarto,1.0
+"Mas como nos ficávamos no hotel só para dormir, não fez muita falta.",No aspect,
+À noite rola um night club no hotel mas o revestimento acústico impede que o barulho incomode.,No aspect,
+"É um Hotel simples, porém aconchegante.",No aspect,
+relação qualidade preço também muito boa.,preço,1.0
+"Hotel pequeno, sem serviço de quarto, recepção ruim.",serviço de quarto,0.0
+"Para quem precisar de pegar avião bem cedo como eu tive que fazer, este é o melhor hotel de Porto Alegre, bem baratinho e muito perto do aeroporto, os quartos são equipados com ar-condicionado e tv, de manhã é oferecido um café da manhã reforçado, fica a dica.",aeroporto,0.0
+"No último dia tive que trocar de quarto no meio da madrugada depois de acordar quase sufocado com um cheiro absurdo de amonia, vindo provavelmente dos dutos do ar condicionado, que me deixou intoxicado por mais de um dia.",No aspect,
+"Recepcionistas atenciosos, inclusive o César que é brasileiro.",No aspect,
+Em especial monsier Denis e Pascal.,No aspect,
+"Hotel fantástico, bem localizado, limpo, lindo, quarto, cama, banheiro gigantes, maravilhosa a vista do hotel para Strip, piscina maravilhosa com cascata, shows com golfinhos, tigres,,,mulheres rsrs, drinks inesquecíveis... impossível não comparar com os outros hotéis... Super recomendado!!!",hotel,1.0
+"Muito bom hotel, banho gostoso ao final de um dia de passeios, cama com ótimo colchão, roupa de cama legal, o café da manhã delicioso, funcionários sempre muito gentis e pacientes com nossa dificuldade com o idioma, além de ter mercado, metrô, restaurantes próximos.",colchão,1.0
+O Distrikt Hotel em Nova York é um excelente hotel nesta cidade que nunca dorme.,cidade,1.0
+Não se ouvia barulho vindo da rua.,No aspect,
+"Fica próximo à um dos principais pontos turísticos de Porto Alegre, a Casa de Cultura Mário Quintana, lugar muito interessante de se visitar, principalmente o restaurante no andar mais elevado, fica próximo ao shopping Rua da Praia, que não é shopping grande, mas cumpre a finalidade para caixas automáticos, Macdonalds e restaurantes!",shopping,1.0
+"Hotel pequeno, quarto pequeno (mas muito ajeitado)  , mas muuuuito charmoso, quartos limpíssimos, camas super confortáveis, Uma Ducha maravilhosa para tomar banho, piscina aquecida, academia, sauna.",ducha,1.0
+Recomendaria.,No aspect,
+Quartos amplos e limpos.,quarto,1.0
+"Muito bom hotel, banho gostoso ao final de um dia de passeios, cama com ótimo colchão, roupa de cama legal, o café da manhã delicioso, funcionários sempre muito gentis e pacientes com nossa dificuldade com o idioma, além de ter mercado, metrô, restaurantes próximos.",roupa de cama,1.0
+Não ficamos hospedados.,No aspect,
+"Hotel de ótima localização, perto de tudo, quartos limpos e organizados, café da manhã de boa qualidade e funcionários muito atenciosos.",funcionários,1.0
+"Hotel pequeno, quarto pequeno (mas muito ajeitado)  , mas muuuuito charmoso, quartos limpíssimos, camas super confortáveis, Uma Ducha maravilhosa para tomar banho, piscina aquecida, academia, sauna.",hotel,1.0
+"Estive neste hotel por 2 dias fazendo um curso pela minha empresa, deram uma lista de hotéis e acabei escolhendo este pela localização, mas acabei me arrependendo muito desta escolha.",hotel,0.0
+Hotel com bom custo/benefício para o Marais.,hotel,1.0
+"O café da manhã é razoável, pelo preço...",café da manhã,1.0
+"Não é 3 estrelas, e sim no maximo demasiadamente 2 estrelas.",No aspect,
+O hotel não condiz com as fotos do site!!!,No aspect,
+"o hotel é lindo, os quartos são ótimo, super limpos, o staff é educado e solicito.",quarto,1.0
+"A localização, a algumas quadras de uma estação de metrô, mas numa região decadente, feia, e suja.",localização,-1.0
+"Está a poucos quarteirões da Estação Rodoviária, Hospital Santa Casa, Usina do Gasômetro, Universidades, Praça da Alfandega, Shopping Rua da Praia café da manhã com muita variedade funcionarios atenciosos.",café da manhã,1.0
+O Buffet é excelente !,No aspect,
+Já no check-in fui informado que a lavanderia atrasou na entrega de toalhas!!,lavanderia,-1.0
+O atendimento também não é muito bom.,atendimento,-1.0
+O quarto é mínimo e não limpavam o carpete.,carpete,-1.0
+"O hotel é super bem localizado,perto de restaurantes,lojas,metro,central park,gran central...",lojas,0.0
+"Não serve para casal com crianças e nem tampouco para quem malas grandes, o espaço dentro do quarto é muito restrito.",No aspect,
+"Este hotel é um daqueles que cobre um santo e acaba descobrindo o outro, ou seja, ele não é muito bom (apesar de eles terem reformado a maioria dos quartos agora), mas tem uma localização ótimo: bem no centro velho.",hotel,-1.0
+"Aos brasileiros uma dica: procurem pelo recepcionista Sr. Ernesto (Cubano) Que fala um português muito bom, atencioso e simpático que nos ajudou muito, já que os outros atendentes falam apenas o francês e um Inglês meio fraco.",No aspect,
+"Um excelente hotel, a melhor opção para a grande cidade de NY: decoração acolhedora, quartos confortáveis e espaçosos, colaboradores muito simpáticos e atenciosos (com especial destaque para o doorman Jeffrey que é impecável), muito bem localizado e numa zona sossegada dada a proximidade de Times Square.",hotel,1.0
+A localização também é muito boa.,localização,1.0
+"O único ponto contra é a distância entre os elevadores e os apartamentos...se você tiver alguma dificuldade para caminhar, peça apartamento próximo aos elevadores.",apartamento,1.0
+"O hotel conta com quartos limpos e arrumados, café da manhã muito bom para padrões americanos.",quarto,1.0
+"Hotel novo, ao lado de um Carrefour e do Metrô...perfeita localização.",hotel,1.0
+"Mas tem boa relação custo-benefício e excelente localização, na região dos Grandes Magazines, a poucos metros da Estação Saint Lazare, da Galleries Lafayette, de resutaurantes, supermercados, e apoucas quadras da Madeleine e da Place de la Concorde.",localização,1.0
+"O quarto, pequeno mas aconchegante, moderno e funcional, é bom, limpo e asseado.",quarto,1.0
+"A única ressalva fica para as refeições, principalmente café da manhã, pois nos restaurantes do hotel é muito caro, valendo mais a pena fazer as refeições em outros lugares, como por exemplo no hotel ao lado (Monte Carlo) que é bem mais barato!!!",café da manhã,-1.0
+Tentei hospedar meus pais lá mês passado meio que de ultima hora e não consegui.,No aspect,
+O cassino é bonito e não fica lotado.,cassino,1.0
+"Tentaram me cobrar o valor do Cafe da manha de 4 dias sendo que só tomei um e quando reclamei o atente foi grosso e atendeu mau até o fechamento na forma correta, como se eu estivesse errado...",No aspect,
+"É um hotel mais moderno e contemporâneo, se comparado ao Hotel Wynn por exemplo, que possui arquitetura mais clássica.",No aspect,
+"Mas, se vc precisa depender da lavanderia, esqueça!",lavanderia,-1.0
+Não só recomendo como voltarei a me hospedar quando voltar a Paris.,No aspect,
+Pontos fracos: Internet é cobrada Não há geladeira nos apartamentos.,No aspect,
+"Tem estacionamento, pago, mas por honestos U$6,00 a diária.",No aspect,
+Os quartos sao escuros e o servico de limpeza deixa a desejar.,No aspect,
+O famoso jeitinho brasileiro.,No aspect,
+"O quarto muito confortável com cama king, amplo com um pequeno sofá, mesa de trabalho com todo tipo de conexão para computadores, banheiro enorme e com banheira separada do chuveiro.",cama,1.0
+Imagine a cena senta-se no vaso sanitário e abre o chuveiro e está tudo certo toma banho sentado.,chuveiro,0.0
+"Qualquer locomoção é fácil, há orientação clara do hotel e os empregados  são muito prestativos e gentis.",No aspect,
+Voltaremos em outubro de 2011 e já reservamos lá novamente.,No aspect,
+"Hotel de Negócios com ótima localização(54W x 6ª Av.), ótimo serviço de Concierge.",serviço,1.0
+"Os quartos são pequenos para quem está acostumado com quartos americanos, mas acho que isto é comum em toda Paris.",No aspect,
+"A recepção do hotel fica no oitavo andar, qualquer pessoa tem acesso ao hotel sem precisar se identificar .",hotel,0.0
+Os funcionários são muito prestativos.,funcionários,1.0
+"Alem da avaliação acima positiva, vale ressaltar a qualidade e variedade do café da manha que inclui uma linha de produtos biodinamicos, tendo sido muito superior ao esperado p um hotel de cadeia.",hotel,1.0
+Voltaria a ficar neste hotel devido a localização privilegiada.,No aspect,
+Preço caro como todos hotéis em NY.,preço,-1.0
+"Em relação ao valor do hotel vale a pena optar por este, pois uns amigos escolheram outros hotéis próximos nos mesmos valores e não tinham café da manhã !",hotel,1.0
+"Valeu muito ficar ai, ótimo custo x beneficio, pois paguei muito barato as diárias, voltaria sem dúvida.",No aspect,
+O atendimento é bom e a limpeza também.,atendimento,1.0
+"Além de muito bem localizado (fica entre o Central Park e a Times Square, bem ao lado de uma estação de metro), o preço dele era o mesmo de alguns hotéis de categoria inferiores.",preço,1.0
+"Café da manhã bom, porém com limitação de capacidade nos horários de pico.",café da manhã,1.0
+"As instalações do quarto eram um pouco antigas, a roupa de cama (edredon) tinha aspecto de suja.",instalações,-1.0
+"Como dica, fica a de que virando a esquina existe um hotel muito melhor pelos mesmos preços praticados neste.",preço,0.0
+Estamos ainda aguardando um outro quarto e só depois das 9:00 dormir que e bom .....,No aspect,
+Recomendo!,No aspect,
+"Frigobar bom e completo, banheiro com chuveiro muito bom (quesito essencial no inverno!) e sistema de calefação pra secagem de roupas.",chuveiro,1.0
+Hotel gostoso e uma ótima localização.,localização,1.0
+"Como nosso voo sairia a noite, o hotel fez nosso check out e guardou nossa mala até ficarmos próximo a hora do voo.",No aspect,
+"Nos colocaram num quarto para fumantes, mesmo sem ser solicitado, com forte cheiro de cigarro.",quarto,-1.0
+Hotel econômico e agradável.,hotel,1.0
+"O hotel não oferece nenhum conforto como piscina , sala de ginastica ou qualquer outro tipo de lazer.",conforto,0.0
+"Não provei o pequeno almoço, pois nas imediações do hotel há cafetarias e supermercados bons com um preço final mais em conta!",No aspect,
+"Hotel com ótima localização, atendimento e limpeza.",hotel,1.0
+"Estive com meus filhos jovens por 5 semanas, os meninos estudando e eu uma mãe muito feliz!",No aspect,
+Serviço é cinco estrelas de uma atenção nunca vista.,serviço,1.0
+"Recomendo fortemente!!!Hotel muito bem localizado no centro da Strip, com quartos perfeitos e sempre muito limpos.",quarto,1.0
+"Hotel com cara de New York .imperra o modernismo e o futurismo de alta tecnologia, dispõe de quartos modernos, do tipo cabine, e de um terraço amplo na cobertura.",hotel,1.0
+"O Hotel é extremamente bem localizado, com um serviço de muita qualidade.",hotel,1.0
+RECOMENDO e voltarei.,No aspect,
+"Hotel antigo, recepção acanhada.",recepção,-1.0
+"Resumindo,atendimento nao é bom,banheiros bem antigos o chuveiro demora muito pra esquentar.",atendimento,-1.0
+É definitivamente o melhor do hotel!!!!!,No aspect,
+"Bem localizado, limpo, com troca das toalhas todos os dias.",No aspect,
+Não se hospede nem de passagem.,No aspect,
+"A localização é maravilhosa, tudo é novinho, perfeitamente limpo, porém o sistema de ar central no funcionava, o calor era absurdo a noite, não havia como abrir a janela e passamos 3 noites em um quarto abafado, onde dormir era quase impossível!",localização,1.0
+"O serviço de Concierge é ótimo, procure pelo Benjamin e ele fará reservas nos melhores lugares.",No aspect,
+"Pontos positivos: bem localizado, ótimo café da manhã, água quente no chuveiro (na pia, não), wi-fi no quarto e dava pra usar o telefone pra pedir delivery, sem pagar uma taxa muito cara.",quarto,0.0
+"Não sei se responderão a este mas acho importante que estes acontecimentos sejam de conhecimento de outros, para evitarem que venham a passar por estes problemas.",No aspect,
+"Enfim, não indico para ninguém.",No aspect,
+"Fábio Silva  Room Tip: Optei por andares alto, assim não se ouve nada do transito, embora as janelas tenho sistema de bloqu...",No aspect,
+"Apesar de boa localização, um dos piores hotéis que já fiquei.",localização,1.0
+tem uma porta de correr que separa os ambientes.,No aspect,
+"Como estava fora da cidade, parei de dar telefonemas e ao retornar em fevereiro tive que ir novamente ao hotel, e apos muita insistencia consegui falar com o responsavel e apos mais 3 dias fizeram o deposito, mas so de um casal!",cidade,0.0
+"O hotel em geral é bom, o que achamos ruim foi o tamanho do quarto e do banheiro.",hotel,1.0
+"Hotel boutique, com excelente localização, serviço super prestativo e ultra atencioso (pasmem! lieberaram generosos early check-in e late chek-out), quartos e banheiro muito confortáveis e espaçosos (raro em NY), interessante sistema de buffet de café da manha e happy hour inclluidos.",quarto,1.0
+Super rápido!,No aspect,
+"Com um ótimo atendimento e novo conceito, o hotel boutique possui camas extremamentes confortáveis.",hotel,0.0
+"Os corredores são horríveis, verdadeiramente fúnebres, sendo mal iluminados, com carpetes sujos e manchados, além de falta pintura nas paredes.",carpete,-1.0
+"Excelente serviço de limpeza, cafe da manhã com muita variedades, Quartos renovados, cafeteira, wi-fi com bom sinal, próximo a mercado, silencioso, cafe da manha ótimo por ser Europa, super limpo.",limpeza,1.0
+Alguns restaurantes próximos com melhor custo benefício.,No aspect,
+"Tem cofre no quarto, o que é muito bom para deixar dinheiro e documentos.",No aspect,
+Tenho costume de viajar bastante e fiquei encantada com Paris.,No aspect,
+Eu e meu marido ficamos neste hotel em janeiro/2012 .,hotel,0.0
+"O único ponto negativo que achei foi pagar $ 6,00 em uma garrafinha de água de 350 ml.",No aspect,
+"As instalações do hotel são muito boas, os quartos limpos e bem cuidados, tudo de primeira.",quarto,1.0
+"Meu unico porem e o chuveiro do banheiro que nao e tao bom, para um banheiro maravilhoso como aquele com jacuzi e televisao o chuveiro poderia ser melhor.",chuveiro,-1.0
+"O hotel, bem como suas comodidades fizeram jus ao preço praticado, mas, os quartos são minúsculos.",quarto,-1.0
+Cafe da manha com poucas opções e frio.,No aspect,
+"A localização, para quem gosta de estar próximo às grandes lojas, é bom - pois fica a 10 minutos a pé da Galeries Lafayette e também da Champs Elise.",localização,1.0
+"Estive em janeiro 2013, este hotel e para quem quer (BBB) bom, bonito e barato este é o lugar, localização excelente x preço muito bom, com um bom café da manhã (leite- sucos - pães - frutas - Yorgutes - etc.) mas eu sinceramente achei um pouco apertado, mas se acordar cedo, é mais tranquilo, boa cama, ele tem um closet separada com porta que é muito bom, pois o quarto fica organizado, banheiro tamanho bom.",preço,1.0
+O atendimento da recepção é muito boa.,recepção,1.0
+"Localização do hotel é perfeita, cassino sempre cheiroso, quarto excelente, limpo, e grande.",localização,1.0
+"Café da manhã razoável, boa localização e bom atendimento.",café da manhã,1.0
+"A localização é boa (perto da estação Grand Central), os quartos tem um tamanho muito bom, a decoração é clean.",quarto,1.0
+Corredores do hotel sao extremamente apertados,corredor,-1.0
+Na primeira a eficiente funcionária resolveu na hora.,No aspect,
+Estive a negócio para visitar 6 dias de uma feira de maquinas para concreto.,No aspect,
+Em pouco tempo pode-se estar em qualquer lugar de Londres,No aspect,
+"Na média, bom custo-benefício, principalmente levando em conta o baixo preço.",custo-benefício,1.0
+"As toalhas são boas, o colchão é confortável e o edredon é macio.",toalha,1.0
+Amei!!!,No aspect,
+"Fiquei no quarto padrão com banheira, que é grande para os padrões de NY!",banheira,1.0
+Dentro de 3 ou 4 estações você consegue alcançar os principais destinos da cidade.,No aspect,
+Minha crítica seria o tamanho do elevador (mal cabia a minha mala).,elevador,-1.0
+"o banheiro é muuuito velho, a torneira quando aberta fazia um barulho que mais parecia um trem chegando, papel de parede do quarto rasgado, o café da manhã bem mais ou menos, enquanto comíamos a mulher começou a resmungar, desligar o ar condicionado, televisão, e retirar a comida, uma falta de respeito, não recomendo.",torneira,-1.0
+"Ao meu ponto de vista, outros podem ter outra opinião, que fique claro isso, NÃO vale a pena ficar neste hotel, é longe da Strip, senti cheiro muito forte de cigarro, nos outros não sente nada.",hotel,-1.0
+Não tomamos café da manhã no hotel.,hotel,1.0
+No período que me hospedei ( 5 dias ) o WIFI não pegou em nenhum instante e o computador do hotel disponível para os hospedes estava cheio de vírus o que bloqueou minha conta no facebook.,hotel,0.0
+"Mas Os quartos são muito bonitos e espaçosos... porém por ser muito conhecido, é um hotel que está sempre cheio de pessoas que não estão hospedadas, cassino vive lotado e restaurantes também!",quarto,1.0
+Funcionários gentis e prestativos.,funcionários,1.0
+O concierge do hotel é muito bom e nos ajudou em todas as dúvidas que tivemos!,No aspect,
+"O hotel Crystal, além de muito bem localizado - ao lado do Café de Flore, em St. Germain des Prés - conta com um serviço correto e atencioso por parte dos funcionários.",serviço,1.0
+Não tenho o que reclamar.....,No aspect,
+Recomendado para quem vai pegar o aeroporto muito cedo ou para quem chega muito tarde.,aeroporto,0.0
+"Sem falar que o hotel fica muito bem localizado em Nova York, muito perto da Times Square e do Central Park, dá para ir caminhando.",No aspect,
+Voltaremos em outra oportunidade com certeza.,No aspect,
+"O quarto é velho e o banheiro um caso de saúde pública, já que no box o piso é um laminado plástico por cima do azulejo e super mofado por baixo, um chuveiro ruim e sem ventilação.",chuveiro,-1.0
+"A localização é fantástica, próxima a Catedral de Notre-Dame, próximo a cafés fantásticos, lojas excelentes.",localização,1.0
+"A boulevard Saint Michel tem várias lojas, mercados.",No aspect,
+Passei alguns dias no The Jewel  e indico para qualquer pessoa esse hotel.,hotel,1.0
+"Suíte confortável, limpa, charmosa, staff educadíssimo, a janela do meu quarto dava para as piscinas do Caesar, localização privilegiada.",quarto,1.0
+"Quarto grande e limpo, com roupas de cama razoáveis e toalhas de banho muito pequenas.",toalha,-1.0
+Funcionários atenciosos e prestativos.,funcionários,1.0
+Café da manhã bem servido.,café da manhã,1.0
+"A localização é muito boa, pois fica no centro da cidade, mas o atendimento deixa a desejar.",localização,1.0
+Fica a cerca de 300 metros do Arco do Triunfo.,No aspect,
+Com certeza ficarei la novamente.,No aspect,
+A localização e excelente!!!,localização,1.0
+As fotos não condizem com o que eu encontrei lá.,No aspect,
+Apenas os garçons do restaurante que se atrapalham qdo não falamos em francês.,No aspect,
+"A cidade é um sonho, tem de tudo a toda hora.",cidade,1.0
+"Extremamente limpo, todo novo e moderno.",No aspect,
+"Um ótimo atendimento, funcionários muito atenciosos e dispostos a ajudar, principalmente por ter um recepcionista que fala português.",funcionários,1.0
+"TV me entregaram o controle errado e o cara fala um inglês péssimo, o aqueceder estava super quente o o cara falou que não podia fazer nada, sem contar o medo de ser assaltado a noite inteira....",No aspect,
+Achei isso horrivel!,No aspect,
+"Os quartos são pequenos, como em qualquer hotel parisiense, ainda assim bastante cómodos e limpos.",No aspect,
+E um excelente custo-beneficio.,No aspect,
+"Os quartos são excelentes, as camas maravilhosas, além da opção de escolher os travesseiros.",quarto,1.0
+Típica educação francesa.,No aspect,
+Quando o metro passa você sente estremecer.,No aspect,
+"A uma quadra do hotel, está a Rue du Faubourg Saint-Honore, uma das ruas mais chiques de Paris.",rua,1.0
+Pelo mesmo preço encontramos outro hotel muito melhor.,preço,-1.0
+"Quando cheguei, fiquei encantada com o hotel, fachada bonita e iluminada, saguão grande e atendentes simpáticos, mas quando cheguei no quarto, começou a decepção... pequeno (quase um ovo), banheiro minúsculo (pessoas com mais de 1,80m de altura não consegue sentar no vaso e as toalhas tinham um cheiro totalmente desagradável.",toalha,-1.0
+O hotel não tem muita área de lazer e faz falta uma piscina no verão.,No aspect,
+O os chuveiros e trancas funcionam e as luzes são claras o suficiente para que se possa fazer coisas no quarto à noite.,chuveiro,1.0
+"Quarto bom, reformado.",quarto,1.0
+"Boa localização, perto da estação do metrô da Union Square.",localização,1.0
+Os quartos são antigos e pequenos e o banheiro é de fazer você rir .. pois no mesmo espaço que vc toma banho pode fazer as necessidade fisiológicas simultaneas.,quarto,-1.0
+da ate para chegar na Champs Elisee a pé com uma boa caminhada.,No aspect,
+"Ficamos neste hotel e gostamos muito, perto de 2 estações do metrô o que facilitou muito a circulação pela cidade, também tinha vários restaurantes, padarias, mercados perto e era numa rua bem sossegada.",hotel,1.0
+O café da manhã é excelente e a equipe do hotel é atenciosa e sempre disponível.,café da manhã,1.0
+"Hotel Express Expressinho é um um bom lugar para fazer um pit stop e seguir viagem quando em Porto Alegre, preço justo para os serviços que oferece, além disso o hóspede pode contar com o serviço de transfer aeroporto/hotel/aeroporto, principalmente levando-se em consideração o preço do taxi.",serviço,0.0
+Acomodações muito aconchegantes e muito bonito por dentro e por fora.,No aspect,
+"Moderno, com quartos equipados com cozinha completa, jacuzzi, projetor com telão e até máquina de lavar roupa e TV no banheiro.",cozinha,1.0
+"Hotel muito agradáve, próximo ao Arco do Triunfo e da parada do onibus do Air Franced bus,    Preco compatível com acomodacoes , quarto limpo e silecioso.",quarto,1.0
+Ficamos 8 dias e não foi feito nem uma vez.,No aspect,
+"Apesar da distância de 20 minutos ao centro da cidade vale a pena porque o preço é excelente, o metro é junto ao hotel, o atendimento é excelente e os quarto modernos e espaçosos.",quarto,1.0
+"A localização é boa, bem proximo a time square, fazendo apenas uma ressalva de que muito tarde da noite merece uma certa atenção.",No aspect,
+"Ficamos alojados no 5o. andar, sem elevador e sem auxílio de funcionários para transportar as bagagens.",funcionários,-1.0
+"Excelente localização, confortável com staff formado por funcionários educadíssimos e atenciosos.",funcionários,1.0
+"Staff muito solícito e simpático, quarto e banheiro com excelente apresentação e padrão de limpeza.",quarto,1.0
+"Uma falha grande foi ter agendado com bastante antecedencia e pago pelo serviço de taxi no proprio balcão do hotel e o mesmo não apareceu, tive que sair de malas em punho pela rua procurando um taxi e consequentemente chegando em cima da hora no aeroporto",aeroporto,0.0
+"Para quem esta sem carro vale a pena pois está perto de muitos outros hoteis maiores com casinos como o Luxor, Mgm, New York e outros.",No aspect,
+Adoramos!,No aspect,
+"O hotel é elegante, charmoso, muito bem cuidado e com funcionários bastante atenciosos.",hotel,1.0
+Fiquei num quarto de fundo e nào ouvi barulho algum da avenida.,No aspect,
+Opção por suítes e quartos com banheiro coletivo.,suíte,0.0
+"O hotel é super pequeno, mas oferece quartos com um tamanho bom, decoração contemporânea e um bom café da manhã.",quarto,1.0
+Os banheiros sao otimos e muito novos.,No aspect,
+"Hotel velho ,elevador horroroso para 02 pessoas com defeito,vazamento enorme na pia da sala só resolvido 03 dias depois de ter informado os funcionarios ,cheiro enorme de cigarro no quarto e recepção do hotel,ficamos no último andar a vista da torre e linda.",hotel,-1.0
+Não conte com ele...,No aspect,
+Estacionamento gratuito e serviço de quarto impecável.,serviço de quarto,1.0
+Me hospedei em fevereiro de 2012 e outubro de 2010.,No aspect,
+"O hotel de positivo tem sua localização, mas de resto é deprimente Decoração inexistente.",localização,1.0
+As instalações são muito apertadas e apresentam decoração antiquada e desgastada pelo tempo e pelo uso.,instalações,-1.0
+Ficamos no 28º andar mas o acesso é feito muito rápido.,No aspect,
+"Mas se estiver sem carro, vai depender de táxi para ir a todos os lugares, o que se torna caro.",No aspect,
+"Hotel bem localizado, próximo ao centro e ao Shopping Total.",shopping,0.0
+Mas o hotel é limpo só que o bom é ficar nos quartos para os fundos os da frente sao barulhentos devido ao movimentosdos carros e do trem na rua.,rua,0.0
+"Diferencial do café da manhã (incluso), pouco usual em NYC.",café da manhã,1.0
+"O serviço dispensa comentários, tudo perfeito.",serviço,1.0
+"Hotel bem antigo, tudo cheira a fumaca de charuto... atendimento no buffet foi confuso, a garconete nos ofereceu uma mesa, nos levantamos para buscar a comida e quando retornamos, ela havia colocado outras pessoas na mesma mesa... um confusao.",atendimento,-1.0
+Estive hospedada no The Chatwal Hotel em agosto de 2012 e tive uma excelente experiencia.,hotel,1.0
+"Apenas 2, e mesmo assim sem muito conforto.",No aspect,
+"A parte interna da portaria você vê e até pensa que é um hotel razoavel, mas o banheiro é deplorável.",No aspect,
+Fica em frente a Sacks e a St. Patrick.,No aspect,
+Adoramos e ficaremos lá novamente no futuro,No aspect,
+Reformado o hotel está ainda melhor.,hotel,1.0
+Perfeito!,No aspect,
+"Excelente localização, próximo a Times Square.",localização,1.0
+" Tem o melhor concierge do mundo, fez todas as reservas, me colocou nas melhores mesas e ainda deu dicas de todos os passeios - por si só já vale a estadia.",No aspect,
+"Um bom atendimento, funcionarios educados e prestativos.",atendimento,1.0
+O café-da-manhã é bom!,No aspect,
+"Hotel bem localizado de fácil acesso as principais atrações, limpo e de ótimas acomodações.",hotel,1.0
+Uma mega escada para ter acesso.,escada,-1.0
+"Hotel com boa localização, próximo ao aeroporto.",localização,1.0
+"A principal vantagem que achamos é a localização, próximo de uma das estações do metro, facíl para se deslocar aos pontos turísiticos, com vários restaurantes próximos.",localização,1.0
+O hotel é bem estruturado e possui um shopping enorme e bons restaurantes.,hotel,1.0
+Tudo bem...,No aspect,
+O estacionamento é um roubo ( 57 dólares).,estacionamento,-1.0
+"Era tudo limpo, os corredores do hotel e elevadores eram novos e arrumados.",corredor,1.0
+"Tirando isso, achei o quarto maravilhoso (bonito e limpo) e a localização é incrível.",quarto,1.0
+"bonito, confortável e com um preço HONESTO.",No aspect,
+Está a dois passos da estação de metro e próximo de bons restaurantes.,No aspect,
+o hotel dispõe de recepcionista em português.,No aspect,
+Corredores sem cheiro de cigarro e quartos silenciosos.,quarto,1.0
+"Excelente hotel, bem no coração da strip.",hotel,1.0
+Quartos excelentes e localização fora de série.,localização,1.0
+"Fora isso, tudo perfeito!",No aspect,
+o café da manha foi improvisado no saguâo de entrada.,No aspect,
+" Os pontos positivos: quarto grande, com terraço, café da manhã e happy hour com queijo e vinho incluídos na diária são os diferenciais em relação aos outros hotéis do mesmo padrão em NY.",quarto,1.0
+"Hotel muito aconchegante, limpo e com um delicioso café da manhã.",café da manhã,1.0
+"O hotel é muito limpo, os quartos são confortáveis, o café da manhã é bem servido e o principal: os funcionários são todos muito simpáticos e atenciosos.",café da manhã,1.0
+A localização não poderia ser melhor.,localização,1.0
+"A rua tem optimos restaurantes, lojas de roupa e está perto da estação de metro.",rua,1.0
+"Permitiram, inclusive, que eu fizesse check in antes do horário, sem custo adicional.",No aspect,
+"Na rua da frente varios cafes, com saladas excelentes um subway e fica muitoo proximo ao panteao.",rua,1.0
+O serviço também deixou a desejar - a reserva feita via hotels.com foi inclusive desprezada (o hotel fez a cobrança integral no cartão de crédito e o tal do café da manhã incluído era algum devaneio de César!!!).,serviço,-1.0
+"Tem vários cafés nas redondezas, o metrô não é longe e fica colado na Times Square, porém longe da bagunça e barulho.",No aspect,
+Quartos excelentes e localização fora de série.,quarto,1.0
+"O quarto é amplo, com mega janelas, mega televisão, cama enorme!",quarto,1.0
+"Hotel em uma área mais afastada da cidade, área não turística.",hotel,0.0
+"A localização deixa um pouco a desejar, mas também não é das piores...isso não nos atrapalhou em nada!",localização,-1.0
+"Chegamos neste hotel por volta das 23 hs e apesar de termos avisado da chegada neste horario, disseram que não havia mais quartos.",hotel,0.0
+"O Hotel está bem situado, tem transportes e imenso comércio a cerca de 100 metros.",No aspect,
+O hotel é bem próximo da Times Square.,No aspect,
+Os quartos são novos e a limpeza é impecável.,limpeza,1.0
+"Apesar de ficar em uma área central com acesso fácil a tudo, a noite foi terrivel, o quarto estava com cheiro de mofo e o carpete estava bem sujo.",quarto,-1.0
+A recepcionista Cristina fala português e é muito atenciosa.,No aspect,
+"Ambos com banheira, embora o chuveiro tivesse pouca pressão.",banheira,0.0
+Não tenho do que reclamar.,No aspect,
+"Para os padrões de NY o quarto é enorme , com 02 closets , e cozinha com microondas.",quarto,1.0
+Basta abrir a persiana do corredor que podem assistir você tomando banho (Veja a foto).,No aspect,
+Recomendo!,No aspect,
+"Na rua do hotel tem mercados, mc donalds, bares, restaurantes, farmacia, lojas etc...",rua,1.0
+"O hotel não foge do padrão Mercure, simples porém limpo e seguro.",hotel,0.0
+Este hotel superou nossas expectativas em termos de padrão de atendimento.,atendimento,1.0
+Ponto mais negativo são os banheiros apertados.,No aspect,
+"O quarto é excelente, com duas tvs, piso aquecido do banheiro e uma banheira deliciosa.",banheira,1.0
+"Hotel bom, apenas tem algum cheiro de mofo no quarto de fundo, sendo que nos quartos da fente por pegar mais sol o cheiro de mofo é bem pequeno mas a localizaçao é otima, bem no centro da cidade, perto de tudo.",hotel,1.0
+O serviço na recepção do hotel é muito boa.,serviço,1.0
+Acesso direto p aeroporto por trem.,No aspect,
+Quarto muito limpo.,No aspect,
+O hotel estava em reforma e incomodou um pouco a poeira.,No aspect,
+- atendimento (muito bom! Fizemos check in de madrugada e não tivemos problema),atendimento,1.0
+"O atendimento é muito prestativo, porém os recepcionistas poderiam ter mais paciência com quem tem o inglês devagar.",No aspect,
+"Os demais serviços (quarto, recepção, internet e café da manhã) não passam de razoáveis.",quarto,1.0
+"Ótima localização, quartos limpos e reformados.",localização,1.0
+bar no lobbu tb bom  Room Tip: peca o maior quarto !!!,No aspect,
+A vizinhança é esquisita e o quarto do hotel é muito pequeno.,hotel,0.0
+"Os quartos são limpos, os banheiros também e tanto a tv quanto as outras partes pareciam ser novos.",tv,1.0
+"Hotel com boa localização, a pouco mais de 5 minutos a pé da Opera e 15 do Louvre, e metrô a pouco mais de 100 metros.",localização,1.0
+"O banheiro é igualmente simples, mas limpo e funcionando.",No aspect,
+"Amei este hotel, a decoração é linda, o quarto muito confortável.",hotel,1.0
+"quartos com um bom tamanho, recepcionistas muito ágeis.",quarto,1.0
+"Felizmente, no dia seguinte, conseguimos um hotel bem melhor nas proximidades e nos mudamos.",No aspect,
+"ESTE HOTEL NAO É 3 ESTRELAS E NEM SE PODE DIZER QUE TEM ELEVADOR, POIS O MESMO NAO PARA NO SEU ANDAR, FUNCIONA ASSIM: 2/3 OU 3/4, O ELEVADOR PARA NO MEIO ENTRE O 2° E O 3° E DEPOIS VOCE TEM QUE SUBRIR OU DESCER ESCADAS E ESTAS SÃO GRANDES..",hotel,-1.0
+Acesso ao metrô e ônibus muito próximo.,No aspect,
+Internet não funciona nos quartos e não esqueça de levar adaptador de tomada.,internet,-1.0
+"O Hotel está no melhor complexo de Las Vegas, é clean, chique, ótimo atendimento.",atendimento,1.0
+Quando chegamos (eu e minha esposa) ao hotel às 17:00 hs aproximadamente fomos informados pela recepcionista que nossa reserva havia sido cancelada e que só havia um apartamento com uma cama de solteiro.,No aspect,
+Depois pertence ao prestigiado Grupo ACCOR.,No aspect,
+"Bom preço, bom hotel e perto do metro!",hotel,1.0
+"Enfim não caiam nessa cilada, MEDÍOCRE!!!",No aspect,
+Bem localizado... a apenas uma escadaria do metro mais proximo.,No aspect,
+"Economize o seu dinheiro e vá para um motel, durma no carro ou mesmo, se estiver duro, durma na praça, pois, com certeza a relação custo-benefício será mais honesta e fidedigna.",motel,0.0
+"Precisei pedir para trocar de quarto porque o primeiro era apenas cheiro de cigarro e o quarto que me colocaram em seguida, era minúsculo.",No aspect,
+Atendimento bom.,atendimento,1.0
+"O Café da manhã pago a parte custa U$S 28,00 não compensa exceto se a sua empresa pagar.",No aspect,
+"Claro, com ampla janela.",No aspect,
+super recomendo,No aspect,
+muito perto da estação do metro de Maubert que te leva para qualquer lugar.,No aspect,
+"Não tem tv a cabo, é um hotel bem antigo.",tv,0.0
+"Ou seja, não é um lugar para passear a pé, mas no Shopping Total tem praça de alimentação,que é útil já que o hotel não tem room service, com boas lanchonetes e alguns bons restaurantes.",No aspect,
+Esperávamos um pouco mais pelo valor cobrado.,No aspect,
+A saída do metro é praticamente na porta do hotel (uns 10 metros da entrada).,No aspect,
+Passamos 07 dias maravilhosos.,No aspect,
+Room Tip: Quarto pequeno e ma qualidade de limpeza,No aspect,
+Bem próximo tem um excelente supermercado Food Emporium.,No aspect,
+"Evitem chegar tarde no check in,e aos sábados.",No aspect,
+"Hotel com atendimento, serviços e acomodações ruins.",serviço,-1.0
+"Fica perto da praça da bastilha e o que mais gostei é que a região é bem tranquila , tem mercado na frente que dá pra fazer um lanche e comprar alguma coisa que vc precise .",No aspect,
+"Fiquei com minha filha 5 dias neste hotel, que é muito bem localizado, limpo, o atendimento do funcionários é muito bom.",atendimento,1.0
+"O quarto é simples, muito pequeno, mas tem tudo o que se necessita.",No aspect,
+"Café da manhã razoável, boa localização e bom atendimento.",atendimento,1.0
+"Próximo de tudo, tem tambem um metro na esquina, chegamos cedo, antes do horario de check-in, mas deixamos as malas e qdo voltamos , ainda antes do horario, nosso quarto ja estava pronto, quarto com um bom tamanho, limpo e funcionários muito atenciosos, cafe da manha simples mas bom,excelente custo/benefício.",funcionários,1.0
+Eu rapidamente encontrei um.,No aspect,
+"O mesmo está localizado bem no centro de uma intensa movimentação comercial, diante de ladeiras e ruas estreitas e com mão única, o que dificulta o percusso de Táxis.",rua,-1.0
+"Localizacao muito boa, bem central com metro praticamente na esquina.",No aspect,
+Bom Hotel: limpo e confortável.,hotel,1.0
+"A localização é excelente , local privilegiado para compras e para pontos agitados da cidade.",localização,1.0
+"Os quartos são pequenos (pelo que fiquei sabendo, em Paris tudo é assim), tem bom café da manhã, mas não serve almoço e nem jantar, mas não é problema, na própria av carnot vc encontra restaurantes dos mais variados",almoço,0.0
+Hotel afastado da Strip.,No aspect,
+"Seria um preço justo, se oferecesse mais variedade.",No aspect,
+"Enfim, excelente localização!",localização,1.0
+O hotel tem ótima localização e as acomodações são muito boas.,localização,1.0
+"Á localização é ótima, mas impossível para quem quer um mínimo de conforto.",localização,1.0
+O quarto é bem espaçoso e acomoda 4 pessoas sem problemas (inclusive com bastante malas).,quarto,1.0
+Recomendo sempre!,No aspect,
+Agora pela manhã estou decidido a ir na vigilancia sanitária de Porto Alegre para ver como ninguem até hoje chegou até lá para interdita lo.,No aspect,
+Internet gratis.,internet,1.0
+Cozinha bem equipada.,cozinha,1.0
+"O quarto pequeno como na maioria dos hoteis em Paris, mas muito bonito e com varanda.",No aspect,
+"O preço indica o que receberá como serviço: um hotel simples, algo desgastado, com corredores escuros e banheiros simples e mal conservados.",preço,0.0
+Tratamento impecável.,No aspect,
+Recepção e lobby vultuosos.,recepção,1.0
+"um hotel bom para quem vai a cidade para negócios, os quartos são limpos mais nada de mais, fiquei num quarto que estava recém reformado, fui muito bem atendido pela equipe, fica no centro o que faz facilitar sua vida.",hotel,1.0
+"Tem tudo perto do hotel, supermercado e McDonald, se quiser.",hotel,1.0
+"Muito bem localizado, perto de varios pontos turisticos, como o Museo do Louvre, bons restaurantes, perto da av.Champs Elysées, etc.",No aspect,
+"Excelente localização, com restaurantes, metro, supermercados perto.",localização,1.0
+"Ótima localização, transporte público muito acessível, quartos amplos, funcionários atenciosos, solicitações atendidas em 5 minutos (coisa rara em hotéis de grandes cidades) e muito limpo.",quarto,1.0
+"O melhor de tudo é a localização:rua tranquila e silenciosa no coração do Quartier Latin, a dois passos da Sorbonne, Panteon, Luxembourg, rio Sena, o que há de melhor em Paris.",localização,1.0
+"Adoramos a localização do hotel, várias entradas de metrôs, na esquina o Arco do Triunfo com a Avenue Champs Elysses, quer mais?",hotel,1.0
+"Pessoal, Tive que ficar uma noite desse hotel depois de voltar de gramado, foi o único hotel disponível, era melhor ter dormido no carro.",hotel,-1.0
+Tive problemas com minha bagagem que não chegou junto com meu voo e o pessoal da recepção teve muita presteza e simpatia em me ajudar a resolver o problema.,recepção,1.0
+Ps.: Existe um funcionário na recepção que fala português (Patrick).,recepção,1.0
+Porto Alegre foi sensacional.,No aspect,
+O hotel está muito bem localizado e em frente a uma estação de metrô.,hotel,1.0
+"Quem conhece o Ibis sabe do seu padrão, mas as três opções de restaurantes em um só hotel me deixou bem satisfeita.",hotel,1.0
+Room Tip: O quarto era bem espaçoso.,No aspect,
+"A limpeza dos quartos é impecável, funcionários gentis, ficaríamos novamente.",limpeza,1.0
+Talvez por este motivo eu troque de hotel em minha próxima estada em NY.,No aspect,
+O quarto com decoração classica nos agradou bastante.,quarto,1.0
+Quartos amplos e confortáveis.,quarto,1.0
+mas da pra se divertir muito.,No aspect,
+"Antes de ficar nesse hotel, ficamos no Plaza Tour Eifeil, bem mais barato e beeeemmmm melhor!!!!",No aspect,
+"Mandei nova mensagem avisando que o valor ainda não havia sido restituído na semana passada, mas desta vez não obtive resposta.",No aspect,
+"Ambos com banheira, embora o chuveiro tivesse pouca pressão.",chuveiro,-1.0
+Fica bem perto de uma estação de metrô.,No aspect,
+"Hotel novo, ao lado de um Carrefour e do Metrô...perfeita localização.",localização,1.0
+"Eu já estive nesse mesmo hotel, quando ele ainda não era denominado IBIS, mas não me lembrava mais do tamanho dos quartos.",hotel,1.0
+"Então, é silencioso, limpo, confortável.",No aspect,
+Preco alto para o que oferece,No aspect,
+"O hotel é pequeno, mas muito bem conservado.",No aspect,
+"Sujo, velho, mal tratado.",No aspect,
+Sem café da manhã que em NYC é uma boa opção pois há bons restaurantes com ótimos breakfasts em todas as quadras.,café da manhã,0.0
+Fiquei com medo de ficar la.,No aspect,
+"o excelente atendimento logo na chegada, todos muitos atenciosos e simpaticos.",atendimento,1.0
+Excelente localização.,localização,1.0
+Eu e minha família nos sentimos moradores de Paris neste simpático hotel na cidade.,hotel,1.0
+Valido para quem vai se hospedar por bastante dias.,No aspect,
+"No geral recomendo, mas não esqueça que o quarto e wc são BEM pequenos.",No aspect,
+"Hotel com fornecimento honesto,bom serviço e excelente cama e travesseiros e limpeza da roupa de cama.",roupa de cama,1.0
+"Ótima localização e boa infraestrutura de restaurantes, com mini-shopping no andar térreo.",localização,1.0
+O quarto é pequeno mas nada que atrapalhe!,quarto,1.0
+"Hotel maravilhoso, muito moderno e confortável, com excelentes restaurantes, o buffet é o marior que ja ví até hoje.",hotel,1.0
+"Se você possuir três malas médias / grandes, você terá dificuldades de se locomover dentro do quarto.",No aspect,
+Tem um ótimo cassino e de lá você consegue ir a pé para os melhores locais da principal avenida da cidade.,cassino,1.0
+Daqui para a frente será o nosso hotel em NY.,No aspect,
+"falei com o responsavel pelo hotel e nada foi feito para reverter esta situação, lamentavel ... nunca mais irei me hospedar em hoteis do grupo Accor.",hotel,-1.0
+"O ponto negativo foi apenas que duas noites após chegarmos cansadas não havia toalhas no banheiro e tínhamos que pedir para trazer, mas eramos prontamente atendidas.",No aspect,
+Localização privilegiada!,localização,1.0
+Grande para os padrões de NY e a facilidade de poder fazer o café da manhã das crianças e ainda esquentar um leite antes de dormir foi muito bem vinda (tinha copinha com microondas).,No aspect,
+"Excelente localização há duas quadras do rockfeller , quarto limpo, ótimas camas.",cama,1.0
+"O quarto é velho e o banheiro um caso de saúde pública, já que no box o piso é um laminado plástico por cima do azulejo e super mofado por baixo, um chuveiro ruim e sem ventilação.",quarto,-1.0
+"Ah,a localização dele é EXCELENTE...possui um shopping bem na frente c as melhores lojas!",shopping,1.0
+O hotel é extremamente sujo e o local em que se situa é ponto de usuários de drogas.,hotel,-1.0
+"Quarto espaçoso, cama super confortável, tudo novinho, muito limpo, banheiro grande (só aquela banheira q os americanos insistem em usar que poderia ser melhor)...",cama,1.0
+"O hotel é em um prédio muito antigo e necessita de reforma urgentes, o teto parecia que ia cair na nossa cabeça.",No aspect,
+"Otima localização em Anaheim, ao lado da Disney.",localização,1.0
+Ocorre que os quartos estão em condições lastimáveis.,quarto,-1.0
+Não recomendo.,No aspect,
+"Hotel bem localizado, próximo ao centro e ao Shopping Total.",hotel,1.0
+Mas esse hotel nunca mais.,No aspect,
+"O unico ponto negativo é o tamanho do quarto, coisa q parece comum em Paris.",quarto,-1.0
+"Preço bom, boa localização....hotel em obras...funcionarios atenciosos...estrutura de manutenção precaria....tivemos problemas com chuveiro, falta de telefone em um dos quartos ear condicionado quebrado,.........",quarto,0.0
+O único ponto negativo foi a qualidade do colchão.,colchão,-1.0
+"Localizado no Centro de Porto Alegre, ele fica próximo à um dos principais ponto turístico, Casa de Cultura Mário Quintana, assim como próximo de shoppings como o Rua da Praia!",shopping,1.0
+Está a uma distância de 1 km do Gasômetro e a uma caminhada curta do Centro Histórico.,No aspect,
+Abbaye plus jamais!,No aspect,
+"Não tivemos como arrumarmos outro hotel naquela hora e resolvemos ficar por lá num dos quartos que na cabeça deles estava habitavel, mas nos arrependemos até a morte, pois seria melhor dormirmos na rua que naquela pocilga.",rua,0.0
+Ficaria novamente.,No aspect,
+"No geral gostei do hotel, no entanto pedi um quarto superior e deram-me umas águas furtadas (6º andar) que era um forno, embora houvesse ar condicionado.",hotel,1.0
+O padrão é muito bom e segue a marca Confort Suites.,padrão,1.0
+"todos sempre dispostos a orientar os turistas dando boas dicas e os quartos sempre limpos e o ambiente muito agradavél todos os funcionários falam inglês, não é um hotel típico frances, pois é novo, e fica a 5 minutos do metro, e dá para andar até o centro de PARIS",hotel,1.0
+"O quarto é amplo, com mega janelas, mega televisão, cama enorme!",televisão,1.0
+"Ótima localização, transporte público muito acessível, quartos amplos, funcionários atenciosos, solicitações atendidas em 5 minutos (coisa rara em hotéis de grandes cidades) e muito limpo.",localização,1.0
+Vale a pena pelo menos um jantar nesse local.,jantar,0.0
+Se abrir muito os braços bate os cotovelos na parede e vidro do box.,No aspect,
+"Ao chegar no quarto a sensação foi de espanto total, o quarto era mto velho, cheio de mofo, as cortinas rasgadas e imundas, a fiação aparecendo no teto, o banheiro podre, inclusive com uma esponja usada pendurada no registro.",quarto,-1.0
+Só não recomendo optar pelo café da manhã incluso pois todos os dias é servida a mesmíssima coisa.,café da manhã,-1.0
+"Os elevadores já são pequenos, quartos também.",elevador,-1.0
+"O hotel fica bem no meio da Strip, quase em frente as fontes do Bellagio.",hotel,1.0
+"O quarto é muito pequeno, e não foi possível ver fotos antes.",quarto,-1.0
+"O preço é muito bom, assim como a localização.",preço,1.0
+Café da manhã básico.,café da manhã,1.0
+Nada para reclamar!,No aspect,
+"O Staff é atencioso, o hotel é bem localizado e tem balada , logo, público bem jovem.",No aspect,
+Desde o bell boy ao diretor-geral.,No aspect,
+"Padrão íbis de hotéis, portanto vá ciente disso.",No aspect,
+Muito bom    Tenhobalegia a c,No aspect,
+"O custo é mais alto, mas comparado aos outros hotéis de NY, acho que vale a pena.",No aspect,
+"Excelente relação custo benefício,´sem luxo, mas limpo e muito bem localizado, no meio da Strip, quartos espaçosos, ligação interna com o Paris, amplo estacionamento gratuito ( como todos os hotéis em Vegas), boa piscina, estação do Monorail,Wifi paga (e cara).",piscina,1.0
+Recomendo para quem usa o hotel so para dormir.,No aspect,
+No check out sequer um pedido de desculpas.,No aspect,
+"O quarto é moderno, confortável e limpo.",No aspect,
+"Os quartos são pequenos (pelo que fiquei sabendo, em Paris tudo é assim), tem bom café da manhã, mas não serve almoço e nem jantar, mas não é problema, na própria av carnot vc encontra restaurantes dos mais variados",café da manhã,1.0
+"Está a poucos quarteirões da Estação Rodoviária, Hospital Santa Casa, Usina do Gasômetro, Universidades, Praça da Alfandega, Shopping Rua da Praia, Parque Farroupilha, Palácio Piratini, Tribunal de Contas, Museu do MARGS, Teatro da OSPA e outros pontos de interesse.",praia,0.0
+O consierge está lá há vários anos e é muito gentil.,No aspect,
+A piscina é excelente e os quartos também.,quarto,1.0
+Excelente custo/benefício.,No aspect,
+"Um hotel pequeno com quartos aconchegantes e confortáveis, wi-fi grátis e ótima localização.",localização,1.0
+Hotel fica muito próximo ao arco do triunfo e a apenas uns 200 metros da estação de metrô.,hotel,0.0
+Room Tip: aqueles que dão vista para o lado da Torre Eiffel,No aspect,
+"Só não aconselho ir passear ao redor do hotel a pé pois é muito perigoso, mas tem shopping e bem pertinho que o valor de táxi será aproximadamente 10,00 reais, durante o dia é possível ir até o centro conhecer fazendo uma caminhada.",shopping,0.0
+"O Hotel é muito bem localizado, com fácil acesso ao metro e a muitas das atrações da cidade.",cidade,1.0
+Room Tip: se ficar no apartamento de cima se poupará do barulho que seus vizinhos farão estando embaixo...,No aspect,
+Elevador precisando de manutenção.,elevador,-1.0
+A única funcionária menos simpática foi exatamente uma brasileira com o nome de Marília.,No aspect,
+"Bons apartamentos confortaveis e ate grandes para o padrao de Manhattam...funcionarios stressados e muitos deles mal humorados...localizacao boa, proxima a Port Authority e a Times Square..otimas camas e o hotel ao lado da rede Marriot tem na cobertura um dos melhores Nights Clubs de toda Manhattam com vista deslumbrante da city Room Tip: Apartamentos double tem otima area e equipamentos novos...camas excelentes...",cama,1.0
+"O hotel é bem localizado e não barulhento, com diversas opções para comer nas proximidades.",No aspect,
+Room Tip: Peça andares altos.,No aspect,
+Acho que deveria haver disponibilidade de chimarrão ao se tratar de um hotel na capital gaúcha.,No aspect,
+"Eu pensei que ia ser um hotel bem mais simples pela diferença de preço em relação aos demais hotéis, mas para minha surpresa era bem o que precisávamos.",preço,1.0
+"Hotel impecável pela apresentação, limpeza e comodidade, e além de tudo o preço é muito bom!",hotel,1.0
+Só achei o preço da internet caro.18 dolares por dia.,No aspect,
+Custoxbenefício perfeito!,No aspect,
+Eu recomendo.,No aspect,
+"Room Tip: Proximo a times square, rockfeller center e central park.",No aspect,
+"Quarto pequeno, mas limpo, e não sei porque não tive direito  ao café da manhã, pois o hotel tem refeitório.",hotel,0.0
+Atendentes todos educados assim como os garçons no bar restaurante do hotel .tudo muito bom.,No aspect,
+"Ele tem um preço razoável (180 reais, quarto para casal), o quarto era espaçoso, limpo e novo.",preço,1.0
+No meu quarto tinha papel de parede descolando e o carpete estava meio encardido.,carpete,-1.0
+"Ao lado de todos os museus, parques, farta oferta de condução no entorno.",museu,1.0
+Recomendo fortemente !!!,No aspect,
+Os quartos são pequenos porém limpos.,quarto,1.0
+"Pessoal da Recepção, Gerência, Manutenção todos muito atenciosos e cordiais.",gerência,1.0
+Achei o café da manhã ruim para quem fica muito tempo como fiquei 09 dias.,café da manhã,-1.0
+Não gostei nem um pouco.,No aspect,
+"Entretanto, não vale a pena, os quartos são apertados, especialmente os triplos, e a limpeza muito precária.",limpeza,-1.0
+Não possui elevador e os quartos são virados para uma avenida supermovimentado e também para a linha de metrô.,elevador,0.0
+"Quarto bem grande, limpo, mas sem luxo.",luxo,0.0
+"Tudo mt bom, sem motivos de reclamação.",No aspect,
+"O problema com o aquecimento já existia antes de nossa reserva, mas não fomos informados.",No aspect,
+"O quarto e o banheiro são grandes e confortáveis, tudo super limpo, rua silenciosa, funcionários simpáticos e excelente localização.",funcionários,1.0
+Os pontos fortes são ótima localização e atendimento em português pela maioria dos recepcionista.,localização,1.0
+Os quartos terreos sao um pouco barulhento.,No aspect,
+"A unica coisa boa que o hotel proporciona é a localizaçao e o valor, mas no fim, nao compensa pagar barato , pois a sujeira é demais.",No aspect,
+No dia seguinte fui perguntar e eles me disseram que demora uns 10 min. a esquentar.,No aspect,
+"Bom hotel, quarto de bom tamanho, cama confortável, banheiro com banheira mas com ducha fixa, cafe da manha muito bom.",hotel,1.0
+"Recomendaria a amigos, sem dúvida.",No aspect,
+"Fiquei 2 vezes nesse hotel, e em março de 2013 pretendo retornar ao Luxor.",No aspect,
+"Não me arrisquei no café da manhã, acredito que também não seja dos melhores.",café da manhã,0.0
+"nosso quarto era muito bom, aconchegante....",No aspect,
+O restaurante do hotel é lindo!,No aspect,
+"Hotel muito bom pelo preço cobrado, com excelentes apartamentos novos.",apartamento,1.0
+"Achei o hotel na internet, fiquei na dúvida, mas de fato foi remodelado e tem um ótimo preço, tornado-se uma excelente opção de custo x beneficio.",internet,0.0
+"Bem localizado, fica na regiao central se Porto Alegre.",No aspect,
+"Café da manhã típico (ovos, leite, cereais, sanduíches prontos, banana (verde)) e café Starbucks.",café da manhã,1.0
+"Nos demais aspectos de instalação para descanso entre as atividades de lazer pela cidade são bem satisfatórias e atendem perfeitamente aquilo que o hospede espera (boa cama, bom quarto, bom chuveiro, excelente café da manhã e um bom loby.",quarto,1.0
+"O hotel está localizado a duas quadras do metro e próximo a praça Itália porém, o banheiro é péssimo, pessoas normais são mais altas que o teto do banheiro - difícil de tomar banho.",praça,1.0
+"Minha estada foi muito agradável e fiquei muito satisfeito na maioria dos itens apontados; localização, atendimento, valor, serviço de recepção e restaurante e muita tranqulidade no ambiente,",atendimento,1.0
+"Estivemos em Paris em outubro de 2012 e nos hospedamos em um apartamento de 2 quartos, sala, 2 banheiros e cozinha do apart hotel.",cozinha,0.0
+"Ficaria novamente, com ctz.",No aspect,
+Pedimos late checkout e nos deram.,No aspect,
+Outra dica importante é de que não deve-se mexer no frigobar a não ser que vá consumir (há cobrança com a manipulação),frigobar,-1.0
+"Na ultima vez, devido aeroporto fechado com nevoeiro, dei no-show e cheguei só na manhã do dia seguinte, mesmo assim foi me honrada a reserva e ainda me deram desconto.",No aspect,
+O café da manhã é execelente.,café da manhã,1.0
+Teve um dia que nao tinha agua quente pra tomar banho e era inverno.,No aspect,
+"um hotel bom para quem vai a cidade para negócios, os quartos são limpos mais nada de mais, fiquei num quarto que estava recém reformado, fui muito bem atendido pela equipe, fica no centro o que faz facilitar sua vida.",quarto,1.0
+"Atendimento sempre prestativo, tv com canal brasileiro, internet,os elevadores que são muito concorridos mas tudo vale à pena se você está em NY.",atendimento,1.0
+"Como é em Paris, onde voce fica o tempo todo na rua, vale a economia.",No aspect,
+"O pessoal é muito simpático, não tivemos problemas.",No aspect,
+Ja estive nesse hotel por 3 vezes.,hotel,1.0
+O melhor aspecto do hotel é a localização com uma estação de metro logo ao atravessar a rua...,rua,1.0
+Este foi um dos piores hotéis que já me hospedei.,No aspect,
+Limpo.,No aspect,
+"Foram atenciosos na recepção, porém na hora de pagar a conta, nos cobraram diárias a mais pelo estacionamento do carro, sendo que o carro ficou estacionado apenas um dia (e a moça da recepção não sabia fazer o extorno no cartão de crédito - que dor de cabeça!).",estacionamento,-1.0
+"O quarto é pequeno, mas nada que atrapalhe a estadia.",No aspect,
+Nos deram um quarto no térreo...,No aspect,
+"Mas, pea quem tem pique como a gente, da pra ir a pé para St Germain, para o Louvre, a Notre Dame, a Champs Elysee, e outros tantos lugares.",No aspect,
+"Hotel com ótima localização, perto de vários restaurantes e perto do centro.",localização,1.0
+"O café da manhã é até bom, e do atendimento também não tenho do que reclamar.",café da manhã,1.0
+"A única crítica, é que acredito que a internet deveria ser gratuita nos quartos.",quarto,1.0
+"Hospedei, , check-in rápido sem burocracia.",No aspect,
+"Se você tem um orçamento um pouco apertado mas não quer abrir mão de um quarto de bom gosto, este hotel é uma boa pedida.",No aspect,
+Recomendo para a estadia de poucos dias.,No aspect,
+"Economize o seu dinheiro e vá para um motel, durma no carro ou mesmo, se estiver duro, durma na praça, pois, com certeza a relação custo-benefício será mais honesta e fidedigna.",praça,0.0
+Gostámos da Localização.,localização,1.0
+Criam dificuldade para acesso no lounge e depois que vc entra nao tem ninguem.,No aspect,
+"O nosso quarto era pequeno, com cama queen, mas muito confortável!",quarto,1.0
+"O hotel fica próximo do aeroporto e tem transfer gratuito, entretanto a av. Farrapos tem trânsito contínuo e o quarto não tem isolamento acústico, o que é terrível para dormir.",hotel,0.0
+perfeito para as compras.,No aspect,
+"Eu realmente não aconselho esse lugar, tudo é pessimo, o atendimento inicial, não tem elevador e se você ficar no quarto andar tem que subir tudo sozinho não tem ninguem para lhe ajudar, a comida? pelo amor de Deus, era um lixo, não consigui comer de tão ruim que era, para devolver foi um problema, o guarto não apresenta segurança, tem aspecto sujo",elevador,-1.0
+"Então, quem optar por ficar neste hotel, ou fale Francês, ou leve um guia.",No aspect,
+"Os quartos são pequenos, porém muito limpos.",quarto,1.0
+"Nossa estadia foi de 5 dias e adoramos o hotel , o bar eh o máximo , o atendimento perfeito , restaurante bacana e a localização perfeita para assistir os musicais.",atendimento,1.0
+Bom preço (quando se pensa em Manhatan).,preço,1.0
+15 reais para guardar o carro.,No aspect,
+O estacionamento é fora do hotel e cobrado a parte.,estacionamento,-1.0
+"Hotel fantástico, bem localizado, limpo, lindo, quarto, cama, banheiro gigantes, maravilhosa a vista do hotel para Strip, piscina maravilhosa com cascata, shows com golfinhos, tigres,,,mulheres rsrs, drinks inesquecíveis... impossível não comparar com os outros hotéis... Super recomendado!!!",cama,1.0
+O único senão é a piscina que não é grande coisa.,piscina,-1.0
+"O Opal é muito bem localizado, a região que mais me agrada em Paris, seus quartos são ótimos e o pessoal bem treinado, eficiente e simpático, além do custo ser baixo.",quarto,1.0
+"A localização é boa, embora não esteja na Strip, fica do lado, há cerca de 100 metros.",localização,1.0
+Jamais  ficarei ou indicarei este Hotel.,No aspect,
+Os quartos não são grandes mas bonitos e cheios de mimos.,No aspect,
+"Fica em frente ao metrô e bem próximo ao Central Park, os quartos são grandes e limpos, além de terem microondas e cafeteiras.",quarto,1.0
+Muito bom!!!,No aspect,
+"um ótimo café da manhã, 10 minutos andando até a Torre Eifel passando pelo rio Sena de onde se pode observar a Estatua da Liberdade original, a Rádio France International, os lentos Bateau Mouche.",café da manhã,1.0
+"Não voltaria ao hotel apenas porque acho ele caro pelo serviço oferecido, isto é, embora o hotel seja bom, não acho que vale o preço que custa.",preço,-1.0
+Me hospedei pela segunda vez neste hotel em 2011.,hotel,1.0
+O táxi do aeroporto ao hotel levou quase uma hora e custou 60 euros.,hotel,1.0
+"Os quartos são amplos, porém achei um pouco escuros e antigos.",No aspect,
+"O hotel é super bem localizado, com saída de elevador de metrô a 10 passos da porta do hotel.",hotel,1.0
+"Não limparam o quarto uma vez, e tive que ligar pra recepção para limparem.",recepção,-1.0
+"Proxima a Disney,quarto amplo com duas excelente camas,como fui com a minha filha de 01 ano,me arrumaram berço tb.....,café da manhã razoável e bom custo benefício....achei a mobília nova com tv plasma e excelentes canais de entretenimento...Hotel com piscina aquecida, enfim,por ser em cima da hora,acho que valeu a pena!!",quarto,1.0
+os quartos sao pequeninos mas limpinhos e bastante quentes.,No aspect,
+O custo benefício é foi muito bom.,No aspect,
+Room Tip: Consegui fazer o check inumpouco mais cedo.,No aspect,
+Avenida.,No aspect,
+Me senti até mais inteligente fica do lá.,No aspect,
+"O quarto que usei tinha acabamentos bastante antigos, mas a cama era bastante confortável, e como era na parte mais aos fundos do hotel, era silencioso.",quarto,-1.0
+Eles disponibilizam um notebook para acesso a internet no salão de entrada.,No aspect,
+"Quarto espaçoso, cama ótima e excelente localização!",cama,1.0
+Fiquei num quarto Privilege e não tenho o que reclamar pois era espaçoso para os padrões de Paris.,No aspect,
+"Internet livre nas areas comuns mais com restrições, inclusive o acesso a VOIP não funciona.",No aspect,
+Nunca mais me vera o Rochester.,No aspect,
+"A equipe do hotel é gentil, educada e calorosa.",No aspect,
+"Ideal para quem deseja aproveitar os teatros da Broadway, sendo possível ir até mesmo a pé em vários...",No aspect,
+Foge do padrão Mercure.,Mercure,0.0
+"Quarto pequeno, apertado e com teto baixo (meio sufocante).",quarto,-1.0
+Pasme que a janela do chuveiro tem visão para o corredor do Hotel e para a escada de incêndio.,chuveiro,-1.0
+"O hotel fica bem localizado proximo a Museu do Louvre, quartos limpos, infra estrutura excelente e com um restaurante muito bom",museu,0.0
+"O Central Park, por exemplo, é longe à pé.",No aspect,
+"Boa localização, custo beneficio Vale a pena.",localização,1.0
+"Estou muito satisfeita com este hotel, apesar de tê-lo escolhido pq era um dos poucos que aceitava 5 pessoas no mesmo quarto.",hotel,1.0
+"Pra quem não é exigente, este hotel supre todas as necessidades, os arredores são ótimos, tem metro a 1 quadra, funiculaire também, ta certo, é apertado, inclusive, foi o menor elevador que já entrei na minha vida!",hotel,1.0
+Alem de não ser avisado de obras.,No aspect,
+"Apesar dos quartos serem bem pequenos, achei limpos e possibiltam sono agradável.",No aspect,
+"Próximo ao Hotel, havia um Carrefour, onde íamos comprar água, sucos, lanches, pois, convenhamos, é tudo em Euro!",No aspect,
+"No meu caso, eu levava os ovos e eles faziam uma omelete.",No aspect,
+O Hotel Continental é uma excelente opção para quem quer se hospedar no centro de negócios de Porto Alegre.,hotel,1.0
+metcado.,No aspect,
+"- pedimos remanejamento e ajuda para a bagagem e ouvimos da Sra, com justa razão, que não há serviços de para transporte de bagagem e que já estava com dores nas costas.",No aspect,
+O atendimento é excelente e o café da manhã é bom.,café da manhã,1.0
+Localização em NY é essecial.,localização,1.0
+"Um hotel muito bonito, com quartos extremamente confortáveis.",quarto,1.0
+( free ).,No aspect,
+"O Hotel é excelente, localização perfeita, próximo a todos os pontos de interesse.",hotel,1.0
+"Apesar do hotel ficar bem perto de uma estação de metrô, o local da cidade não é bom.",No aspect,
+E tem metro a poucos metros.,No aspect,
+"Nosso quarto era de um tamanho considerável, com espaço para 3 malas abertas.",quarto,1.0
+Funcionários despreparados e nada simpáticos.,funcionários,-1.0
+"A diária não inclui café da manhã, mas há várias opções por perto, uma ao lado do lobby, que é lindo e parece uma boate, com vários sofás e música alta.",No aspect,
+Porem o hotel em si é super basico.,No aspect,
+A equipe de atendimento é gentil e atenciosa.,atendimento,1.0
+Os quartos são novos e a limpeza é impecável.,quarto,1.0
+"Adorei o hotel, foi todo reformado os quartos são excelentes, o serviço é ótimo e o atendimento foi demais.",serviço,1.0
+"Fica bem localizado e durante o dia tem muitas coisas ao redor para aproveitar, lojas, restaurantes, cinema, shopping, Mercado Publico com otimas comidas e a melhor banca de sorvete e salada de frutas.",shopping,0.0
+"Café, chá, chocolate quente 24h a disposição no lobby.",No aspect,
+Foi otimo!,No aspect,
+"No último dia, ela deixou uma toalha de banho manchada no quarto.",toalha,-1.0
+"Os quartos não são dos melhores, mas dá para ter uma razoável noite de sono, ainda mais para quem, como eu, ficou somente uma diária.",quarto,-1.0
+"O atendimento é muito bom, bem como a nível de informações e limpeza.",limpeza,1.0
+"Excelente hotel, bem localizado, apesar de não ficar exatamente na Strip.",hotel,1.0
+"Boa localização, perto da Times Square, 5a Avenida e da Broadway.",localização,1.0
+O café da manhã farto e variado.,café da manhã,1.0
+Fui com um grupo da faculdade (saímos de SM sábado às 5:00 pra chegar a tempo de assistir uma palestra que começava às 10:00) e chegamos no hotel às 17:30 depois de termos feito uma visita técnica nos pontos turísticos de POA.,hotel,0.0
+"O corredor é minusculo, a cozinha também.",cozinha,-1.0
+"Em se tratando de Nova York, é um preço bem razoável.",preço,1.0
+Paris tem preços caríssimos de hotel e o Paris Villete é um dos mais baratos.,No aspect,
+Vale cada centavo.,No aspect,
+"Não tem elevador, você terá que subir com suas malas pela escada e sem ajuda de nenhum funcionário.",elevador,-1.0
+A equipe do hotel é muito eficiente e atenciosa.,hotel,1.0
+"No café da manhã, o bufê é também franciscano (pobre de opções), mas dá pro gasto se você vai ficar uma ou duas noites no hotel.",café da manhã,-1.0
+Muito lindo!,No aspect,
+"O café da manhã era para quem acordava primeiro, pois não havia reposição de alimentos como pães e frios.",café da manhã,-1.0
+"Há escada e elevador para quem precisa ir até o último andar, acho que ao todo são 5.",No aspect,
+"Belo hotel , bem localizado, novo, limpo, muita tecnologia nos quartos   apartmento amplo (o corredor é um pouco estreito e longo) mais em las vegas é tudo asim grande  arquitetura linda  cassino limpo amplo e pessoal cortez   buffet muito bom   gostei voltaria  Room Tip: nao pegue andares baixos pois ha uma piramide no edificio ai tapa toda a vista creio ter que ser a...",corredor,0.0
+"Pra quem vai comprar algumas coisinhas pela internet, vale à pena atentar para este último fato.",No aspect,
+"Estive em 2011, por 7 dias no Hilton, fui muito bem tratado pelos funcionarios, o quarto é bem confortável, o café da manhã é excelente e com preço razoável ($ 13,00), a localização é otima, na 27 street,pertinho de tudo, recomendo.",preço,0.0
+"Inclusive restaurante franceses, sem turistas e com atendente bem simpáticos, mesmo sem falarmos francês.",turista,1.0
+"Quarto com um espaço bom, cama confortável, limpissimo e um chuveiro SPA com jatos de agua de todos os lados até massageador nas costas.",cama,1.0
+"Hotel moderninho, quarto pequeno, estilo boutique, um charme!",hotel,1.0
+"Mas tem boa relação custo-benefício e excelente localização, na região dos Grandes Magazines, a poucos metros da Estação Saint Lazare, da Galleries Lafayette, de resutaurantes, supermercados, e apoucas quadras da Madeleine e da Place de la Concorde.",custo-benefício,1.0
+"Uma vista deslumbrante de Paris, da janela/sacada do hotel... em frente o Jardim das Toulleries, a esquerda o Louvre, ao fundo Notre-Dame, a direita o Arco do Triunfo e La Torre!",jardim,1.0
+"Reservei esse hotel através do pacote da TAM Viagens , era o único disponível para POA.",hotel,-1.0
+"Com uma família alérgica à poeira, não tivemos nenhum problema, o que é raro em hotéis do mesmo padrão em Paris.",No aspect,
+"Toda vez que chegávamos, tarde da noite, tínhamos que solicitar na recepção sabonetes para tomar banho.",No aspect,
+"Mas, apesar de proximo, é impossivel chegar ao parque caminhando, porque a entrada fica do outro lado.",No aspect,
+Enfrentei um problema que para mim foi sério.,No aspect,
+Quarto amplo e confortavel.,No aspect,
+"Perto do aeroporto, e é possivel caminhar ao longo da avenida e ir conhecendo os outros cassinos.",cassino,0.0
+"Ficamos de 12 a 20 de janeiro/2013 e foi ótima escolha...super silencioso, tranquilo, localização perfeita, cama extremamente confortável, ducha deliciosa (sem ter que tomar banho dentro de banheira, coisa que detesto..rs), limpeza impecável e recepcionistas atenciosas.",limpeza,1.0
+"Se você não estiver procurando o luxo de Vegas, mas não abre mão de preço, conforto e localização esse é um ótimo lugar para ficar.",conforto,1.0
+Café da manhã continental incluso em ambiente agradável com atendimento impecável.,atendimento,1.0
+"Quartos muito aconchegantes, espaçosos, camas confortáveis e localização impar.",localização,1.0
+"Um pouco mais caro, mas vale a Pena o investimento.",No aspect,
+Café da manhã bem gostoso.,café da manhã,1.0
+"A localização é ótima, tem tudo muito próximo, shopping e supermercado, entretanto o atendimento do hotel foi péssimo e os quartos além de muito pequenos são muito mal conservados.",atendimento,-1.0
+"O preço indica o que receberá como serviço: um hotel simples, algo desgastado, com corredores escuros e banheiros simples e mal conservados.",serviço,0.0
+O cafe da manhã poderia contar com uma oferta maior de frutas frescas.,No aspect,
+"Excelente hotel, sem cassino e aquela confusao dos outros hoteis , mas perto de tudo, em frente ao shopping, com servico de transfer para o cesar e o wynn.",cassino,0.0
+Todo pessoal prestativo.,No aspect,
+Um hotel honesto!,No aspect,
+"Quartos amplos e super limpos, pessoal muito amigável, Cassino gostoso com dealers simpáticos e engraçados.",quarto,1.0
+O fato de todos atendentes falarem português é um elemento decisivo na hora de fazer reservas a shows e restaurantes.,No aspect,
+"O quarto e pequeno, mas para o padrão de Paris é confortável.",No aspect,
+"Hotel correto, serviço simpático e excelente localização, perto do metrô, comércio bacana a dois quarteirões e é claro a algumas quadras da Torre Eiffel e do Sena.",localização,1.0
+"Apesar da sua localização um pouco fora do centro histórico, é perto e fácil de lá chegar.",localização,-1.0
+"Fiquei hospedada lá pela localização, é perto do aeroporto e eles fazem o serviço de transfer.",serviço,1.0
+Fica atras da catedral de sao patricio.,No aspect,
+Fiz algumas encomendas online para serem entregues no hotel e não tive problemas com isso.,No aspect,
+pequeno almoço bem recheado.,No aspect,
+O preço foi bom (pra NY) mas não gostei do quarto com banheiro privativo.,preço,1.0
+"O café da manhã era muito saboroso, com vários tipos de pães e queijos, além de frutas, iogurte, sucos etc.",café da manhã,1.0
+Noite de sono com muito barulho.,No aspect,
+O Aviatic é um hotel charmoso e muito funcional para quem Deseja conforto e agilidade.,hotel,1.0
+"O hotel é enorme, e o quarto em que ficamos apesar de standard, era muito espaçoso.",hotel,1.0
+"Quartos pequenos, banheiro muito pequeno, mas estão bem cuidados de modo geral.",No aspect,
+Não pense que irá economizar se hospedando nele.,No aspect,
+"O hotel foi recentemente renovado e munto bem conservado, o meu quarto estava muto bem limpo e com uma bandeja de hospitalidade para o chá / cafè e WI-FI gratis.",quarto,1.0
+"Este é um hotel muito simples, com preço de hotel simples.",preço,1.0
+"Faltou a conexão WI-FI à disposição dos hóspedes, hoje em dia não dá para aceitar a falta de conexão.",No aspect,
+"Não colocam nem itens os básicos, como touca de banho e algodão.",No aspect,
+"O banheiro estava sujo, com resíduos em vários cantos da banheira, da pia e do chão.",pia,-1.0
+"A localização é excelente, além de ter um estação ao lado que, além do metrô, tem a linha RER B (direta ao aeroporto), está próxima a pontos importantes, como Louvre, Luxemburg, Notre Dame, etc.",localização,1.0
+"Às 3h da manhã eu estava acordado e buscando outro hotel, na Internet.",No aspect,
+"Foram 10 dias em Paris, o hotel é mutio bom, o pessoal da recepção é muito atencioso, fazem de tudo para agradar.",hotel,1.0
+"O quarto é amplo e conforável, com boa cama e banheiro.",cama,1.0
+"O cafe da manha e razoável, sem muitas opções.",No aspect,
+"A localização é boa (perto da estação Grand Central), os quartos tem um tamanho muito bom, a decoração é clean.",localização,1.0
+"O Café da manhã salvou o hotel no meu ponto de vista, pois era muito bom, considerando o padrão americano.",café da manhã,1.0
+"Este foi o pior hotel que já fiquei em minha vida, tem mofos nas paredes, tentaram me por num apartamento abafado no subsolo que fedia a cigarro e é os corredores do hotel são um labirinto, pondo em risco os hóspedes em caso de incêndio.",corredor,-1.0
+Bom atendimento.,atendimento,1.0
+"O hotel fica bem localizado próximo ao metrô, boa infra-estrutura, café da manhã de qualidade, atendentes muito agradáveis e educados.",hotel,1.0
+"Room Tip: peça sem café da manhã, não vale pagar por isso.",No aspect,
+"Hotel antigo mas conservado, bom quarto, limpo mas algo decadente...",hotel,1.0
+"Tinhamos que arrumar nossas próprias camas e precisamos comprar papel higiênico, pois apesar das solicitações eles não repuseram.",cama,0.0
+"Agora, eles vivem lotados, tem que marcar com antecedência.",No aspect,
+"Há carpete nos corredores, mas, após a reforma os quartos estão livres.",corredor,0.0
+"Nosso quarto era no 42º andar, com uma vista espetacular de Las Vegas.",quarto,1.0
+"Esta foi a terceira vez que nos hospedamos neste hotel, novamente fomos extremamente bem recebidos pela equipe do hotel, especialmente a gerente Patricia e o Sr Jorge Sousa, sempre solícitos com nossas necessidades, que nao são poucas quando se viaja com uma criança de 3 anos e outra de 1, os quartos são pequenos, porém limpos e aconchegantes, o Cafe da manha e simples, mas de extrema qualidade e a localização perfeita, para nos, a melhor de paris, voltaremos com certeza.",hotel,0.0
+"Room Tip: Interno,os do lado da rua tem barulho.",No aspect,
+Com certeza me hospedarei nesse hotel quando for a Nova York novamente!,No aspect,
+"Alem de tudo isso, os pontos fortes são simpatia, presteza e disponibilidade dos funcionários desde a recepção, passando pelos porteiros e arrumadeiras, com especial menção ao Antony, concierge brasileiro muito prestativo.",recepção,1.0
+"A localização é muito boa, não sei se tem outro hotel que reuna todas essas qualidades nessa faixa de preço.",preço,1.0
+"Todos os locais tem carpete e forte cheiro de cigarro é horrivel, para chegar no apartamentos tem que passar por dentro do cassino que não para, funciona 24 horas com pessoal fumando.",carpete,-1.0
+"Os funcionários são muito prestativos, o hotél é muito bem localizado, próximo de duas linhas de metro (M12 e M2), além disso há na rua do hotel restaurantes, creperia e um pequeno mercado.",funcionários,1.0
+"O cassino em si é muito bom e o fato de ser próximo ao Luxor, MGM e New York garante uma boa diversão!!!",cassino,1.0
+"Assim que chegamos e fizemos o check-in, subimos para nosso andar e o cheiro de cigarro já comecava no corredor.",No aspect,
+Fabiola e família Batista,família,0.0
+Óptima localização.,localização,1.0
+Quartos confortáveis.,quarto,1.0
+"A limpeza por parte da camareira também deixou a desejar, pois deixei um frasco vazio de xampú no chão do banheiro, que não foi recolhido pela camareira, permanecendo no chão durante os 5 dias que fiquei no hotel.",limpeza,-1.0
+"Enfim, recomendo o hotel por sua localização, limpeza e preço.",localização,1.0
+Ficamos por 6 noites e o único desagrado foi a frieza do atendente da manhã e o fato de o café da manhã deixar de ser servido já as 09:30 AM.,No aspect,
+Valeu.,No aspect,
+"Só não inclua o café da manhã, é ridículo, pertinho tem uma lanchonete que dá para tomar um café decente.",café da manhã,-1.0
+"Ótima localização, custo beneficio excelente, funcionários atenciosos, hotel novo, quartos limpos, boas instalações, elevador mto rápido, bom café da manhã, Wifi grátis e muito boa.",café da manhã,1.0
+"Especialmente aos brasileiros, o gerente geral é um português cuja mãe é brasileira, a comunicação com o mesmo é ótima !!!!",gerente,1.0
+Viajamos com 2 crianças e ficamos com uma impressão muito boa do hotel.,hotel,1.0
+Argumentamos que havíamos recebido o e-mail confirmando a reserva (estávamos com uma cópia) e que fizemos uma reserva futura para o Ibis de Barcelona sem problema.,No aspect,
+preco otimo.,No aspect,
+Camareiras rápidas e eficientes.,No aspect,
+"Para minha surpresa o hotel era um apart, com sala, cozinha, quarto e banheiro muito espaçoso.",cozinha,1.0
+"Estive no Hotel Le Meridien Etoile e simplesmente adorei a estadia, a comida, a recepção, entre outros serviços.",hotel,1.0
+"Room Tip: O quarto era pequena para o que é normal num 5*, mas totalmente prático, e era virado para o pátio c...",quarto,1.0
+"O hotel é muito bem localizado, bem próximo ao metrô, perto da Catedral de Notre Dame, do Pantheon, do Jardim de Luxemburgo, do Louvre...",jardim,0.0
+"hotel bom, novo, bem localizado, com boas instalações e de ótimo custo benefício.",instalações,1.0
+Fomos recepcionados com cocktail de boas vindas.,No aspect,
+Chegar muito tarde no hotel é complicado.,No aspect,
+"Quartos e banheiros tamanho PP, mas limpeza e atenciosidade dos funcionários tamanho G!",limpeza,1.0
+Bem localizado a apenas duas quadras de Time Square e no coracao de Manhattan,No aspect,
+"Julio e sua equipe são prestativos, gentis e atenciosos.",No aspect,
+"Mas, ao tomar banho, temos de tomar cuidado para não levar um tombo, visto que o banho é dentro de banheira, que já deveria ter sido abolida há tempos em hotéis, constituindo um grande risco para acidentes.",banheira,-1.0
+"O café da manhã é meio caótico, atrasaram por duas vezes o horário de servi-lo enquanto estive hospedada e não prorrogaram o período nestes dias.",café da manhã,-1.0
+"Dá pra ir a pé em todos os lugares, além de um metrô que te leva até o Bellagio ou Luxor e Excalibur.",No aspect,
+"Banheiro gigante, com ducha e vaso sanitário separados por portas da banheira.",No aspect,
+Demora para esquentar a água do chuveiro e torneiras.,chuveiro,-1.0
+Room Tip: Se viajar com a família (até duas crianças) peça para ficar no apartamento.,No aspect,
+Para viajantes exigentes.,No aspect,
+"Hotel com excelente localização, quartos confortáveis com ar condicionado e TV a cabo, próximo a shoppings, centros comerciais e lojas de departamento.",quarto,1.0
+Café da manhã muito bom!!,café da manhã,1.0
+O atendimento também foi ruim e o café não chega nem perto ao de outros hotéis da região em que já me hospedei.,atendimento,-1.0
+- Secador de cabelos dentro do quarto e não no banheiro.,No aspect,
+"Quartos gigantes e muito confortáveis, área da piscina extremamente tranqüila, apesar da excelente localização do hotel em meio a Strip",piscina,1.0
+Perto também da sede da ONU.,No aspect,
+"Além disso há restaurantes e cafés em torno do Hotel, inclusive com menu em Português!",No aspect,
+O café da manhã razoável e os funcionários por incrível que pareça são simpáticos.,café da manhã,0.0
+Quarto amplo e cama muito confortavel..banheiro maravilhoso...,quarto,1.0
+"Sem duvida alguma, um dos piores hotéis que já me hospedei.",No aspect,
+"os quartos sao espaçosos, limpos porem com uma decoraçao muito pesada e um pouco velha.",No aspect,
+"Faltou frigobar no quarto e tomada no banheiro, para poder usar pranchas, baby liss...",tomada,-1.0
+Room Tip: Não fiquem hospedados nesse hotel!,No aspect,
+"Após o natal e próximo ao ano novo é difícil andar nas ruas para chegar ao hotel , o que pode ser um transtorno com criançs pequenas, carrinhos d bebe ou sacolas de compras.",No aspect,
+"O banheiro é reformado, bem funcional, exceto pelo secador de cabelo que minha esposa reclamou da falta de potência.",secador,-1.0
+"Funcionários atenciosos; localização excelente, a uma curta caminhada de vários pontos turísticos e do metrô; limpo e confortável, hotel charmoso estilo europeu; café da manhã com pouca variedade para quem gosta de salgados, mas com produtos de excelentte qualidade; os petiscos e bebidas no final de tarde são restauradores, após um dia de intensas caminhadas.",funcionários,1.0
+Estivemos em Vegas em maio deste ano.,No aspect,
+"Achei o quarto um pouco pequeno, mas pelo custo benefício foi bom e café da manhã poderia ser mais variado, pois todo o dia o cardápio era o mesmo...mas isso ocorre em todos os hotéis.",No aspect,
+"Café da manhã delicioso com produtos do Balthazar, local de tomar café super legal, com 2 IPAds disponíveis para os hospedes, Egg chairs..",café da manhã,1.0
+"A mobília do quarto precisa ser trocada, pois está um pouco gasta.",No aspect,
+"Hotel com atendimento, serviços e acomodações ruins.",atendimento,-1.0
+"o ponto negativo são os elevadores, dois estragaram no dia de ir embora e tivemos que esperar por mais de uma hora para descer com as malas.",elevador,-1.0
+Há um bom restaurante no próprio hotel.,No aspect,
+Podem ir sem medo !,No aspect,
+"Excelente localização há duas quadras do rockfeller , quarto limpo, ótimas camas.",quarto,1.0
+"O hotel tem uma localização inspiradora, acordar e ver por sua janela a wall street é uma sensação incrível, têm varias estações de metro nas proximidades e podemos chegar aonde quisermos.",hotel,1.0
+Café da manhã é muito bom e a limpeza e roupas de cama são muito boas.,limpeza,1.0
+Foi excelente nossa estadia no hotel.,hotel,1.0
+"O valor é alto, mas, considerando-se que se trata de Paris, vale o quanto custa, principalmente pela média de preço dos demais hotéis.",preço,1.0
+"No entanto, a wifi eh péssima, nao tem no quarto e quase nao pega no lobby.",quarto,1.0
+"Banheiro bom, reformado.",No aspect,
+Adorámos a estadia e recomendamos a sua escolha.,No aspect,
+O Hotel no geral é muito bom e o pessoal extremamente atencioso.,No aspect,
+"O shopping não tem todas os melhores lojas mas vale o passeio, por onde se pode passear tambem de gondola.",lojas,-1.0
+Room Tip: Escolha o quarto privilege,No aspect,
+Excelente hotel... quarto bem grande com mini cozinha!! muito confortável!!,cozinha,1.0
+"Uma coisa boa é que fica no centro próximo a bares, hotéis, shoppings, e perto do aeroporto também a 10km de distância.",shopping,0.0
+"Os funcionários são muito simpáticos, tem até um que fala português!",funcionários,1.0
+"Vale visitar  é lógico, o Louvre, o Invalides, o Musée D´Orsay.",No aspect,
+Eu recomendo este hotel!!!,No aspect,
+Ótima localização e atendimento.,localização,1.0
+"Tradicional mas um pouco ultrapassado hotel em boa localização no centro financeiro da cidade de Porto Algre Ótimo atendimento, mas quartos necessitando modernização.",cidade,0.0
+O isolamento acústico é perfeito.,isolamento acústico,1.0
+"Me Hospedei em Março de 2012, o hotel é bom, café da manhã bom, longe do centro de Paris mas de metro uns 15 minutos.",hotel,1.0
+Eu tive uma ótima estadia em Pavillon Saint Louis Bastille.,No aspect,
+"Para ser padrão do Ibis, para mim foi o hotel que deixou mais a desejar, no prédio há somente um elevador, pelo menos o quarto que fiquei era muito pequeno, a região de Paris onde se situa não tem um visual agradável, o que salva é a proximidade com o metrô.",elevador,-1.0
+Interessante para quem trabalha no centro como era o meu caso.,No aspect,
+É ou não uma adaptação de segunda categoria?,No aspect,
+"O cafe da manha e farto e variado, embora o servico posse ser complicado, devido ao tamanho do restaurante Justyne, que recebe centenas de pessoas.",No aspect,
+"Esse lugar não é o Hilton Hotel, mas eu fiquei confortável e feliz e minha avaliação está endereçada para os viajantes econômicos.",No aspect,
+"O hotel em si é simples, o elevador é apertado e eles perfumam demais o quarto depois da limpeza, mas pedimos para que eles não fizessem isso e fomos prontamente atendidos.",elevador,-1.0
+"Os corredores dão uma sensação meio fúnebre, por não ter muita iluminação.",corredor,-1.0
+"Ótima localização, quartos limpos e reformados.",quarto,1.0
+"Localização excelente, atendimento e serviços de um cinco estrelas.",atendimento,1.0
+"Mas, sendo realista, as atracções em Paris não são todas concentradas no mesmo local, ou seja, é sempre preciso comprar um bilhete semanal ou diário de metro, portanto fazer mais 5 min de metro não foi um grande problema.",No aspect,
+Atrás do armário da tv tem alguns cabides para guardar algumas roupas.,tv,0.0
+"Um hotel novo, moderno,claro,sem aquele cheiro de cigarro,com piscinas espetaculares,tudo muito perfeito, EXTRAORDINÁRIO!",hotel,1.0
+"Nossa reserva incluía café-de-manhã mas na verdade era um crédito na lanchone, cujas atendentes parecem desconhecer as regras desse crédito e causam confusão nos hóspedes.",No aspect,
+"Gostei muito do hotel, o apartamento tem um tamanho bom, nao tem frigo bar mas tem maquinas de bebibas e salgadinhos em todos os andares.",hotel,1.0
+"Estive em janeiro 2013, este hotel e para quem quer (BBB) bom, bonito e barato este é o lugar, localização excelente x preço muito bom, com um bom café da manhã (leite- sucos - pães - frutas - Yorgutes - etc.) mas eu sinceramente achei um pouco apertado, mas se acordar cedo, é mais tranquilo, boa cama, ele tem um closet separada com porta que é muito bom, pois o quarto fica organizado, banheiro tamanho bom.",cama,1.0
+"Atendimento sempre prestativo, tv com canal brasileiro, internet,os elevadores que são muito concorridos mas tudo vale à pena se você está em NY.",tv,1.0
+"Os funcionários são muito prestativos, o hotél é muito bem localizado, próximo de duas linhas de metro (M12 e M2), além disso há na rua do hotel restaurantes, creperia e um pequeno mercado.",rua,1.0
+Sabendo disso já pedimos na reserva um andar alto e não tivemos problema com barulho.,No aspect,
+Passei meu aniversário lá e fui surpreendida várias vezes com surpresas deliciosas.,No aspect,
+"Cortinas velhas e sujas, papel de parede rasgados, quartos escuros e com pouca ventilação, cadeiras da sala do café da manhã furadas e com a palha rasgada.",cortina,-1.0
+"Para conhecer Paris à pé, até o Rio Sena, a Torre, Louvre, Rodin, nem precisa carro ou metrô.",No aspect,
+Em 1 semana você já fica enjoado da repetitividade.,No aspect,
+"Preparado para receber brasileiros que nao dominam o idioma ingles, os funcionarios tem paciencia para tentar compreender.",No aspect,
+"O banheiro estava sujo, com resíduos em vários cantos da banheira, da pia e do chão.",banheira,-1.0
+"Gosto muito dos hoteis do Grupo Accor, especialmente os Hotéis com a marca Ibis, mas este hotel especialmente tem funcionários extremamente mal educados e sem nenhuma disposição para dar suporte ao hospéde, realmente uma decepção, agem como se não tivessem a obrigação de atender com educação aos hospédes.",hotel,-1.0
+"Excelente para se hospedar com a família porque nos quartos há uma cozinha com geladeira, microondas e cafeteira.",cozinha,1.0
+"Os quartos são bem pequenos e não tem frigobar, o elevador mau cabe 2 pessoas.",quarto,-1.0
+"Uma vista deslumbrante de Paris, da janela/sacada do hotel... em frente o Jardim das Toulleries, a esquerda o Louvre, ao fundo Notre-Dame, a direita o Arco do Triunfo e La Torre!",hotel,1.0
+"Hotel situado na zona estudantil de Paris, servico razoavel,acomodacoes modicas,precos de acordo com as limitacoes familiares do hotel,embora simples um hotel simpatico,um bar sem grandes pretensoes mas agradavel,o local e bom perto do boulevard saint germain,para quem quiser economizar com estadia vale a pena !",hotel,0.0
+Voltaria.,No aspect,
+"Trocamos 3 vezes de quarto, mas um era pior que o outro, isso porque é um hotel 100% para não fumantes.",No aspect,
+"O atendimento é personalizado e apesar de não ter uma recepção tradicional, fomos muito bem acessorados pela gerência.",atendimento,1.0
+As salas de recepção e de café da manhã énão refletem um conforto de hotel 4 estrelas da rede Accor.,café da manhã,1.0
+Por duas vezes ficamos bloqueadas no nosso andar por avaria do ascensor.,No aspect,
+"HOTEL SEM ACESSIBILIDADE, IMPOSSIVEL PARA PESSOAS QUE NAO PODEM SUBIR ESCADAS OU QUE TENHAM MALAS .",No aspect,
+Recomendo o Hotel.,No aspect,
+"O hotel é novo, apesar de eu ter que trocar de quarto duas vezes.",No aspect,
+Eu me senti enganada pelas fotos no site.,No aspect,
+Resultado: vários minutos de expera para pegar um elevador...,No aspect,
+A boate Galery dentro do hotel é pequena mas possui ótima música e é bem frequentada.,No aspect,
+Elevadores modernos e rápidos.,elevador,1.0
+Estive no hotel em maio de 2012.,No aspect,
+The staff is very friendly.,No aspect,
+Os únicos problemas são a internet muito lenta e o espaço para café da manhã minúsculo.,internet,-1.0
+"O café da manhã por 7 euros por pessoa é simples, porém é um bom preço para Paris que é uma cidade muito cara.",preço,1.0
+Há duas recepcionistas brasileiras e o gerente do hotel é super atencioso e tenta fazer o máximo para vc sair com a melhor impressão.,gerente,1.0
+"O hotel é excelente: aconchegante, confortável, bem localizado.",hotel,1.0
+"Reclamamos e pedimos para mudar de quarto, porem nos foi dito que nao havia quartos disponiveis para mudanca.",No aspect,
+"Os melhores quartos estão na torre 2 que foi reformada, mas ainda continua com móveis pesados.",quarto,1.0
+O café da manhã continental é correto.,café da manhã,1.0
+Existem vários locais para tomar Café ao lado do Hotel.,No aspect,
+O quarto é pequeno mas foi suficiente para mim e minhas malas.,quarto,0.0
+"Como o bairro de Bercy não é turístico, convive-se mais de perto com o legítimo parisiense.",No aspect,
+Dissem na portaria que esta lotado e festa so para convidados.,No aspect,
+O café da manhã ficou um pouco a desejar e achei a suíte apertada para três pessoas; o hotel não oferece nenhum serviço de quarto além da limpeza diária.,café da manhã,1.0
+"Diária de R$ 99 direto no hotel, pelo booking estava R$89 descobri depois.",hotel,0.0
+Room Tip: os apartamentos categoria luxo sao otimos,No aspect,
+"Ao lado do hotel, na parte de trás, tem um lugar ótimo para tomar café da manhã, que não está incluído na diária.",No aspect,
+"Café da manhã um pouco caro, mas por perto não econtrei nada interessante para substituir,",café da manhã,-1.0
+"Funcionários atenciosos; localização excelente, a uma curta caminhada de vários pontos turísticos e do metrô; limpo e confortável, hotel charmoso estilo europeu; café da manhã com pouca variedade para quem gosta de salgados, mas com produtos de excelentte qualidade; os petiscos e bebidas no final de tarde são restauradores, após um dia de intensas caminhadas.",localização,1.0
+É preciso segurar com uma mãe e tomar banho com a outra.,No aspect,
+"Os quartos são antigos, os corredores abertos, não há restaurante, apenas uma Pizza Hut Express minúscula para um hotel enorme.",quarto,-1.0
+"Atendimento espetacular, quartos confortáveis e limpos, um bom café da manhã, supermercado em frente, metrô à 200 m, elevadores funcionado bem.",quarto,1.0
+"Escolhi pelo site e fiquei encantada com o atendimento, e a qualidade do hotel em geral.",hotel,1.0
+Sem contar que eles oferecem early check-in com a maior tranquilidade.,No aspect,
+"Boa opção de hotel para um dia que não esteja tão quente, pois o mesmo não possui ar condicionado, e quando fui, não havia disponibilidades de ventilador.",No aspect,
+há diversas estações de metro proximas e taxis sempre por perto.,No aspect,
+"Tem metro super perto a uma quadra,e tudo muito facil.....Gasta se do aeroporto de La guardia $45 dolares de taxi...e ate o JFK gastamos 58 .....Mais quarto confortavel,ficamos no 40 andar .",aeroporto,0.0
+"Uma funcionaria da recepção entende português, o que facilita a comunicação, mas todos são bastante solícitos e prestativos.",recepção,1.0
+Eles tem um equipamento bem localizado mas que precisa de reparos.,No aspect,
+Internete nao funciona nos quartos e sim so na recepção.,internet,-1.0
+"Hotel fica situado perto da Opera e das Galerias La Fayette, para quem fizer o percurso de metro sai em CADET",No aspect,
+O apartamento é de qualidade superior e o staff é discreto e atencioso.,apartamento,1.0
+"Pode-se facilmente chegar ao Quartier Latin, sem esquecer a Rue Mouffetard (por favor...)",No aspect,
+Apesar de ser proximo a rodoviaria e do centro.,No aspect,
+"O hotel é muito limpo, contudo, os quartos nao oferecem comodidade para dormir pois as luzes externas do jardim do hotel ficam acesas á noite inteira e apesar das cortinas adentram o quarto.",hotel,0.0
+Amei minha estaida neste Hilton!,No aspect,
+Espera mais dos apartamento ar-condicionado barulhento com filtros que não são limpos à muito tempo....,No aspect,
+"Mais uma vez, o hotel não tomou qualquer providência.",hotel,-1.0
+"Achei o hotel muito bonito por dentro, o concierge é receptivo e simpático, o café da manhã é muito bom e o quarto no qual fiquei era ótimo.",café da manhã,1.0
+Bom para curtas estadias.,No aspect,
+"Quarto minúsculo, embora com cama boa e chuveiro quente.",chuveiro,1.0
+A equipe é bastante atenciosa e sempre procurou nos auxiliar.,No aspect,
+Metro a uma caminhada de uns 10 min.,No aspect,
+Mico total.,No aspect,
+Precisa melhorar muito!,No aspect,
+Excelente café da manhã e excelente localização.,localização,1.0
+Apesar na baita localização - muito próximo a Estação Rodoviária (Trem e Ônibus) o Hotel é terrível.,rodoviária,0.0
+"O hotel e muito bom, limpissimo, bem-localizado e com staff prestativo e simpatico.",hotel,1.0
+Recomendo!,No aspect,
+"O hotel é muito confortável, os funcionários são extremamente solícitos e simpáticos.",hotel,1.0
+"Pontos favoráveis: Hotel limpo e reformado, café da manhã muito bom, muito próximo de duas estações de metrô o que facilita tranquilamente a vida de quem vai a Paris.",hotel,1.0
+Vale a pena conhecer Room Tip: Os quartos não tem cheiro de mofo e nem de cigarro,quarto,1.0
+Room Tip: Apartamentos de fundo são sempre menos barulhentos.,apartamento,1.0
+Toda a decoração do hotel tipicamente francesa e aconchegante.,No aspect,
+O quarto estava sempre bem limpo e o banheiro relativamente novo.,quarto,1.0
+Não sei nem se posso chamar aquilo de hotel.,hotel,0.0
+"O Hotel está no melhor complexo de Las Vegas, é clean, chique, ótimo atendimento.",hotel,1.0
+A localização é talvez o ponto mais positivo do hotel: perto da estação Dupleix e a uma caminhada de 10 minutos da Torre Eiffel.,localização,1.0
+A simpatia dos funcionários deixa a desejar!,funcionários,-1.0
+Restuarante é muito bom e bem servido.,No aspect,
+Limpeza ruim e tardia (os quartos não eram limpos antes as 15:00) e alimentação muito cara.,limpeza,-1.0
+o atendimento é excelente  Room Tip: conheci o do terreo para quem nao quiser usar o elevador e o do segundo andar.,elevador,0.0
+"Reservas iguais resultam em quartos com camas de solteiros ou de casal, vai na sorte...",casal,0.0
+"O Hotel Novanox é uma boa proposta de custo-benefício, por se tratar de um hotel 3 estrelas e nível de limpeza muito bom para os padrões franceses.",limpeza,1.0
+Não recebemos nenhuma cortesia interessante pela lua de mel.,No aspect,
+"Voltarei, recomendo e indico.",No aspect,
+Nao há elevador.,elevador,0.0
+Máquina de café e capuccino disponível 24h.,No aspect,
+Recomendo!!,No aspect,
+A cinco quadras da Times Square!!,No aspect,
+Atendimento bom.,atendimento,1.0
+"O café da manhã é muito fraco, pelo valor da diária poderia ser bem melhor.",café da manhã,-1.0
+Internet lenta.,internet,-1.0
+Superou as expectativas.,No aspect,
+no dia seguinte trocamos de quarto.,No aspect,
+"Funcionários gentis, quartos novos e limpos (não são enormes, mas coube nossas 4 malas!), internet wi fi de graça, na esquina da rua tem uma estação de metrô e um Starbucks.",rua,0.0
+"Lá tudo é baixo, tem que se andar praticamente abaixado.",No aspect,
+"Este hotel tem um padrão superior aos Mercure do Brasil, principalmente em relação ao café da manha, que valoriza os 8 euros cobrados (a comida na Europa em geral é cara).",hotel,1.0
+"Solicitamos falar com a gerente, mais de cinco vezes.",gerente,0.0
+"Fiquei 5 dias hospedado e fomos muito bem atendidos, apesar da enorme quantidade de quartos.",No aspect,
+"Hotel pequeno, quarto pequeno (mas muito ajeitado)  , mas muuuuito charmoso, quartos limpíssimos, camas super confortáveis, Uma Ducha maravilhosa para tomar banho, piscina aquecida, academia, sauna.",piscina,1.0
+"Excelente localização, confortável com staff formado por funcionários educadíssimos e atenciosos.",localização,1.0
+Quartos razoáveis com ar condicionado de janela.,quarto,1.0
+"Quarto muito pequeno, porém a cama é confortável.",cama,1.0
+Tente se hospedar em andares superiores ao 20 para ter uma vista melhor ainda.,No aspect,
+"Maravilhosa localizaçao, perto dos melhores restaurantes de St. Germain....",No aspect,
+Há que se avaliar com cuidado a questão custo benefício.,No aspect,
+"Os quartos são ótimos, grandes, arejados, limpíssimos.",quarto,1.0
+"O lounge e a recepção do Hotel são excelentes, bem espaçosos e os funcionários são bastante atenciosos.",funcionários,1.0
+"Mas mantém a mesma qualidade em termos de roupagem, camas, café da manhã, atendimento dos funcionários etc...",funcionários,1.0
+"Não se deixe enganar pelas fotos , ao chegar no hotel a recepção é legal mais quando chega nos corredores escuros onde as lâmpadas não acendem e fica difícil encontrar seu quarto, ao entrar encontrará um quarto onde nem tudo funciona lâmpadas queimada balheiro com aspecto ruim e tudo antigo parq os alérgicos o carpete antigo em geral uma péssima opção.",carpete,-1.0
+muito pratico para quem já conhece Las Vegas e precisa de um hotel de apoio com facilidade de entrar e sair a qualquer momento.,No aspect,
+"Muito fácil acesso ao metrô, perto de restaurantes, supermercados, lojas e claro da rua do Louvre - Rue de Rivoli.",lojas,1.0
+Banheiro muito pequeno.,No aspect,
+Vale a pena!!!,No aspect,
+"O hotel Comfort Muffetard é aconchegante, a localização excelente, ruas românticas, cheias de restaurantes e cafés, lojas de vinhos, queijos, mercados, tudo acessível.",lojas,1.0
+"Os funcionários super prestativos , quarto limpo e confortável, sem contar que é um dos poucos que disponibiliza café da manhã, o que já é uma ajuda e tanto, e sempre tem café e chá na recepção.",funcionários,1.0
+Reservei este hotel por referência de amigos.,hotel,-1.0
+"O café da manhã é razoável, o atendimento é bom, mas não tem piscina nem sala de ginástica.",piscina,0.0
+"De resto, o serviço foi bom, com algumas ressalvas, que atribuo a necessidade de fechar cozinha e restaurante.",serviço,1.0
+Room Tip: Os apartamentos de fundos são mais silenciosos (os sinos da igreja incomodam um pouco).,apartamento,1.0
+"Gostei muito do serviço, os funcionários muito atenciosos, bom café da manhã, jantar de seg. a quinta de cortesia.",café da manhã,1.0
+"Cafezinho sempre quentinho na recepção, internet muito ruim.",recepção,1.0
+Sempre que chegávamos da rua o quarto estava com um cheirinho de limpeza super agradável.,rua,0.0
+"Quartos simples e bem pequenos com banheiro meia boca, ar condicionado algumas vezes barulhento, café da manha bem basico, e a internet, pasmem, 12 reais por 24h.",quarto,1.0
+"Café da manhã muito bom, internet com boa velocidade e gratuita, com ótimos restaurantes e cafés nas proximidades, enfim nada que tenha me decepcionado.",internet,1.0
+"A piscina não é das maiores, mas atende as necessidades.",piscina,1.0
+"Ao questionar na recepção, fomos informados que o hotel por ser muito grande, tem um período maio de arrumação.",No aspect,
+"Este foi o pior hotel que já fiquei em minha vida, tem mofos nas paredes, tentaram me por num apartamento abafado no subsolo que fedia a cigarro e é os corredores do hotel são um labirinto, pondo em risco os hóspedes em caso de incêndio.",hotel,-1.0
+"O quarto tem uma cama de casal super confortavel, o banheiro bem limpo e um sistema de calefação bem eficiente (estamos em fevereiro, a -3 C).",calefação,1.0
+"Na primeira noite ficamos em um quarto pequeno, porém muito bom...",No aspect,
+"Achei tudo lindo, inclusive o quarto que parece um apto de 2 quartos, tranquilo.",quarto,1.0
+"No mais tem um traslado gratuito para o Aeroporto de 15 em 15 minutos, o que ajudou a escolhê-lo!",aeroporto,0.0
+"Os funcionários foram atenciosos, não tive barulho, o quarto é bom e o banheiro muito grande.",funcionários,1.0
+"No geral, as impressōes não são das melhores.",No aspect,
+"Pra não falar na diferença de preço, alfo em torno de 300 euros de economia.",No aspect,
+Mas vale muito a pena pois o Hotel nao e daqueles velhos e também caros de NY.,No aspect,
+"A princípio nos disponibilizaram um apartamento no último andar com uma vista bonita, porém com um barulho insuportável no banheiro, ao lado de um electric closet, solicitamos a troca do apartamento e isso foi solucionado.",No aspect,
+"Restaurante excelente, já tinha saudades do pão fresco, tipo o de Portugal (o normal é aquele pão que parece pastilha elástica).",No aspect,
+A unica coisa boa desse hotel eh a localizacao!!!!,No aspect,
+"O hotel é muito simples, é muito barato e acho que pra quem quer economizar é valido.",hotel,1.0
+A localização é excelente a pouca distancia da Champs Elysees e da Torre Eifel.,localização,1.0
+"Deixa a desejar o tamanho da toalha que é muito pequena para um Hotel desse padrão e aqualidade do chuveiro, baixo, sem pressão e de dificl acesso.",toalha,-1.0
+"Um hotel onde embora haja mais de 3000pessoas hospedadas, você sempre se sentirá VIP!",No aspect,
+"Localizacao boa, da pra ir andando a restaurantes, teatro, metro...",teatro,1.0
+. Recomendadísimo.,No aspect,
+O hotel é bem aconchegante e os funcionários muito prestativos.,hotel,1.0
+"Hotel com dependenicas muito pequenas, quarto minúsculo.",quarto,-1.0
+Estive no Elara Hilton em maio de 2012.,No aspect,
+Recomendo a todos,No aspect,
+"Fiz a solicitação para quarto com banheira e roupoes para o casal, porem o quarto não tinha banheira e so foi disponibilizado um roupão, produtos e bebidas gratis somente para uma pessoa.",casal,0.0
+"O Hotel Bellevue é muito antigo, tem um ar decadente.",No aspect,
+O Hotel deveria rever sua política neste quesito.,No aspect,
+Por este preco ha melhores opcoes em NY .,No aspect,
+Nao ha desperdicio de espaco.,No aspect,
+No mesmo complexo há o Aria onde recomendo os restaurantes e principalmente o Buffet,No aspect,
+Room Tip: Difícil de dizer,No aspect,
+"Localização razoável - o hotel fica distante dos principais pontos turísticos da capital francesa, mas em compensação tem estações de metrô que levam o viajante a qualquer parte da cidade.",localização,0.0
+E o quarto de frente para o elevador tem barulho da máquina do elevador.,No aspect,
+"O quarto com cama de casal realmente é bem pequeno, mal havia espaço para abrir uma mala.",casal,0.0
+Não tenho nada a me queixar do hotel.,hotel,1.0
+"O quarto é muito pequeno, mas é limpo.",No aspect,
+Conserva restos de cafés velhos.,No aspect,
+"Foram atenciosos na recepção, porém na hora de pagar a conta, nos cobraram diárias a mais pelo estacionamento do carro, sendo que o carro ficou estacionado apenas um dia (e a moça da recepção não sabia fazer o extorno no cartão de crédito - que dor de cabeça!).",recepção,-1.0
+"Só o banheiro que deixa um pouco a desejar, mesmo assim tudo funcionava muito bem!!",No aspect,
+"Check-in, embora tenha fila é bem rápido e o check-out você pode fazer pela tela da TV, muito rápido e funcional.",tv,0.0
+Otima localizacao e um restaurante incrivel.,No aspect,
+"Contudo, encontrei um hotel agradável, com bom atendimento, ótimo serviço de quarto, refeições impecáveis.",serviço de quarto,1.0
+"Hotel de excelente qualidade, com certeza o melhor que já fiquei na Europa.",hotel,1.0
+"Café da manhã bom, com variedades e qualidade.",café da manhã,1.0
+O hotel não oferece café da manhã cortesia e a internet wifi só funciona no lobby do hotel.,internet,0.0
+"Gostei muito da cortesia do passeio no rio Sena, pena não dar para descer e depois voltar para o barco, mas mesmo assim valeu.",No aspect,
+"Room Tip: O quarto número 108, com terraço, é com certeza o melhor.",No aspect,
+"As acomodações são excelentes, os quartos fantásticos, mas o atendimento é no atacado, sem qualquer pessoalidade.",atendimento,-1.0
+Pretendo retornar e certamente recomendo muito!,No aspect,
+"Vale lembrar que todos os hoteis aqui em Las Vegas cobram a taxa obrigatoria de resort, que neste hotel e de US$ 16,79 com impostos (a unica vantagem que eu vi foi do uso da internet WI-FI no quarto, pois piscina, fax, ligacoes locais, eu nao estou usando e nao oferecem cafe da manha incluso na diaria.",No aspect,
+Room Tip: As vistas mais bonitas são nos andares mais altos do hotel.,No aspect,
+O hotel é aconchegante e tem uma localização privilegiada muito próximo a Notre Dame (menos de 5 min a pé) e ao Quartier Latin.,localização,1.0
+O banheiro é uma atração a parte com a melhor ducha de todos os tempos.,ducha,1.0
+"Único problema é uma boate, um pouco barulhenta, mas o som não chega nos quartos.",No aspect,
+As toalhas e lençóis estavam sempre limpos.,toalha,1.0
+"Demasiadamente fraco, cafe da manha em local apertado.",No aspect,
+Ótimo Hotel com quartos impecáveis.,quarto,1.0
+"Excelente hotel, bom atendimento, quarto super espaçoso, limpo e organizado.",quarto,1.0
+A pé chega-se facilmente a muitos lugares de interesse.,No aspect,
+Idem para o banheiro.,No aspect,
+"Localização é o único ponto negativo, pois fica a 1,7 km da Times Square (à pé) e o metrô mais perto fica linge, + ou - 800 mts.",No aspect,
+"O elevador pode assustar quem Ã© claustrofÃ³bico, entÃ£o opte por andares mais baixos.",elevador,-1.0
+O que não teria acontecido se fossem organizados e prestassem bastante atenção a tudo que foi acordado entre entre o estabelecimento e cliente.,estabelecimento,0.0
+"O banheiro estava pior ainda, com cheiro horrível , pia e banheira entupida.",pia,-1.0
+"Minha experiência foi bem agradável no hotel, fiquei em um apartamento muito limpo, tudo novinho e reformado.",apartamento,1.0
+"Eu nao sei quanto aos demais Fairfield Inn, mas esse de Ananheim realmente é muito ruim.",No aspect,
+"Ponto positivo para a rede Wi-Fi, que funciona perfeitamente.",No aspect,
+"O hotel esta em uma excelente zona de New York, a duas quadras do Central Park, e próximo as melhores lojas e restaurantes da cidade, mas as suites, o restaurante e a recepção precisam passar por uma remodelação para manter sua categoria, quanto aos funcionários do hotel são muito prestativos e atenciosos.",hotel,1.0
+Fiquei num quarto triplo com minha esposa e duas crianças (1 cama casal e 1 solteiro) e foi suficiente.,cama,1.0
+Banheiro minúsculo prara banho e uso sanitário (o box mede 50X50cm!).,No aspect,
+"Café da manhã com preço acima da média, em relação aos outros hotéis da rede.",café da manhã,-1.0
+"Este hotel é um daqueles que cobre um santo e acaba descobrindo o outro, ou seja, ele não é muito bom (apesar de eles terem reformado a maioria dos quartos agora), mas tem uma localização ótimo: bem no centro velho.",localização,1.0
+"Fica a duas quadras do charmoso Bercy Vilage, um centro comercial, com lojas, mercado e bons restaurantes, construído em antigos depósitos de vinho e da estação do metrô.",No aspect,
+Excelente localização!!,localização,1.0
+"A sorte é que eu comprei shampoo e sabonete por lá mesmo, no Walmart....",No aspect,
+"Café da manhã fraco, mas aceitável.",No aspect,
+"Boa relação custo-benefício, fica muito perto do Times Square, os quartos são bem limpos e aconchegantes, a cama é ótima, não tem café da manhã, mas são fornecidos café, chá e açúcar diariamente, e tem muitos mercadinhos e starbucks há uma quadra de distância.",quarto,1.0
+"Fica cerca de 5 quadras da Torre Eiffel e possui um carrefour city em uma rua próxima, além de bistrôs e farmácias.",farmácia,1.0
+O hotel possui diversas atrações como quase todos os de Las Vegas.,hotel,1.0
+"Estive com minha irmã neste Hotel, fomos recebidas com muita receptividade,conforto.",hotel,1.0
+"O Regente oferece apartamentos mobiliados, sendo que fiquei num com cozinha,sala, 1 dormitório e banheiro.",apartamento,0.0
+Os recepcionistas muito atenciosos.,No aspect,
+"Hotel central ,acolhedor e pessoal duma simpatia extrema sempre sorridentes e prestáveis,",hotel,1.0
+"A localização é boa, há uma estação de metrô próxima, a região é a da Torre de Montparnasse.",localização,1.0
+"Amplo quarto, excelentes camas e uma enorme televisão de plasma, muito limpo e organizado.",quarto,1.0
+O Café da manhã é bom.,café da manhã,1.0
+"A localização é boa, um bairro tipicamente francês com avenidas movimentadas por perto, mas com tranquilidade e sem muito barulho.",localização,1.0
+"Aconselho procurar outros hotéis e deixar esse como última alternativa, ou então a hospedagem deve ser unicamente baseada na proximidade do aeroporto.",No aspect,
+"Fica bem localizado e durante o dia tem muitas coisas ao redor para aproveitar, lojas, restaurantes, cinema, shopping, Mercado Publico com otimas comidas e a melhor banca de sorvete e salada de frutas.",lojas,0.0
+"Tivemos a impressão que por sermos brasileiras, nos foi dado o pior quarto e sem a menor preocupação de nos antender ....",No aspect,
+Bom atendimento.,atendimento,1.0
+Tem vários quadros com fotos e artigos pessoais de bandas e cantores.,No aspect,
+"não fica muito perto da Las Vegas Blvd, mas se você está de carro, é muito tranquilo... de carro fica 10min.",No aspect,
+"Ressaltando que a estação de metrô fica a menos de cinco minutos a pé e o custo de uma corrida de taxi para os principais pontos turísiticos de Paris, saem bem em conta.",No aspect,
+"O hotel é perto do metro e perto de alguns lugares que queria conhecer, entao fui andando...",No aspect,
+"Hotel muito bom, bem conservado, próximo de restaurantes, bistrôs e de uma estação de metrô.",hotel,1.0
+"Gostamos de tudo, sem dúvida é um hotel charmoso!",No aspect,
+"Ótima localização, custo beneficio excelente, funcionários atenciosos, hotel novo, quartos limpos, boas instalações, elevador mto rápido, bom café da manhã, Wifi grátis e muito boa.",hotel,1.0
+"Quarto limpo, vista perfeita.",No aspect,
+Essa foi minha segunda vez no Ibis Bastille.,No aspect,
+"Muito simples, esse hotel era nas décadas passadas, parada para meu pai q na época viajante, ficava hospedado no mesmo.",No aspect,
+"Hotel para pernoite, quartos antigos porém a limpeza é boa.",limpeza,1.0
+Adorei a experiência.,No aspect,
+"Tinha muitos brasileiros hospedados lá e tem café da manhã, incluso.",café da manhã,1.0
+"Hotel simples, com um café da manha simples mas muito gostoso, quartos super confortáveis,limpos,atendimento da recepção foi demais!",recepção,1.0
+Único ponto contra: baixos (ou nenhuns) conhecimentos de inglês do pessoal na receção.,No aspect,
+"Na verdade o hotel tem excelente localização,o tratamento não difere dos outros hoteis da rede mas o quarto é minúsculo e o banheiro nem se fala e o pior é o ar condicionado que não funciona numa Paris já com termômetros em cerca de 28 - 30º, e a explicação que foi dada na recepção não convence ninguem.",localização,1.0
+"Para quem quer ficar no hotel mais bem localizado em NY, este e o hotel.",hotel,1.0
+Otimo atendimento e uma realacao custo beneficio perfeita.,atendimento,1.0
+O hotel e muito bem localizado confortável com wifi livre e um bom café da manha incluso além de manter a todo momento um espaço com chás café leite chocolate quente o quarto e muito bom boa ducha fica próximo de tudo da para ir andando aos lugares mais interessante da ilha fica entre a 9/8 av bem próximo a time square quando voltar reservarei novamente.,hotel,1.0
+Está a uma estação do Times Square e uma rua do Empire State.,No aspect,
+Profissionais que falavam inglês e francês.,No aspect,
+"O único ponto negativo é o elevador, que é muito pequeno e mal cabe duas pessoas com as malas juntas.",elevador,-1.0
+"Enfim, foi uma excelente escolha",No aspect,
+O que vêem no site esta infinitamente distante da realidade.,No aspect,
+Não tenho absolutamente nada a reclamar.,No aspect,
+"Enfim, quero ficar sempre lá!!!",No aspect,
+Estive no Yotel em julho/2011.,No aspect,
+"Ele fica a 13 minutos de duas estações, Convention e Plaisance do metro.",No aspect,
+Funcionários prestativos e atenciosos.,funcionários,1.0
+Sempre alguém estava preocupado como estava nossa estadia no hotel e nossa visita por Nova York.,No aspect,
+O atendimento é excelente e o café da manhã é bom.,atendimento,1.0
+Não aconselho.,No aspect,
+"o grande ponto negativo é que entram a toda hora pessoas não hóspedes, que moram pelas redondezas- bairro pobre para os padrões de lá e ficam circulando no hotel, pedindo para subir no elevador com você dizendo que esqueceram os cartões do quarto, quando você está vendo que é mentira.",hotel,0.0
+"O hotel é barato, ficamos 4 dias, porém, as coisas em Paris são muito caras - água e comida.",No aspect,
+"Hotel típicamente parisiense, muitissimo bem localizado, lindo, elegante, com ótimo atendimento e por um preço bastante razoável!",preço,1.0
+O tratamento foi ótimo.,No aspect,
+Ouvia mais os hóspedes dos outros quartos.,No aspect,
+Piscina e quadra de tênis no alto do prédio.,No aspect,
+"Os quartos ao lado da rua tem barulho,peça interno.",rua,-1.0
+Hotel localizado em ponto estratégico de Paris.,hotel,1.0
+"o hotel oferece serviço básico, quarto simples, um ar condicionado bom, banheiro grande e tv com poucos canais.",tv,-1.0
+"Ou seja, na nossa próxima viagem a NY, não temos dúvida da nossa escolha de estadia!",No aspect,
+Estive no início de janeiro hospedada no Hotel Affinia Dumont e voltei totalmente satisfeita.,hotel,1.0
+"O toque especial foi o Cesar, recepcionista brasileiro que já está há dez anos em New York.",No aspect,
+Desde a recepção do hotel onde nem preenche vouche.,recepção,-1.0
+Com certeza retornaremos a esse hotel,No aspect,
+"A equipe é um pouco impessoal, mas bem solícita e educada.",No aspect,
+Reservamos prara 6 dias e só conseguimos ficar um.,No aspect,
+O valor do café era fixo e tínhamos que escolher poucos itens.,No aspect,
+Realmente uma experiência em Las Vegas é inesquecível.,No aspect,
+"O hotel é limpo, organizado, tem um bom café da manhã, ótima localização.",localização,1.0
+"O Hotel basicamente so tem os quartos, sao todos pequenos e aconchegantes, mas e bem barato....ah!!! a localizacao e boa...",hotel,1.0
+"A portaria é arrumadinha e os funcionários corteses, mas no elevador já dá pra sentir o drama.",elevador,-1.0
+"Wi-fi instável, a conexão cai.",No aspect,
+um belo restaurante com um otimo happy hour.,No aspect,
+"O hotel está muito bem localizado, proximo ao metro da Republique e com várias opções de restaurantes e lanchonetes.",hotel,1.0
+Recomendo a estadia !,No aspect,
+Muito ruim.,No aspect,
+Bom atendimento / estrutura.,atendimento,1.0
+"Enfim, recomendo o hotel!",No aspect,
+PERFEITO!!,No aspect,
+O preço foi bom (pra NY) mas não gostei do quarto com banheiro privativo.,quarto,-1.0
+O café da manhã é fraquíssimo mas como tinha cozinha não me fez falta .,café da manhã,-1.0
+Nesse nao fico mais.,No aspect,
+estava em manutenção....,No aspect,
+Tem internet grátis (wirelles) e também computadores no Lobby com acesso à internet gratuitamente.,internet,1.0
+Atendimento cortes e bilingue.,atendimento,1.0
+"Quarto - grande com tv LCD a cabo  Internet - wi fi free  Cama - bom tamanho , roupa cama nova  Chuveiro - muita água quente e fácil de regular   Ar condicionado - quente e frio funcionam  Carregador de iPhone disponível",cama,1.0
+"Ficamos na HRH Tower e as suítes espaçosas, modernas e bem decoradas foram perfeitas para minha família.",suíte,1.0
+tudo que precisei me ajudaram.,No aspect,
+Opte por categorias acima.,No aspect,
+"Esta foi a terceira vez que nos hospedamos neste hotel, novamente fomos extremamente bem recebidos pela equipe do hotel, especialmente a gerente Patricia e o Sr Jorge Sousa, sempre solícitos com nossas necessidades, que nao são poucas quando se viaja com uma criança de 3 anos e outra de 1, os quartos são pequenos, porém limpos e aconchegantes, o Cafe da manha e simples, mas de extrema qualidade e a localização perfeita, para nos, a melhor de paris, voltaremos com certeza.",localização,1.0
+"O hotel é um pouco antigo, mas bem aconchegante!",hotel,1.0
+Pontos de onibus na porta e é possivel se locomover atés os outlets e a parte norte da cidade de las Vegas.,cidade,0.0
+"Nas três vezes encontrei os quartos limpos e organizados, chuveiro também funcionando mto bem.",chuveiro,1.0
+"O Hotel foi uma ótima escolha, boa localização próximo do Times Square, quarto e wc comfortáveis e café da manhã incluso.",localização,1.0
+É um hotel que engana qualquer walk in pela recepção bonita.,recepção,1.0
+Eles demoram a arrumar os quartos e não são muito sorridentes.,No aspect,
+"Ótimo custo benefício, quartos confortáveis e limpos.",quarto,1.0
+"Além disso, a estação de metro mais próxima encontra-se a menos de 5 min a pé do hotel.",No aspect,
+Em frente encontra-se uma paragem de autocarro com vários destinos incluindo a Tour Eiffel e Musée du Louvre.,No aspect,
+"Hotel é bem localizado, estrutura física boa, porém os preços são acima do merecido, as taxas não coincidiram com as da reserva.",preço,-1.0
+Tem a vantagem da localização em rua charmosa e muito proximo do Metro Place Rouge e a 20 minutos à pé da catedral Notre Dame.,localização,1.0
+"Ótima localização, a 20 minutos aproximadamente da Torre Eiffel, perto das estações de metro Charles Michels e Bir-Hakeim, comércio em geral e restaurates próximos ao hotel.",localização,1.0
+O elevador é para uma pessoa e uma mala pequena e cheira queimado.,elevador,-1.0
+"Café da manhã razoável, boa localização e bom atendimento.",localização,1.0
+"Destaque para preocupação com pequenos detalhes, como disponibilidade de toalhas de rosto e fraldas descartáveis no banheiro comum do hall.",toalha,1.0
+Os quartos são bem espaçosos e confortáveis.,No aspect,
+Passei meu aniversário lá e ganhei até um proseco e frutas.,No aspect,
+O ponto é movimentado durante o dia mas a partir das 19:30 as lojas de rua fecham e o local se torna extremamente perigoso.,rua,0.0
+Las Vegas é conhecida pelos seus hotéis luxuosos e seus cassinos.,No aspect,
+"A localização é excepcional, a melhor que já vi, fica ao lado do metrô, exatamente ao lado.",localização,1.0
+"O nosso quarto era pequeno, com cama queen, mas muito confortável!",cama,1.0
+Quartos são pequenos mas limpos e agradáveis.,quarto,1.0
+Aceitou nosso cartão pré pago para pagamento (VTM).,No aspect,
+"The city club hotel é um hotel pequeno muito próximo a times square , com restaurantes , farmácia e bancos próximos , além de estações do metro !",hotel,1.0
+"Bom hotel para uma viagem de negócio, principalmente se você for trabalhar na região da La Defense ou Levailles-Perret.",No aspect,
+O hotel é pequeno e bem localizado.,No aspect,
+Banheiro novo.,No aspect,
+Um porém que no café da manhã tinha muita fila no horário de 8:30 a 9:30 da manhã.,horário,1.0
+"Fiquei por duas noites no hotel, não tenho do que reclamar, fica próximo a Torre Eiffel...o quarto e o banheiro são bem pequenos, mas a cama é super confortável e a ducha é ótima!",ducha,1.0
+"Pessimo , simplesmente o pior Mercure que ja fiquei .",No aspect,
+Vegas tem vários hotéis bons mas o wynn é um caso aparte .,No aspect,
+"Isto é um problema, só tem no banheiro.",No aspect,
+"É extremamente bem localizado, na esquina do coração da Times Square.",No aspect,
+A localização é boa e o preço atende bem.,preço,1.0
+"A zona é sossegada, bem servida de transportes (metro) e de pequenos restaurantes e brasseries.",No aspect,
+Fica longe do centro mas perto do aeroporto.,aeroporto,0.0
+Proximo a otima boulangerie onde tomamos café da manha.,No aspect,
+"O Bellagio é lindíssimo, tem o espetáculo L´Eau - Cirque Du Soleil que é esplendoroso, além das fontes dançantes, que são um espetáculo à parte.",No aspect,
+Tem uma maquina de gelo no corredor que ajudou e muito durante nossa estadia!!,corredor,1.0
+"O quarto normalmente possui duas camas grandes, padrão americano.",cama,1.0
+"Para quem precisar de pegar avião bem cedo como eu tive que fazer, este é o melhor hotel de Porto Alegre, bem baratinho e muito perto do aeroporto, os quartos são equipados com ar-condicionado e tv, de manhã é oferecido um café da manhã reforçado, fica a dica.",hotel,1.0
+"As toalhas são horríveis, cinzas, pequenas e duras.",toalha,-1.0
+restaurantes.,No aspect,
+"A localização é muito boa, pois fica no centro da cidade, mas o atendimento deixa a desejar.",centro da cidade,0.0
+Resolvi deixar a meia no mesmo lugar e... a meia continuou lá os 5 dias da nossa estadia!!,No aspect,
+"Hotel aconchegante, básico, sem complicação e com ótima localização.",hotel,1.0
+Restaurante pequeno.,No aspect,
+Recomendo.,No aspect,
+"Apesar da estrutura estar em obras, ofereceu bom atendimento.. possui ponto de taxi próximo e a estrutura física do hotel está em reforma.... só não tinha elevador, pois está em manutenção.",elevador,-1.0
+"Já me hospedei várias vezes em hotéis da rede Accor, inclusive mercure, e este realmente me desapontou pela qualidade das instalações, tanto do quarto quanto da recepção.",recepção,-1.0
+"O hotel em si não oferece grande conforto e sofisticação, o elevador e os quartos são pequenos, mas vale lembrar que a grande maioria dos hotéis de Paris oferecem quartos não muito espaçosos.",No aspect,
+"Gostei da proximidade com o comércio, rodoviária e ponto de ônibus.",rodoviária,0.0
+"Hotel aconchegante, confortável e econômico.",hotel,1.0
+"Localização excelente, quarto amplo e confortável, café da manhã muito bom.",café da manhã,1.0
+"Room Tip: os apartamentos são um pouco pequenos, portanto aconselho a não levar malas muito grandes",apartamento,-1.0
+*solicite um ape de fundos pois tem um edificio em construção quase ao lado e as obras começam as 8 horas da manhã),No aspect,
+"Nao vale a pena, porque na frente do mesmo há umsa 3 cafeterias que servem excelentes cafés da manha por preços muito mais acessíveis.",No aspect,
+Room Tip: Os apartamentos centrais são mais silenciosos.,apartamento,1.0
+"Tudo funciona, tudo é luxo, o Ária tem tudo para que você faça de sua estada uma experiência inesquecível!",luxo,1.0
+"Estive por 8 dias hospedado neste hotel com minha familia e posso afirmar com todas as letras que este hotel cumpre o que promete em todos os quesitos oferecidos, e além de tudo é um dos único que oferecem um café da manhã aos moldes dos hotéis no Brasil, incluso na diária, sem contar que na recepção tem café, chocolate e biscoitos o dia inteiro..muita cortesia.",café da manhã,1.0
+"O quarto é pequeno, porém é super climatizado e clean.",No aspect,
+"Shopping com tudo que desejar, além de ter traslado gratuito para o aeroporto, precisando agendar apenas, 15 minutos antes da partida.",shopping,1.0
+"O café da manhã não está incluído no valor da diária, mas é um serviço oferecido pelo hotel.",café da manhã,0.0
+"O hotel é lindo, o serviço é impecável, o quarto que fiquei (108) com direito é terraço é caro mas sensacional, vale a pena.",hotel,1.0
+Os quartos voltados à Av. Farrapos são muito barulhentos.,quarto,-1.0

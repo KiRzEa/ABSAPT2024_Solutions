@@ -7,24 +7,29 @@ from datasets import Dataset, DatasetDict
 
 def tokenize_fn(examples):
     tokenized_inputs = tokenizer(examples['inputs'], examples['aspects'], padding='max_length', truncation=True, max_length=256)
-    tokenized_inputs['label'] = examples['sentiment']
+    try:
+        tokenized_inputs['label'] = examples['sentiment']
+    except:
+        return tokenized_inputs
     return tokenized_inputs
 
 def process(data_dir, tokenizer):
 
-    task2_df = pd.read_csv(os.path.join(data_dir, 'corrected_sent_data.csv'))
-    task2_df = task2_df[~(task2_df['aspects'] == 'No aspect')]
-    task2_df.sentiment = task2_df.sentiment.apply(lambda x: x + 1).astype(int)
-
-    train_df, val_df = train_test_split(task2_df, test_size=0.2, random_state=42)
+    train_df = pd.read_csv(os.path.join(data_dir, 'task2_train.csv'))
+    val_df = pd.read_csv(os.path.join(data_dir, 'task2_val.csv'))
+    test_df = pd.read_csv(os.path.join(data_dir, 'task2_test_segment.csv'))
+    train_df = train_df[~(train_df['aspects'] == 'No aspect')]
+    val_df = val_df[~(val_df['aspects'] == 'No aspect')]
+    train_df.sentiment = train_df.sentiment.apply(lambda x: x + 1).astype(int)
+    val_df.sentiment = val_df.sentiment.apply(lambda x: x + 1).astype(int)
 
     dataset_dict = datasets.DatasetDict({
         'train': datasets.Dataset.from_pandas(train_df).remove_columns(['__index_level_0__']),
         'validation': datasets.Dataset.from_pandas(val_df).remove_columns(['__index_level_0__']),
-        # 'test': datasets.Dataset.from_pandas(test_df)
+        'test': datasets.Dataset.from_pandas(test_df),
     })
 
-    tokenized_datasets =  dataset_dict.map(tokenize_fn, batched=True, remove_columns=['inputs', 'aspects', 'sentiment'])
+    tokenized_datasets =  dataset_dict.map(tokenize_fn, batched=True)
     tokenized_datasets.set_format('torch')
 
     return tokenized_datasets
