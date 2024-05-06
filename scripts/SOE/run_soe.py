@@ -137,3 +137,9 @@ if __name__ == '__main__':
     preds = np.argmax(preds, axis=-1)
     preds -= 1
     pd.DataFrame({'id': [_id.item() for _id in dataset_dict['test']['id']], 'sentiment': preds.tolist()}).to_csv('submission.csv', index=False, header=False, sep=';')
+
+    results = trainer.evaluate()
+    logger.info("***** Dev results *****")
+    for key in sorted(results.keys()):
+        logger.info("  %s = %s", key, str(results[key]))
+    
