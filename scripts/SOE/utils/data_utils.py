@@ -29,7 +29,7 @@ def process(data_dir, tokenizer):
         'test': datasets.Dataset.from_pandas(test_df),
     })
 
-    tokenized_datasets =  dataset_dict.map(tokenize_fn, fn_kwargs={'tokenizer': tokenizer}batched=True)
+    tokenized_datasets =  dataset_dict.map(tokenize_fn, fn_kwargs={'tokenizer': tokenizer}, batched=True)
     tokenized_datasets.set_format('torch')
 
     return tokenized_datasets
