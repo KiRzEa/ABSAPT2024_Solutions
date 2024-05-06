@@ -133,6 +133,6 @@ if __name__ == '__main__':
 
     trainer.train()
 
-    preds, labels = trainer.predict(dataset_dict['test'])
+    preds, labels, _ = trainer.predict(dataset_dict['test'])
     preds -= 1
     pd.DataFrame({'id': dataset_dict['test'], 'sentiment': preds.tolist()}).to_csv('submission.csv', index=False, header=False)
