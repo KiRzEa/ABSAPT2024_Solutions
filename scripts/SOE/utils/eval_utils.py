@@ -13,14 +13,14 @@ def compute_metrics(p):
 
     bal_acc = balanced_accuracy_score(labels, predictions)
     acc = accuracy.compute(predictions=predictions, references=labels)["accuracy"]
-    f1 = f1_score.compute(predictions=predictions, references=labels)["f1"]
-    r = recall.compute(predictions=predictions, references=labels)["recall"]
-    p = precision.compute(predictions=predictions, references=labels)["precision"]
-    
+    mac_f1 = f1_score.compute(predictions=predictions, references=labels, average='macro')["f1"]
+    mic_f1 = f1_score.compute(predictions=predictions, references=labels, average='micro')["f1"]
+    weighted_f1 = f1_score.compute(predictions=predictions, references=labels, average='weighted')["f1"]
+
     return {
-        "precision": p,
-        "recall": r,
-        "f1": f1,
-        "accuracy": acc,
-        "balanced_accuracy": bal_acc
+        "Macro F1-score": mac_f1,
+        "Micro F1-score": mic_f1,
+        "Weighted F1-score": weighted_f1,
+        "Accuracy": acc,
+        "Balanced Accuracy": bal_acc
     }
