@@ -82,8 +82,8 @@ if __name__ == '__main__':
     output_dir = model_dir + 'results'
     logging_dir = model_dir + 'results'
     # get best model through a metric
-    metric_for_best_model = 'eval_f1'
-    if metric_for_best_model == 'eval_f1':
+    metric_for_best_model = 'eval_BalancedAccuracy'
+    if metric_for_best_model == 'eval_BalancedAccuracy':
         greater_is_better = True
     elif metric_for_best_model == 'eval_loss':
         greater_is_better = False

@@ -18,9 +18,9 @@ def compute_metrics(p):
     weighted_f1 = f1_score.compute(predictions=predictions, references=labels, average='weighted')["f1"]
 
     return {
-        "Macro F1-score": mac_f1,
-        "Micro F1-score": mic_f1,
-        "Weighted F1-score": weighted_f1,
+        "MacroF1": mac_f1,
+        "MicroF1": mic_f1,
+        "WeightedF1": weighted_f1,
         "Accuracy": acc,
-        "Balanced Accuracy": bal_acc
+        "BalancedAccuracy": bal_acc
     }
