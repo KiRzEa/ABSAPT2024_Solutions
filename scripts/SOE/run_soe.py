@@ -133,6 +133,7 @@ if __name__ == '__main__':
 
     trainer.train()
 
-    preds, labels, _ = trainer.predict(dataset_dict['test'])
+    preds, _, _ = trainer.predict(dataset_dict['test'])
+    preds = np.argmax(preds, axis=-1)
     preds -= 1
-    pd.DataFrame({'id': dataset_dict['test'], 'sentiment': preds.tolist()}).to_csv('submission.csv', index=False, header=False)
+    pd.DataFrame({'id': [_id.item() for _id in dataset_dict['test']['id']], 'sentiment': preds.tolist()}).to_csv('submission.csv', index=False, header=False)
