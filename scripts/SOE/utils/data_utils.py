@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import datasets
 from datasets import Dataset, DatasetDict
 
-def tokenize_fn(examples):
+def tokenize_fn(examples, tokenizer):
     tokenized_inputs = tokenizer(examples['inputs'], examples['aspects'], padding='max_length', truncation=True, max_length=256)
     try:
         tokenized_inputs['label'] = examples['sentiment']
