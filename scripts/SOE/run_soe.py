@@ -70,7 +70,7 @@ if __name__ == '__main__':
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
     label2id = {'positive': 2, 'neutral': 1, 'negative': 0}
     id2label = {2: 'positive', 1: 'neutral', 0: 'negative'}
-    model = AutoModelForSequenceClassification.from_pretrained('neuralmind/bert-base-portuguese-cased', num_labels=len(label2id), id2label=id2label, label2id=label2id)
+    model = AutoModelForSequenceClassification.from_pretrained(args.model_name, num_labels=len(label2id), id2label=id2label, label2id=label2id)
     dataset_dict = process(args.data_dir, tokenizer)
 
     total_steps_epoch = len(dataset_dict['train']) // (args.batch_size * args.gradient_accumulation_steps)
