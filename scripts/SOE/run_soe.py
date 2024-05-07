@@ -142,4 +142,6 @@ if __name__ == '__main__':
     print("***** Dev results *****")
     for key in sorted(results.keys()):
         print("  %s = %s", key, str(results[key]))
+
+    print(trainer.evaluate())
     
