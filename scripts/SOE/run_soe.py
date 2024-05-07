@@ -139,7 +139,7 @@ if __name__ == '__main__':
     pd.DataFrame({'id': [_id.item() for _id in dataset_dict['test']['id']], 'sentiment': preds.tolist()}).to_csv('submission.csv', index=False, header=False, sep=';')
 
     results = trainer.evaluate()
-    logger.info("***** Dev results *****")
+    print("***** Dev results *****")
     for key in sorted(results.keys()):
-        logger.info("  %s = %s", key, str(results[key]))
+        print("  %s = %s", key, str(results[key]))
     
