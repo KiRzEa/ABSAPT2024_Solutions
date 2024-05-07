@@ -149,4 +149,4 @@ if __name__ == '__main__':
     results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
     logger.info("***** Dev results *****")
     for key in sorted(results.keys()):
-        logger.info("  %s = %s", key, str(results[key]))
+        logger.info("  %s = %s".format(key, str(results[key])))
