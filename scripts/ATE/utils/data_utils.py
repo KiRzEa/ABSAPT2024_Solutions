@@ -108,7 +108,6 @@ def process(data_dir, tokenizer, level):
     ate_test_data['tokens'] = ate_test_data.apply(tokenize, axis=1)
 
     ate_train_data = ate_train_df.groupby('inputs').agg(list).reset_index()
-    print(ate_dev_df)
     ate_dev_data = ate_dev_df.groupby('inputs').agg(list).reset_index()
     
     train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_data)))
