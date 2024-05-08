@@ -33,7 +33,7 @@ def concat_lists(series):
     concatenated_list = []
     for lst in series:
         concatenated_list.extend(lst)
-    return concatenated_list
+    return set(concatenated_list)
 
 def extract_aspect(tokens, ner_tags):
     aspects = []
