@@ -28,6 +28,13 @@ def compute_metrics(p):
         "accuracy": results["overall_accuracy"],
     }
 
+
+def concat_lists(series):
+    concatenated_list = []
+    for lst in series:
+        concatenated_list.extend(lst)
+    return concatenated_list
+
 def extract_aspect(tokens, ner_tags):
     aspects = []
     aspect_tokens = []

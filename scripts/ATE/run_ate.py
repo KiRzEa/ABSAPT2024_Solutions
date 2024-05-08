@@ -147,6 +147,10 @@ if __name__ == '__main__':
     test_preds = predict(trainer, dataset_dict['test'], inference=True)
     test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
     test_preds_df['predicted_aspects'] = test_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
+    if args.sentence_level:
+        test_preds_df = test_preds_df[['id', 'predicted_aspects']].groupby('id').agg({
+            'predicted_aspects': lambda x: concat_lists(x)
+        })
     test_preds_df[['id', 'predicted_aspects']].to_csv(os.path.join(model_dir, f'ATE_test_preds.csv'), index=False, header=False)
     
     results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
