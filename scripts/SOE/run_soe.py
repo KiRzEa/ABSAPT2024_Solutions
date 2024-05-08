@@ -22,6 +22,8 @@ if __name__ == '__main__':
     parser.add_argument('--data_dir',
                         type=str,
                         required=True)
+    parser.add_argument('--sentence_level',
+                        action='store_true')
     
     parser.add_argument('--batch_size',
                         type=int,
@@ -71,7 +73,7 @@ if __name__ == '__main__':
     label2id = {'positive': 2, 'neutral': 1, 'negative': 0}
     id2label = {2: 'positive', 1: 'neutral', 0: 'negative'}
     model = AutoModelForSequenceClassification.from_pretrained(args.model_name, num_labels=len(label2id), id2label=id2label, label2id=label2id)
-    dataset_dict = process(args.data_dir, tokenizer)
+    dataset_dict = process(args.data_dir, tokenizer, 'sentence' if args.sentence_level else 'document')
 
     total_steps_epoch = len(dataset_dict['train']) // (args.batch_size * args.gradient_accumulation_steps)
     logging_steps = total_steps_epoch

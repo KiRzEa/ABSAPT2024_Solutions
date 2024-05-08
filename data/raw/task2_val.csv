@@ -1,4 +1,4 @@
-inputs,aspects,sentiment
+inputs,aspectssentiment
 "O hotel é novo e tem bons quartos com aquecimento, bom café da manhã, internet liberada.",café da manhã,1.0
 O atendimento pelos recepcionista é pessimo e de mau humoro.,atendimento,-1.0
 "Ao lado do Hotel tem muitas cracudo, aviso a vcs e melhor durmido no carro",No aspect,

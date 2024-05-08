@@ -14,9 +14,9 @@ def convert_to_bio(df):
         aspects_span = [[i, j, 0] for i, j in zip(row['start_position'], row['end_position'])]
         tokens = []
         ner_tags = []
-        span_generator = TreebankWordTokenizer().span_tokenize(row['texto'])
+        span_generator = TreebankWordTokenizer().span_tokenize(row['inputs'])
         for span in span_generator:
-            tokens.append(row['texto'][span[0]:span[1]])
+            tokens.append(row['inputs'][span[0]:span[1]])
             is_aspect = False
             aspect_data = None
             for aspect_span in aspects_span:
@@ -38,9 +38,9 @@ def convert_to_bio(df):
 
 def tokenize(example):
     tokens = []
-    span_generator = TreebankWordTokenizer().span_tokenize(example['texto'].replace('`', '\''))
+    span_generator = TreebankWordTokenizer().span_tokenize(example['inputs'].replace('`', '\''))
     for span in span_generator:
-        tokens.append(example['texto'][span[0]:span[1]])
+        tokens.append(example['inputs'][span[0]:span[1]])
     return tokens
 
 def is_span_a_subset(span, aspect_span):
@@ -51,7 +51,7 @@ def is_span_a_subset(span, aspect_span):
     else:
         return True
 
-def tokenize_and_align_labels(dataset_unaligned, tokenizer, label_all_tokens=False):
+def tokenize_and_align_labels(dataset_unaligned, tokenizer, max_length, label_all_tokens=False):
     tokenized_inputs = tokenizer(dataset_unaligned["tokens"], truncation=True, is_split_into_words=True, max_length=512)
     labels = []
     for i, label in enumerate(dataset_unaligned[f"ner_tags"]):
@@ -74,7 +74,7 @@ def tokenize_and_align_labels(dataset_unaligned, tokenizer, label_all_tokens=Fal
     tokenized_inputs["labels"] = labels
     return tokenized_inputs
 
-def tokenize_fn(examples, tokenizer):
+def tokenize_fn(examples, tokenizer, max_length):
     tokenized_inputs = tokenizer(examples['tokens'], truncation=True, is_split_into_words=True, max_length=512)
     pseudo_labels = []
     for i, _ in enumerate(examples['tokens']):
@@ -98,17 +98,18 @@ def tokenize_fn(examples, tokenizer):
 def sent_process(data_dir, tokenizer):
     raise NotImplementedError
 
-def process(data_dir, tokenizer):
+def process(data_dir, tokenizer, level):
 
-    ate_train_df = pd.read_csv(os.path.join(data_dir, 'train2024.csv'), delimiter=';')
-    ate_dev_df = pd.read_csv(os.path.join(data_dir, 'task2_test.csv'), delimiter=';')
-    ate_test_df = pd.read_csv(os.path.join(data_dir, 'task1_test.csv'), delimiter=';')
+    ate_train_df = pd.read_csv(os.path.join(data_dir, f'task1/{level}/train.csv'), delimiter=';')
+    ate_dev_df = pd.read_csv(os.path.join(data_dir, f'task1/{level}/val.csv'), delimiter=';')
+    ate_test_df = pd.read_csv(os.path.join(data_dir, f'task1/{level}/test.csv'), delimiter=';')
 
     ate_test_data = ate_test_df.copy()
     ate_test_data['tokens'] = ate_test_data.apply(tokenize, axis=1)
 
-    ate_train_data = ate_train_df.groupby('texto').agg(list).reset_index()
-    ate_dev_data = ate_dev_df.groupby('texto').agg(list).reset_index()
+    ate_train_data = ate_train_df.groupby('inputs').agg(list).reset_index()
+    print(ate_dev_df)
+    ate_dev_data = ate_dev_df.groupby('inputs').agg(list).reset_index()
     
     train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_data)))
     dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_data)))
@@ -137,9 +138,9 @@ def process(data_dir, tokenizer):
     dev_ds = dev_ds.map(train_features.encode_example, features=train_features)
     test_ds = test_ds.map(test_features.encode_example, features=test_features)
 
-    tokenized_train = train_ds.map(tokenize_and_align_labels, fn_kwargs={'tokenizer': tokenizer}, batched=True)
-    tokenized_dev = dev_ds.map(tokenize_and_align_labels, fn_kwargs={'tokenizer': tokenizer}, batched=True)
-    tokenized_test = test_ds.map(tokenize_fn, fn_kwargs={'tokenizer': tokenizer}, batched=True)
+    tokenized_train = train_ds.map(tokenize_and_align_labels, fn_kwargs={'tokenizer': tokenizer, 'max_length': 512 if level == 'document' else 256}, batched=True)
+    tokenized_dev = dev_ds.map(tokenize_and_align_labels, fn_kwargs={'tokenizer': tokenizer, 'max_length': 512 if level == 'document' else 256}, batched=True)
+    tokenized_test = test_ds.map(tokenize_fn, fn_kwargs={'tokenizer': tokenizer, 'max_length': 512 if level == 'document' else 256}, batched=True)
 
     tokenized_datasets = DatasetDict({
         'train': tokenized_train,
@@ -153,4 +154,4 @@ def process(data_dir, tokenizer):
 if __name__ == '__main__':
     from transformers import AutoTokenizer
     tokenizer = AutoTokenizer.from_pretrained('neuralmind/bert-base-portuguese-cased', do_lower_case=True)
-    print(process('/workspaces/ABSAPT2024_Solutions/data', tokenizer))
+    print(process('/workspaces/ABSAPT2024_Solutions/data', tokenizer, 'sentence'))
