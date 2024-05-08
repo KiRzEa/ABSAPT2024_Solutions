@@ -22,6 +22,8 @@ if __name__ == '__main__':
     parser.add_argument('--data_dir',
                         type=str,
                         required=True)
+    parser.add_argument('--sentence_level',
+                        action='store_true')
     
     parser.add_argument('--do_lower_case',
                         action='store_true')
@@ -71,7 +73,11 @@ if __name__ == '__main__':
     
     tokenizer = AutoTokenizer.from_pretrained(args.model_name, do_lower_case=args.do_lower_case)
     model = AutoModelForTokenClassification.from_pretrained(args.model_name, num_labels=len(label_list))
-    dataset_dict = process(args.data_dir, tokenizer)
+    dataset_dict = None
+    if args.sentence_level:
+        dataset_dict = process(args.data_dir, tokenizer)
+    else:
+        dataset_dict = sent_process(args.data_dir, tokenizer)
 
     total_steps_epoch = len(dataset_dict['train']) // (args.batch_size * args.gradient_accumulation_steps)
     logging_steps = total_steps_epoch

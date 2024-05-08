@@ -95,6 +95,9 @@ def tokenize_fn(examples, tokenizer):
     tokenized_inputs["pseudo_labels"] = pseudo_labels
     return tokenized_inputs
 
+def sent_process(data_dir, tokenizer):
+    raise NotImplementedError
+
 def process(data_dir, tokenizer):
 
     ate_train_df = pd.read_csv(os.path.join(data_dir, 'train2024.csv'), delimiter=';')

@@ -1,9 +1,7 @@
 import os
 import pandas as pd
 
-from sklearn.model_selection import train_test_split
 import datasets
-from datasets import Dataset, DatasetDict
 
 def tokenize_fn(examples, tokenizer):
     tokenized_inputs = tokenizer(examples['inputs'], examples['aspects'], padding='max_length', truncation=True, max_length=256)
@@ -13,11 +11,16 @@ def tokenize_fn(examples, tokenizer):
         return tokenized_inputs
     return tokenized_inputs
 
+# document-level
+def sent_process(data_dir, tokenizer):
+    raise NotImplementedError
+
+# sentence-level
 def process(data_dir, tokenizer):
 
-    train_df = pd.read_csv(os.path.join(data_dir, 'task2_train.csv'))
-    val_df = pd.read_csv(os.path.join(data_dir, 'task2_val.csv'))
-    test_df = pd.read_csv(os.path.join(data_dir, 'task2_test_segment.csv'))
+    train_df = pd.read_csv(os.path.join(data_dir, 'task2/sentence/train.csv'), delimiter=';')
+    val_df = pd.read_csv(os.path.join(data_dir, 'task2/sentence/val.csv'), delimiter=';')
+    test_df = pd.read_csv(os.path.join(data_dir, 'task2/sentence/test.csv'), delimiter=';')
     train_df = train_df[~(train_df['aspects'] == 'No aspect')]
     val_df = val_df[~(val_df['aspects'] == 'No aspect')]
     train_df.sentiment = train_df.sentiment.apply(lambda x: x + 1).astype(int)
