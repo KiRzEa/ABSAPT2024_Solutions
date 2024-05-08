@@ -90,7 +90,7 @@ if __name__ == '__main__':
     elif metric_for_best_model == 'eval_loss':
         greater_is_better = False
 
-    args = TrainingArguments(
+    args_ = TrainingArguments(
         output_dir=output_dir,
         learning_rate=args.learning_rate,
         per_device_train_batch_size=args.batch_size,
@@ -124,7 +124,7 @@ if __name__ == '__main__':
 
     trainer = Trainer(
         model,
-        args,
+        args_,
         train_dataset=dataset_dict["train"],
         eval_dataset=dataset_dict["validation"],
         data_collator=data_collator,
