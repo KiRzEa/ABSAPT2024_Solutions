@@ -150,8 +150,8 @@ if __name__ == '__main__':
     if args.sentence_level:
         test_preds_df = test_preds_df[['id', 'predicted_aspects']].groupby('id').agg({
             'predicted_aspects': lambda x: concat_lists(x)
-        })
-    test_preds_df[['id', 'predicted_aspects']].to_csv(os.path.join(model_dir, f'ATE_test_preds.csv'), index=False, header=False)
+        }).reset_index()
+    test_preds_df[['id', 'predicted_aspects']].to_csv(os.path.join(model_dir, f'ATE_test_preds.csv'), index=False, sep=';')
     
     results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
     logger.info("***** Dev results *****")
