@@ -137,23 +137,27 @@ if __name__ == '__main__':
     trainer.train()
 
     dev_preds, dev_labels, ner_results = predict(trainer, dataset_dict['validation'])
-    ner_results.to_csv(os.path.join(model_dir, 'ner_results.csv'), index=False)
+    # ner_results.to_csv(os.path.join(model_dir, 'ner_results.csv'), index=False)
 
-    dev_preds_df = pd.DataFrame({'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
-    dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
-    dev_preds_df['true_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_labels']), axis=1)
-    dev_preds_df.to_csv(os.path.join(model_dir, 'ATE_dev_preds.csv'), index=False)
+    # dev_preds_df = pd.DataFrame({'id': list(range(len(dev_preds))), 'tokens': dataset_dict['validation']['tokens'], 'ner_prediction': dev_preds, 'ner_labels': dev_labels})
+    # dev_preds_df['predicted_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
+    # dev_preds_df['true_aspects'] = dev_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_labels']), axis=1)
+    # dev_preds_df.to_csv(os.path.join(model_dir, 'ATE_dev_preds.csv'), index=False)
 
-    test_preds = predict(trainer, dataset_dict['test'], inference=True)
-    test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
-    test_preds_df['predicted_aspects'] = test_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
-    if args.sentence_level:
-        test_preds_df = test_preds_df[['id', 'predicted_aspects']].groupby('id').agg({
-            'predicted_aspects': lambda x: concat_lists(x)
-        }).reset_index()
-    test_preds_df[['id', 'predicted_aspects']].to_csv(os.path.join(model_dir, f'ATE_test_preds.csv'), index=False, sep=';')
+    # test_preds = predict(trainer, dataset_dict['test'], inference=True)
+    # test_preds_df = pd.DataFrame({'id': dataset_dict['test']['id'], 'tokens': dataset_dict['test']['tokens'], 'ner_prediction': test_preds})
+    # test_preds_df['aspects'] = test_preds_df.apply(lambda row: extract_aspect(row['tokens'], row['ner_prediction']), axis=1)
+    # if args.sentence_level:
+    #     test_preds_df = test_preds_df[['id', 'aspects']].groupby('id').agg({
+    #         'aspects': lambda x: concat_lists(x)
+    #     }).reset_index()
+    # test_preds_df[['id', 'aspects']].to_csv(os.path.join(model_dir, f'ATE_test_preds.csv'), index=False, sep=';')
     
     results = eval_ate(dev_preds_df.predicted_aspects, dev_preds_df.true_aspects)
     logger.info("***** Dev results *****")
     for key in sorted(results.keys()):
         logger.info("  %s = %s".format(key, str(results[key])))
+
+
+    # dev_preds_df.rename(columns={'true_aspects': 'aspects'})[['id', 'aspects']].to_csv('ATE_dev_gt.csv', index=False, sep=';')
+    # dev_preds_df.rename(columns={'predicted_aspects': 'aspects'})[['id', 'aspects']].to_csv('ATE_dev_preds.csv', index=False, sep=';')
