@@ -109,6 +109,8 @@ def process(data_dir, tokenizer, level):
 
     # ate_train_data = ate_train_df.groupby('inputs').agg(list).reset_index()
     # ate_dev_data = ate_dev_df.groupby('inputs').agg(list).reset_index()
+    ate_train_data = ate_train_df[['aspects', 'start_position', 'end_position']].map(eval)
+    ate_dev_data = ate_dev_df[['aspects', 'start_position', 'end_position']].map(eval)
     
     train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_df)))
     dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_df)))
