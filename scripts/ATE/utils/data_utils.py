@@ -110,8 +110,8 @@ def process(data_dir, tokenizer, level):
     # ate_train_data = ate_train_df.groupby('inputs').agg(list).reset_index()
     # ate_dev_data = ate_dev_df.groupby('inputs').agg(list).reset_index()
     
-    train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_data)))
-    dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_data)))
+    train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_df)))
+    dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_df)))
     test_ds = Dataset.from_pandas(ate_test_data[['id', 'tokens']])
 
     label_list = sorted(list(set(tag for doc in train_ds['ner_tags'] for tag in doc)))
