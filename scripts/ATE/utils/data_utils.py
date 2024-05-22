@@ -44,6 +44,8 @@ def tokenize(example):
     return tokens
 
 def is_span_a_subset(span, aspect_span):
+    print(span[0], aspect_span)
+    print(type(span), type(aspect_span))
     if span[0] >= aspect_span[1]:
         return False
     elif span[1] < aspect_span[0]:
