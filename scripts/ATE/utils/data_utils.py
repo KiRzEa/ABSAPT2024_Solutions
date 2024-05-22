@@ -44,9 +44,9 @@ def tokenize(example):
     return tokens
 
 def is_span_a_subset(span, aspect_span):
-    print(span)
-    print(aspect_span)
-    print(type(span), type(aspect_span))
+    # print(span)
+    # print(aspect_span)
+    # print(type(span), type(aspect_span))
     if span[0] >= aspect_span[1]:
         return False
     elif span[1] < aspect_span[0]:
@@ -115,8 +115,8 @@ def process(data_dir, tokenizer, level):
     ate_train_data = ate_train_df[['aspects', 'start_position', 'end_position']].map(eval)
     ate_dev_data = ate_dev_df[['aspects', 'start_position', 'end_position']].map(eval)
     
-    train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_df)))
-    dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_df)))
+    train_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_train_data)))
+    dev_ds = Dataset.from_pandas(pd.DataFrame(convert_to_bio(ate_dev_data)))
     test_ds = Dataset.from_pandas(ate_test_data[['id', 'tokens']])
 
     label_list = sorted(list(set(tag for doc in train_ds['ner_tags'] for tag in doc)))
