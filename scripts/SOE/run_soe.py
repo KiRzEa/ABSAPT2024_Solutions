@@ -75,6 +75,8 @@ if __name__ == '__main__':
     model = AutoModelForSequenceClassification.from_pretrained(args.model_name, num_labels=len(label2id), id2label=id2label, label2id=label2id)
     dataset_dict = process(args.data_dir, tokenizer, 'sentence' if args.sentence_level else 'document')
 
+    print(dataset_dict['validation'])
+
     total_steps_epoch = len(dataset_dict['train']) // (args.batch_size * args.gradient_accumulation_steps)
     logging_steps = total_steps_epoch
     eval_steps = logging_steps
@@ -143,7 +145,12 @@ if __name__ == '__main__':
     results = trainer.evaluate()
     print("***** Dev results *****")
     for key in sorted(results.keys()):
-        print("  %s = %s", key, str(results[key]))
+        print(key, str(results[key]))
 
     print(trainer.evaluate())
+
+    preds, labels, _ = trainer.predict(dataset_dict['validation'])
+    preds = np.argmax(preds, axis=-1)
+    preds -= 1
+    pd.DataFrame({'texts': dataset_dict['validation']['inputs'], 'preds': preds, 'golds': labels}).to_csv('dev_preds.csv', index=False)
     
