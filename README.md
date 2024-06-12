@@ -1,6 +1,6 @@
-# BERTimentalAspect
+# AspectBERTiment
 
-BERTimentalAspect is an NLP project designed to perform Sentiment Orientation Extraction (SOE) and Aspect Term Extraction (ATE) using BERT, NER, and pair sentence classification techniques. This repository contains the source code and resources necessary to train and evaluate models for extracting sentiment and aspect terms from text data.
+AspectBERTiment is an NLP project designed to perform Sentiment Orientation Extraction (SOE) and Aspect Term Extraction (ATE) using BERT, NER, and pair sentence classification techniques. This repository contains the source code and resources necessary to train and evaluate models for extracting sentiment and aspect terms from text data.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ BERTimentalAspect is an NLP project designed to perform Sentiment Orientation Ex
   
 ## Introduction
 
-Sentiment analysis and aspect term extraction are critical components of understanding user opinions and feedback. BERTimentalAspect leverages BERT for efficient and accurate extraction of sentiment orientations and aspect terms from text. Named Entity Recognition (NER) is used for ATE, and pair sentence classification is applied for SOE.
+Sentiment analysis and aspect term extraction are critical components of understanding user opinions and feedback. AspectBERTiment leverages BERT for efficient and accurate extraction of sentiment orientations and aspect terms from text. Named Entity Recognition (NER) is used for ATE, and pair sentence classification is applied for SOE.
 
 ## Features
 
@@ -29,8 +29,8 @@ Sentiment analysis and aspect term extraction are critical components of underst
 To install the necessary dependencies, clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/BERTimentalAspect.git
-cd BERTimentalAspect
+git clone https://github.com/yourusername/AspectBERTiment.git
+cd AspectBERTiment
 pip install -r requirements.txt
 ```
 
@@ -75,7 +75,7 @@ python train.py \
 - --save_strategy (str, default='steps'): Save strategy to use during training.
 # Project Structure
 ```
-BERTimentalAspect/
+AspectBERTiment/
 │
 ├── data/                 # Dataset files
 ├── scripts/              # Scripts for training and evaluation
