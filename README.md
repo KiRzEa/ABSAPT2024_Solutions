@@ -11,7 +11,7 @@ BERTimentalAspect is an NLP project designed to perform Sentiment Orientation Ex
 - [Project Structure](#project-structure)
 - [Datasets](#datasets)
 - [Contributing](#contributing)
-- 
+  
 ## Introduction
 
 Sentiment analysis and aspect term extraction are critical components of understanding user opinions and feedback. BERTimentalAspect leverages BERT for efficient and accurate extraction of sentiment orientations and aspect terms from text. Named Entity Recognition (NER) is used for ATE, and pair sentence classification is applied for SOE.
